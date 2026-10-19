@@ -1,0 +1,30 @@
+
+Qué explicas
+
+1 Entorno y estructura listos
+
+Qué hace un entorno virtual y por qué lo usas
+
+2 Primera ejecución con tu contexto
+
+Qué contexto elegiste, de dónde vienen los datos y qué pregunta quieres responder
+
+3 Entender los datos
+
+Qué variables serán clave para tu decisión y cuáles te generan dudas
+
+4 Un error o una decisión técnica
+
+Qué pasó, cómo lo diagnosticaste y qué aprendiste
+
+5 Limpiar y describir
+
+Qué decidiste con los datos sucios y qué segmento o KPI llamó tu atención
+
+6 De los datos a la decisión
+
+Qué acción recomiendas, para quién y con qué evidencia
+
+7 Reflexión de transferencia
+
+Qué cambiarías con datos reales: límites, sesgos y privacidad

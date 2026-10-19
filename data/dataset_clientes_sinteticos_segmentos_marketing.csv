@@ -1,0 +1,1469 @@
+cliente_id,edad,genero,ciudad,ingreso_mensual,fecha_alta,visitas_web_30d,productos_vistos_30d,carritos_30d,compras_12m,gasto_total_12m,dias_desde_ultima_compra,categoria_preferida,canal_origen,campanas_recibidas_30d,emails_abiertos_30d,clics_campanas_30d,uso_cupon_12m,descuento_promedio,abandono_carrito_30d,monto_ultima_compra,compro_ultima_campana
+CL-00001,31,Masculino,Guadalajara,10900.0,2021-06-06,7,16,2,3,1538.66,19,Belleza,Orgánico,26,18,4,2,14.2,1,422.11,1
+CL-00002,18,Masculino,Veracruz,23900.0,2026-08-31,2,12,0,0,0.0,,Hogar y Muebles,Google Ads,9,6,0,0,0.0,0,,0
+CL-00003,26,Femenino,Mérida,27000.0,2023-12-15,15,27,1,0,0.0,,Hogar y Muebles,Meta Ads,8,2,0,0,0.0,1,,0
+CL-00004,31,Femenino,Aguascalientes,10900.0,2025-12-08,27,87,4,2,1472.7,280,Belleza,Directo,7,2,1,0,0.0,1,862.33,0
+CL-00005,29,Femenino,Ciudad de México,29000.0,2026-02-24,10,47,3,0,0.0,,Celulares,Meta Ads,15,6,1,0,0.0,3,,0
+CL-00006,52,Masculino,Puebla,12300.0,2025-04-04,1,2,0,1,1069.78,159,Hogar y Muebles,Orgánico,4,3,0,1,11.5,0,1069.78,0
+CL-00007,38,Femenino,Ciudad de México,38100.0,2023-10-09,12,43,1,4,7116.26,20,Hogar y Muebles,Google Ads,8,2,0,3,19.4,0,1876.99,1
+CL-00008,39,Femenino,Ciudad de México,23000.0,2022-05-30,13,18,1,11,20893.41,18,Hogar y Muebles,WhatsApp,20,5,1,8,17.4,0,3048.33,0
+CL-00009,43,Femenino,Ciudad de México,11300.0,2022-12-14,0,0,0,2,2588.0,286,Hogar y Muebles,Orgánico,5,0,0,1,13.7,0,1507.55,0
+CL-00010,40,Masculino,Cancún,8600.0,2023-11-15,3,6,0,6,7837.54,2,Electrodomésticos,Email,12,6,1,4,17.1,0,1558.21,0
+CL-00011,33,Femenino,Ciudad de México,18300.0,2023-01-25,11,25,2,4,7920.13,4,Hogar y Muebles,Google Ads,10,1,0,0,0.0,1,1992.63,1
+CL-00012,41,Femenino,Ciudad de México,16000.0,2022-01-23,7,7,0,8,11315.95,50,Hogar y Muebles,Google Ads,8,4,0,1,11.5,0,1744.24,0
+CL-00013,32,Masculino,Monterrey,16300.0,2026-07-30,4,16,0,0,0.0,,Electrodomésticos,Meta Ads,4,2,0,0,0.0,0,,0
+CL-00014,29,Masculino,Mérida,9100.0,2024-04-30,4,4,0,2,963.33,225,Belleza,Google Ads,1,0,0,0,0.0,0,238.55,0
+CL-00015,23,Masculino,Puebla,13700.0,2026-08-08,11,54,2,0,0.0,,Electrónica,Orgánico,10,4,2,0,0.0,2,,0
+CL-00016,55,Femenino,Monterrey,24300.0,2021-10-01,2,2,1,1,1449.03,179,Electrodomésticos,Directo,1,0,0,0,0.0,0,1449.03,0
+CL-00017,25,Masculino,Monterrey,8000.0,2025-01-22,15,87,5,2,933.3,269,Celulares,Meta Ads,9,0,0,0,0.0,2,576.35,0
+CL-00018,33,Masculino,Puebla,21100.0,2023-09-22,15,101,2,5,5033.73,192,Moda,Directo,4,4,0,1,17.8,2,860.51,0
+CL-00019,48,Femenino,San Luis Potosí,6000.0,2022-04-11,4,18,1,5,2498.2,11,Deportes,Google Ads,14,5,1,3,15.7,0,386.75,1
+CL-00020,28,Femenino,Toluca,9000.0,2023-04-01,3,7,0,2,1141.1,56,Moda,Google Ads,8,2,1,2,14.1,0,820.0,0
+CL-00021,27,Femenino,Querétaro,15600.0,2026-08-28,6,10,0,1,828.16,13,Celulares,Google Ads,10,7,4,1,19.9,0,828.16,0
+CL-00022,30,Femenino,Veracruz,12600.0,2023-11-22,17,43,1,1,675.17,167,Moda,Meta Ads,11,9,4,0,0.0,1,675.17,0
+CL-00023,37,Femenino,Guadalajara,13200.0,2020-10-30,5,5,0,1,1187.43,363,Electrodomésticos,Meta Ads,3,0,0,0,0.0,0,1187.43,0
+CL-00024,38,Masculino,Tijuana,36600.0,2023-07-03,23,37,1,4,8126.57,8,Electrónica,Meta Ads,7,4,1,1,8.1,1,1405.84,0
+CL-00025,23,Femenino,Ciudad de México,14100.0,2024-05-19,33,68,2,0,0.0,,Celulares,Google Ads,7,1,0,0,0.0,2,,0
+CL-00026,29,Masculino,San Luis Potosí,13200.0,2024-10-18,25,34,1,0,0.0,,Belleza,Google Ads,8,0,0,0,0.0,1,,0
+CL-00027,40,Femenino,Puebla,13600.0,2024-04-26,9,32,1,4,2605.84,50,Moda,Meta Ads,21,8,3,3,9.6,1,603.79,0
+CL-00028,29,Masculino,Monterrey,21200.0,2026-08-16,8,29,1,0,0.0,,Moda,Meta Ads,9,1,1,0,0.0,1,,0
+CL-00029,26,Femenino,Guadalajara,21500.0,2024-10-18,35,256,11,1,517.23,59,Deportes,Google Ads,12,4,3,0,0.0,9,517.23,0
+CL-00030,33,Masculino,Querétaro,14100.0,2024-06-30,3,4,0,5,2241.2,33,Juguetes,Referido,16,5,3,3,34.5,0,354.65,0
+CL-00031,28,Femenino,Monterrey,18300.0,2024-06-18,14,67,2,11,16294.0,49,Electrónica,Email,17,4,2,9,23.7,1,956.44,0
+CL-00032,49,Femenino,Ciudad de México,26800.0,2024-08-03,6,17,0,4,4984.27,53,Deportes,Google Ads,10,2,0,2,19.3,0,1491.58,0
+CL-00033,49,Masculino,Ciudad de México,22600.0,2020-10-14,0,0,0,1,984.97,274,Electrónica,Google Ads,1,0,0,0,0.0,0,984.97,0
+CL-00034,29,Femenino,Cancún,13200.0,2026-09-03,14,64,2,0,0.0,,Belleza,Google Ads,7,1,1,0,0.0,1,,0
+CL-00035,18,Masculino,Monterrey,9200.0,2025-01-18,21,172,10,1,918.6,134,Deportes,Orgánico,9,1,0,0,0.0,9,918.6,0
+CL-00036,26,Femenino,San Luis Potosí,11600.0,2022-08-16,7,29,0,5,4709.04,165,Moda,Meta Ads,5,1,0,1,18.1,0,454.62,0
+CL-00037,30,Masculino,Veracruz,16400.0,2026-06-08,5,10,0,0,0.0,,Celulares,Orgánico,6,2,0,0,0.0,0,,0
+CL-00038,24,Femenino,Querétaro,22900.0,2025-10-11,13,63,2,0,0.0,,Moda,Directo,9,6,1,0,0.0,2,,0
+CL-00039,47,Femenino,Monterrey,13200.0,2023-07-31,11,47,0,3,4605.82,21,Hogar y Muebles,Orgánico,11,7,2,2,5.0,0,1902.82,1
+CL-00040,34,Masculino,Ciudad de México,8900.0,2024-04-11,15,36,0,8,7150.79,75,Electrónica,Email,6,2,1,8,19.1,0,988.6,0
+CL-00041,54,Femenino,Puebla,18400.0,2024-08-22,0,0,0,0,0.0,,Electrónica,WhatsApp,4,0,0,0,0.0,0,,0
+CL-00042,24,Femenino,Ciudad de México,11900.0,2023-07-18,17,26,2,4,2605.47,3,Moda,Meta Ads,6,5,4,3,19.0,1,867.48,1
+CL-00043,40,Femenino,Monterrey,32100.0,2023-08-16,4,14,0,8,19608.58,113,Hogar y Muebles,Meta Ads,8,1,0,6,17.3,0,1373.1,0
+CL-00044,55,Femenino,Monterrey,16800.0,2020-12-24,1,1,0,2,1421.26,180,Moda,Referido,8,1,0,1,14.2,0,667.99,0
+CL-00045,39,Masculino,San Luis Potosí,6000.0,2023-12-11,5,5,0,7,5183.66,47,Electrodomésticos,Orgánico,9,5,1,6,24.9,0,613.91,0
+CL-00046,25,Femenino,Toluca,15300.0,2024-07-14,19,59,3,0,0.0,,Moda,Email,8,3,1,0,0.0,2,,0
+CL-00047,29,Femenino,Tijuana,15000.0,2026-09-22,5,14,0,0,0.0,,Hogar y Muebles,Email,8,5,0,0,0.0,0,,0
+CL-00048,50,Femenino,León,7400.0,2021-05-07,8,29,0,9,8946.25,28,Electrodomésticos,Meta Ads,7,1,1,7,18.7,0,1846.27,1
+CL-00049,48,Masculino,Cancún,9200.0,2023-03-29,0,0,0,2,1025.76,287,Moda,Meta Ads,3,2,0,1,19.1,0,402.63,0
+CL-00050,34,Femenino,Cancún,22600.0,2026-06-02,8,34,0,0,0.0,,Belleza,Meta Ads,16,5,0,0,0.0,0,,0
+CL-00051,18,Masculino,Ciudad de México,14400.0,2026-07-02,8,29,0,2,1550.03,50,Deportes,Meta Ads,13,3,2,2,9.8,0,988.33,0
+CL-00052,39,Femenino,Guadalajara,34100.0,2025-02-28,19,71,3,1,591.45,297,Electrodomésticos,Email,10,6,1,0,0.0,2,591.45,0
+CL-00053,36,Masculino,Monterrey,16300.0,2023-12-14,13,71,1,0,0.0,,Electrónica,Meta Ads,8,2,1,0,0.0,1,,0
+CL-00054,36,Masculino,Ciudad de México,24700.0,2025-03-06,19,20,0,0,0.0,,Electrónica,Orgánico,20,11,4,0,0.0,0,,0
+CL-00055,36,Femenino,Aguascalientes,25400.0,2025-01-02,16,85,8,0,0.0,,Electrodomésticos,Meta Ads,5,2,1,0,0.0,6,,0
+CL-00056,38,Femenino,Veracruz,12600.0,2022-12-29,3,4,0,0,0.0,,Electrodomésticos,Google Ads,3,0,0,0,0.0,0,,0
+CL-00057,27,Masculino,Ciudad de México,14800.0,2026-08-01,15,58,0,0,0.0,,Moda,Google Ads,4,0,0,0,0.0,0,,0
+CL-00058,35,Femenino,Veracruz,14700.0,2025-09-27,36,212,11,1,295.74,239,Belleza,Google Ads,7,5,1,0,0.0,8,295.74,0
+CL-00059,53,Masculino,Ciudad de México,108800.0,2021-09-14,27,225,4,9,57171.04,11,Electrónica,Orgánico,10,7,1,1,9.0,0,2708.58,1
+CL-00060,54,Femenino,Toluca,16400.0,2025-02-28,2,4,1,2,2733.13,173,Electrodomésticos,Meta Ads,1,1,0,0,0.0,0,1766.17,0
+CL-00061,36,Masculino,Cancún,21100.0,2026-09-12,3,7,0,0,0.0,,Hogar y Muebles,Email,2,2,0,0,0.0,0,,0
+CL-00062,27,Femenino,Tijuana,23400.0,2025-09-23,44,116,4,0,0.0,,Moda,Orgánico,7,5,2,0,0.0,4,,0
+CL-00063,27,Femenino,Cancún,10200.0,2026-04-17,55,276,7,0,0.0,,Hogar y Muebles,Referido,3,1,0,0,0.0,6,,0
+CL-00064,68,Masculino,Querétaro,36200.0,2020-12-13,12,59,3,12,39910.16,21,Electrónica,Directo,8,6,4,2,5.9,1,3799.71,1
+CL-00065,19,Femenino,Cancún,24100.0,2024-04-11,7,9,1,2,2579.98,3,Celulares,WhatsApp,11,2,1,1,13.2,1,1267.23,1
+CL-00066,23,Femenino,Ciudad de México,28700.0,2023-04-18,5,27,0,3,8822.13,71,Hogar y Muebles,Meta Ads,10,3,2,1,21.2,0,2510.99,0
+CL-00067,53,Femenino,Toluca,36300.0,2020-01-27,22,55,1,8,10692.27,63,Juguetes,Directo,3,2,2,1,9.9,0,1285.76,0
+CL-00068,38,Masculino,San Luis Potosí,16700.0,2026-02-18,57,146,9,0,0.0,,Electrodomésticos,Google Ads,16,3,2,0,0.0,6,,0
+CL-00069,35,Masculino,Ciudad de México,18800.0,2020-08-24,1,3,0,0,0.0,,Electrónica,Directo,17,2,1,0,0.0,0,,0
+CL-00070,43,Masculino,Monterrey,19400.0,2021-09-18,4,6,0,19,31933.08,76,Hogar y Muebles,Meta Ads,14,9,5,15,24.8,0,826.74,0
+CL-00071,20,Masculino,Querétaro,13600.0,2026-09-16,9,21,0,0,0.0,,Electrónica,Meta Ads,11,6,1,0,0.0,0,,0
+CL-00072,31,Femenino,Ciudad de México,17100.0,2026-02-03,39,147,12,1,829.49,239,Hogar y Muebles,Directo,4,2,1,1,9.5,10,829.49,0
+CL-00073,57,Femenino,Ciudad de México,23700.0,2020-10-24,1,3,0,2,1094.61,325,Belleza,WhatsApp,5,0,0,1,6.8,0,313.74,0
+CL-00074,39,Femenino,León,16200.0,2024-03-19,8,28,1,7,5316.08,28,Moda,Meta Ads,5,1,0,5,19.8,0,1347.0,1
+CL-00075,42,Masculino,Puebla,24100.0,2023-10-15,4,7,0,2,3825.47,365,Hogar y Muebles,Google Ads,13,6,1,2,18.4,0,1285.48,0
+CL-00076,18,Masculino,Guadalajara,19600.0,2026-08-09,3,13,0,0,0.0,,Deportes,Google Ads,3,1,0,0,0.0,0,,0
+CL-00077,29,Femenino,Oaxaca,10500.0,2025-06-02,6,12,0,11,9614.5,5,Celulares,Orgánico,24,11,3,9,8.2,0,274.22,1
+CL-00078,46,Masculino,Querétaro,12900.0,2025-09-02,6,16,0,2,1004.11,116,Juguetes,Meta Ads,12,5,0,1,9.8,0,455.03,0
+CL-00079,48,Masculino,Guadalajara,23600.0,2023-01-22,9,40,0,12,30773.5,4,Electrodomésticos,Orgánico,9,3,1,5,7.7,0,3670.32,0
+CL-00080,47,Femenino,Cancún,10400.0,2021-07-27,4,8,0,11,4369.45,32,Juguetes,Referido,22,11,6,11,24.0,0,260.77,0
+CL-00081,29,Femenino,Ciudad de México,12900.0,2025-06-04,19,63,4,4,2520.42,4,Moda,Directo,25,21,6,3,17.2,1,596.87,1
+CL-00082,40,Femenino,Oaxaca,11900.0,2020-09-19,0,0,0,0,0.0,,Juguetes,Orgánico,6,1,0,0,0.0,0,,0
+CL-00083,36,Femenino,Ciudad de México,18800.0,2024-04-01,27,97,1,1,3133.42,92,Hogar y Muebles,Google Ads,7,4,1,1,16.3,1,3133.42,0
+CL-00084,55,Femenino,Ciudad de México,33700.0,2022-04-19,29,169,0,20,72232.54,3,Hogar y Muebles,Orgánico,10,6,4,4,5.1,0,3678.37,1
+CL-00085,43,Femenino,San Luis Potosí,44800.0,2021-12-04,17,92,4,25,33826.88,75,Belleza,Email,6,6,1,4,14.7,0,1116.88,0
+CL-00086,29,Femenino,Puebla,14900.0,2026-06-10,13,30,2,2,1911.44,112,Moda,Orgánico,9,5,2,1,16.4,1,722.2,0
+CL-00087,32,Femenino,San Luis Potosí,17000.0,2024-04-14,32,170,9,6,7124.91,249,Celulares,Google Ads,4,2,2,3,13.6,9,755.58,0
+CL-00088,26,Femenino,Ciudad de México,30400.0,2026-07-01,6,12,0,0,0.0,,Deportes,Google Ads,12,4,1,0,0.0,0,,0
+CL-00089,26,Masculino,Aguascalientes,20600.0,2026-07-08,0,0,0,0,0.0,,Moda,Email,9,5,2,0,0.0,0,,0
+CL-00090,41,Masculino,San Luis Potosí,44300.0,2025-05-03,4,8,0,2,8342.24,92,Hogar y Muebles,Directo,5,2,0,2,7.1,0,2817.47,0
+CL-00091,47,Masculino,León,25200.0,2026-02-10,10,50,2,2,2503.86,24,Moda,Orgánico,3,0,0,1,8.4,0,965.88,0
+CL-00092,25,Femenino,Aguascalientes,28400.0,2023-01-08,12,31,2,5,10361.04,167,Hogar y Muebles,Google Ads,11,4,1,3,27.7,0,2914.66,0
+CL-00093,32,Masculino,Ciudad de México,22900.0,2023-08-29,10,19,1,5,5466.94,224,Deportes,Google Ads,2,1,0,3,14.2,1,784.48,0
+CL-00094,40,Masculino,Puebla,21600.0,2022-07-03,3,9,1,5,10398.55,177,Hogar y Muebles,WhatsApp,7,1,0,1,11.5,1,2149.84,0
+CL-00095,31,Femenino,Veracruz,12100.0,2026-07-20,13,63,3,1,664.03,20,Hogar y Muebles,Meta Ads,5,3,0,0,0.0,3,664.03,0
+CL-00096,56,Femenino,Guadalajara,9500.0,2021-05-08,4,15,1,1,233.03,157,Moda,Meta Ads,5,1,0,0,0.0,0,233.03,0
+CL-00097,39,Femenino,Ciudad de México,23500.0,2026-06-29,5,19,1,3,1876.16,8,Juguetes,Google Ads,3,0,0,2,19.0,1,871.73,0
+CL-00098,34,Masculino,Veracruz,29700.0,2025-10-15,4,9,2,9,14372.37,35,Electrónica,Orgánico,9,0,0,2,10.7,1,1266.13,0
+CL-00099,32,Femenino,Toluca,9100.0,2025-04-10,5,14,0,9,4264.67,32,Belleza,Google Ads,7,2,0,6,23.0,0,549.3,0
+CL-00100,24,Femenino,Ciudad de México,11700.0,2026-09-24,2,4,0,0,0.0,,Moda,Orgánico,10,5,5,0,0.0,0,,0
+CL-00101,33,Femenino,Guadalajara,11500.0,2021-01-06,2,2,0,5,5535.66,175,Celulares,Directo,5,1,0,2,13.4,0,1349.32,0
+CL-00102,20,Femenino,Puebla,6800.0,2025-05-14,22,52,3,13,5128.44,35,Moda,Meta Ads,16,4,1,8,15.2,1,331.67,0
+CL-00103,18,Femenino,Ciudad de México,21900.0,2026-09-03,10,10,0,0,0.0,,Celulares,Orgánico,18,4,0,0,0.0,0,,0
+CL-00104,28,Femenino,Oaxaca,8500.0,2023-08-29,47,695,30,0,0.0,,Hogar y Muebles,Orgánico,5,1,0,0,0.0,23,,0
+CL-00105,23,Masculino,Oaxaca,7500.0,2024-01-26,0,0,0,2,824.93,356,Juguetes,Directo,5,1,0,2,14.9,0,368.17,0
+CL-00106,38,Femenino,Veracruz,21600.0,2024-08-31,19,79,3,5,16692.06,73,Hogar y Muebles,Directo,5,5,1,0,0.0,1,3830.49,0
+CL-00107,36,Femenino,Ciudad de México,8400.0,2026-09-23,9,41,0,0,0.0,,Belleza,Google Ads,6,2,0,0,0.0,0,,0
+CL-00108,34,Femenino,Querétaro,22300.0,2022-09-25,8,20,1,1,739.54,222,Moda,Google Ads,5,2,1,1,6.7,0,739.54,0
+CL-00109,30,Masculino,Ciudad de México,21600.0,2026-07-06,6,12,0,1,1474.41,48,Electrónica,Directo,3,2,0,1,9.0,0,1474.41,0
+CL-00110,29,Femenino,Querétaro,20600.0,2025-06-01,28,151,8,0,0.0,,Electrodomésticos,Meta Ads,9,2,1,0,0.0,7,,0
+CL-00111,25,Masculino,Toluca,15000.0,2023-07-28,1,2,0,1,474.01,359,Deportes,Google Ads,9,0,0,1,13.0,0,474.01,0
+CL-00112,29,Masculino,Ciudad de México,14500.0,2024-09-27,18,44,4,2,2341.44,283,Electrónica,Google Ads,10,4,2,0,0.0,3,1363.15,0
+CL-00113,69,Femenino,Toluca,11400.0,2024-07-28,0,0,0,1,498.08,325,Juguetes,Email,6,1,0,0,0.0,0,498.08,0
+CL-00114,47,Masculino,Monterrey,7800.0,2024-03-27,8,18,0,11,4669.09,119,Moda,Meta Ads,13,9,6,10,17.1,0,731.12,0
+CL-00115,46,Femenino,Tijuana,6800.0,2023-10-10,17,66,2,9,2823.85,79,Belleza,WhatsApp,10,9,2,7,19.7,0,526.45,0
+CL-00116,48,Femenino,Monterrey,41200.0,2021-10-27,20,62,1,13,50732.86,14,Electrodomésticos,Directo,13,12,3,3,10.5,0,3462.22,1
+CL-00117,44,Masculino,Puebla,31900.0,2023-10-04,21,64,1,23,86997.36,6,Hogar y Muebles,Email,4,4,1,3,6.2,0,3722.29,1
+CL-00118,40,Femenino,Cancún,14600.0,2026-06-07,14,33,1,2,5679.85,5,Hogar y Muebles,Referido,0,0,0,0,0.0,1,1712.23,0
+CL-00119,36,Femenino,Tijuana,7100.0,2021-06-22,6,12,2,8,2612.94,1,Belleza,WhatsApp,19,7,3,6,23.6,1,300.08,1
+CL-00120,18,Femenino,León,17900.0,2026-08-28,11,34,1,0,0.0,,Moda,Referido,3,1,1,0,0.0,0,,0
+CL-00121,39,Masculino,Ciudad de México,21100.0,2021-08-26,1,4,1,2,1972.5,361,Deportes,Meta Ads,6,2,0,1,13.6,1,972.7,0
+CL-00122,27,Femenino,San Luis Potosí,19900.0,2023-12-03,4,11,1,2,744.43,74,Moda,Directo,0,0,0,2,12.3,1,422.11,0
+CL-00123,43,Femenino,Ciudad de México,18600.0,2025-05-14,12,18,1,0,0.0,,Belleza,Meta Ads,14,9,5,0,0.0,1,,0
+CL-00124,18,Masculino,Chihuahua,14400.0,2024-02-16,3,5,0,3,1312.53,1,Moda,Orgánico,5,1,1,1,21.7,0,548.41,1
+CL-00125,41,Femenino,Ciudad de México,11300.0,2023-05-23,11,30,0,10,4355.07,139,Belleza,Email,10,9,1,6,15.8,0,264.83,0
+CL-00126,31,Masculino,Guadalajara,9800.0,2024-02-21,8,10,1,7,6806.8,57,Electrónica,Google Ads,12,5,2,6,19.1,0,1263.41,0
+CL-00127,54,No especificado,Mérida,10700.0,2021-10-01,3,8,0,2,2616.88,268,Electrónica,Google Ads,3,1,0,0,0.0,0,1125.17,0
+CL-00128,42,Masculino,San Luis Potosí,25700.0,2023-11-07,0,0,0,0,0.0,,Deportes,Meta Ads,2,0,0,0,0.0,0,,0
+CL-00129,36,Masculino,Ciudad de México,22600.0,2023-09-08,8,54,3,0,0.0,,Celulares,Referido,7,6,3,0,0.0,3,,0
+CL-00130,33,Masculino,Puebla,11600.0,2026-08-13,6,26,2,0,0.0,,Deportes,Meta Ads,17,7,1,0,0.0,1,,0
+CL-00131,36,Femenino,Toluca,19200.0,2021-06-24,3,13,2,8,10967.15,25,Deportes,Meta Ads,9,4,2,2,15.5,2,924.84,0
+CL-00132,28,Femenino,Puebla,16900.0,2021-07-08,1,2,0,1,2623.7,213,Electrónica,Google Ads,2,0,0,0,0.0,0,2623.7,0
+CL-00133,67,Masculino,Querétaro,10600.0,2024-08-15,2,4,0,2,1365.6,254,Celulares,Referido,0,0,0,0,0.0,0,619.5,0
+CL-00134,40,Femenino,Mérida,17200.0,2023-07-06,14,72,2,5,4827.87,96,Deportes,Directo,10,2,0,2,17.7,1,830.06,0
+CL-00135,26,Femenino,Cancún,12700.0,2023-02-09,8,30,0,4,3033.55,96,Deportes,Email,20,18,12,3,27.6,0,520.58,0
+CL-00136,46,Masculino,Cancún,10600.0,2020-03-10,3,11,0,0,0.0,,Electrodomésticos,Google Ads,4,3,0,0,0.0,0,,0
+CL-00137,18,Masculino,Cancún,18500.0,2025-02-17,2,2,1,3,2379.99,249,Deportes,Orgánico,3,0,0,1,16.6,1,764.29,0
+CL-00138,32,Femenino,Cancún,19400.0,2025-02-11,5,14,0,4,3364.48,49,Moda,Meta Ads,16,0,0,2,6.8,0,895.41,0
+CL-00139,19,Femenino,Chihuahua,11600.0,2024-05-14,19,54,3,0,0.0,,Moda,Directo,5,1,0,0,0.0,3,,0
+CL-00140,37,Femenino,Ciudad de México,13600.0,2021-05-18,1,2,0,1,634.76,271,Celulares,Meta Ads,6,0,0,0,0.0,0,634.76,0
+CL-00141,23,Femenino,Monterrey,16800.0,2026-07-09,10,36,1,0,0.0,,Moda,Meta Ads,4,1,0,0,0.0,1,,0
+CL-00142,18,Masculino,Guadalajara,16500.0,2025-06-18,11,85,2,3,2747.45,271,Celulares,Meta Ads,20,5,3,1,18.1,2,807.29,0
+CL-00143,44,Femenino,Monterrey,93500.0,2021-04-10,7,39,1,13,80934.42,97,Hogar y Muebles,Directo,3,3,2,0,0.0,0,3606.33,0
+CL-00144,28,Femenino,Ciudad de México,32200.0,2026-05-22,44,72,0,0,0.0,,Belleza,Google Ads,8,2,1,0,0.0,0,,0
+CL-00145,42,Masculino,Chihuahua,23100.0,2024-10-21,9,27,0,5,10290.13,55,Electrónica,Google Ads,6,2,2,1,6.2,0,1655.11,0
+CL-00146,33,Masculino,Tijuana,13600.0,2024-11-30,10,26,1,10,9468.72,84,Electrónica,WhatsApp,3,0,0,9,27.2,0,888.42,0
+CL-00147,37,Femenino,Puebla,20700.0,2021-04-16,7,27,0,12,19017.74,17,Hogar y Muebles,Meta Ads,16,9,5,9,23.1,0,1865.02,1
+CL-00148,36,Masculino,Cancún,21900.0,2023-10-15,11,45,3,0,0.0,,Electrónica,Google Ads,7,5,1,0,0.0,2,,0
+CL-00149,29,Masculino,León,31100.0,2022-01-17,20,81,1,16,49929.68,40,Electrónica,Orgánico,6,6,0,2,5.0,1,1879.2,0
+CL-00150,39,Masculino,Querétaro,10000.0,2024-07-03,5,7,0,16,8535.39,30,Moda,Orgánico,5,3,1,9,16.7,0,166.06,1
+CL-00151,33,Femenino,Cancún,35100.0,2021-11-02,0,0,0,3,6539.47,131,Electrodomésticos,Directo,8,3,2,1,13.8,0,2084.11,0
+CL-00152,33,Masculino,Puebla,12100.0,2021-06-22,18,45,1,9,10742.57,23,Electrónica,Email,4,1,0,7,15.4,1,1032.29,1
+CL-00153,18,Femenino,Veracruz,27600.0,2026-06-14,6,21,0,4,8751.64,63,Electrodomésticos,Orgánico,8,1,0,0,0.0,0,2518.94,0
+CL-00154,38,Masculino,Toluca,12200.0,2021-06-29,6,25,1,4,2391.6,2,Deportes,Orgánico,34,31,24,3,31.6,0,954.59,1
+CL-00155,42,Masculino,Oaxaca,7700.0,2022-10-30,0,0,0,2,872.24,298,Electrónica,Directo,6,0,0,1,16.4,0,454.51,0
+CL-00156,45,Femenino,Guadalajara,16800.0,2025-03-01,19,32,0,1,771.38,5,Hogar y Muebles,Meta Ads,9,3,1,1,12.7,0,771.38,1
+CL-00157,39,Masculino,Ciudad de México,11500.0,2022-05-04,1,1,0,2,1012.52,361,Moda,Email,3,0,0,0,0.0,0,588.87,0
+CL-00158,19,Femenino,Mérida,11800.0,2024-03-13,44,472,37,0,0.0,,Belleza,Directo,8,3,1,0,0.0,29,,0
+CL-00159,43,Masculino,Puebla,8600.0,2021-11-28,15,43,4,3,4035.87,45,Hogar y Muebles,Directo,9,3,1,2,23.8,0,763.98,0
+CL-00160,61,Masculino,Ciudad de México,23300.0,2023-02-08,4,4,1,2,4670.05,256,Electrónica,Email,1,0,0,1,9.9,1,1302.44,0
+CL-00161,28,Femenino,Monterrey,18400.0,2026-06-28,18,46,3,0,0.0,,Moda,Orgánico,0,0,0,0,0.0,2,,0
+CL-00162,18,Femenino,San Luis Potosí,18000.0,2024-08-28,35,120,5,2,2006.41,252,Celulares,Orgánico,5,2,0,1,23.7,3,614.81,0
+CL-00163,20,Masculino,Ciudad de México,21800.0,2022-07-22,6,9,2,7,4601.75,46,Deportes,WhatsApp,5,2,1,7,14.7,1,443.96,0
+CL-00164,54,No especificado,Toluca,14300.0,2024-06-06,0,0,0,0,0.0,,Hogar y Muebles,Meta Ads,8,0,0,0,0.0,0,,0
+CL-00165,24,Masculino,San Luis Potosí,13300.0,2024-02-05,5,41,0,0,0.0,,Deportes,Email,10,5,2,0,0.0,0,,0
+CL-00166,38,Femenino,Veracruz,33900.0,2022-02-28,9,27,2,9,12846.07,14,Juguetes,Directo,10,5,1,2,11.5,0,720.32,1
+CL-00167,40,Masculino,Guadalajara,15600.0,2024-01-07,10,23,0,5,7870.53,296,Electrónica,Referido,6,2,1,1,5.0,0,2326.59,0
+CL-00168,51,Masculino,Monterrey,63900.0,2023-12-24,12,30,1,9,36866.52,5,Hogar y Muebles,Email,5,2,0,2,7.3,0,2330.02,0
+CL-00169,40,Masculino,Guadalajara,10000.0,2021-10-01,11,29,1,11,13778.47,225,Electrónica,WhatsApp,12,7,4,6,23.3,1,2887.83,0
+CL-00170,38,Masculino,San Luis Potosí,19200.0,2025-12-02,20,140,8,0,0.0,,Deportes,Directo,13,7,6,0,0.0,6,,0
+CL-00171,48,Masculino,Monterrey,15500.0,2021-05-04,10,19,0,5,5694.33,21,Celulares,Directo,11,3,2,5,26.3,0,585.09,0
+CL-00172,18,Femenino,Guadalajara,19500.0,2024-07-17,7,32,2,2,2455.15,176,Celulares,Google Ads,10,2,0,1,9.9,1,1233.54,0
+CL-00173,26,Femenino,Chihuahua,7600.0,2026-08-12,5,5,0,0,0.0,,Moda,Meta Ads,8,4,2,0,0.0,0,,0
+CL-00174,18,Masculino,León,12000.0,2022-11-30,10,31,1,4,3108.93,94,Deportes,Email,14,6,0,1,15.0,0,1273.61,0
+CL-00175,34,Masculino,Chihuahua,15700.0,2023-02-17,1,1,0,5,7430.21,55,Electrónica,Directo,7,3,0,2,14.6,0,2647.7,0
+CL-00176,44,Masculino,Oaxaca,53700.0,2023-09-23,16,80,4,21,76965.38,8,Electrónica,Orgánico,4,3,1,2,9.9,2,2257.34,1
+CL-00177,36,Masculino,Puebla,26600.0,2022-09-04,5,19,2,1,737.09,17,Deportes,Meta Ads,11,4,1,0,0.0,1,737.09,0
+CL-00178,21,Femenino,Mérida,10400.0,2023-02-12,0,0,0,6,4155.27,155,Moda,Email,4,0,0,5,21.9,0,705.38,0
+CL-00179,50,Femenino,Tijuana,6700.0,2022-06-09,1,3,1,0,0.0,,Deportes,Directo,5,1,0,0,0.0,1,,0
+CL-00180,20,Femenino,Ciudad de México,15400.0,2021-08-15,8,58,2,9,5885.92,5,Moda,Meta Ads,11,8,1,8,25.9,1,509.47,0
+CL-00181,37,Masculino,Oaxaca,11000.0,2021-10-25,3,9,0,2,3247.2,175,Electrónica,Email,2,0,0,1,19.4,0,2117.67,0
+CL-00182,52,No especificado,Ciudad de México,18100.0,2020-04-23,0,0,0,2,3086.41,153,Electrodomésticos,Google Ads,3,0,0,1,16.2,0,839.18,0
+CL-00183,43,Masculino,Ciudad de México,22300.0,2026-02-09,5,12,0,9,6672.35,79,Juguetes,Directo,5,1,1,5,19.8,0,505.14,0
+CL-00184,37,Femenino,Monterrey,27800.0,2023-04-23,7,12,0,8,13872.58,27,Hogar y Muebles,WhatsApp,12,1,1,2,14.3,0,1635.6,0
+CL-00185,45,Femenino,Ciudad de México,8100.0,2023-06-03,1,3,0,4,6010.54,23,Hogar y Muebles,Meta Ads,8,4,1,4,10.2,0,733.55,0
+CL-00186,20,Masculino,Oaxaca,13900.0,2026-06-13,4,8,1,0,0.0,,Electrónica,Directo,8,4,2,0,0.0,1,,0
+CL-00187,56,Masculino,Puebla,15200.0,2023-09-18,0,0,0,1,1395.27,168,Electrónica,WhatsApp,4,0,0,0,0.0,0,1395.27,0
+CL-00188,46,Masculino,Puebla,55800.0,2023-07-08,44,250,6,16,66068.62,5,Electrodomésticos,Email,6,6,4,2,10.0,0,2385.26,0
+CL-00189,44,Femenino,Ciudad de México,14700.0,2021-07-07,1,1,0,0,0.0,,Moda,Meta Ads,0,0,0,0,0.0,0,,0
+CL-00190,25,Femenino,Monterrey,18700.0,2023-08-31,15,44,1,0,0.0,,Deportes,Meta Ads,19,9,2,0,0.0,1,,0
+CL-00191,18,Masculino,Puebla,9100.0,2023-04-30,17,31,0,5,2796.5,10,Deportes,Meta Ads,11,8,4,4,18.0,0,992.16,1
+CL-00192,18,Femenino,Guadalajara,15500.0,2026-09-16,10,44,2,0,0.0,,Deportes,Meta Ads,6,3,1,0,0.0,1,,0
+CL-00193,40,Masculino,Guadalajara,18000.0,2023-10-07,18,112,6,1,1902.3,67,Moda,Meta Ads,14,4,1,0,0.0,3,1902.3,0
+CL-00194,36,Masculino,Chihuahua,15800.0,2026-08-18,3,15,0,0,0.0,,Electrónica,Meta Ads,15,6,1,0,0.0,0,,0
+CL-00195,32,No especificado,Oaxaca,22200.0,2026-08-07,5,7,0,1,964.9,3,Electrodomésticos,Meta Ads,8,5,1,0,0.0,0,964.9,0
+CL-00196,29,Masculino,Cancún,20300.0,2025-07-08,21,82,4,1,485.81,106,Moda,Orgánico,0,0,0,1,13.1,3,485.81,0
+CL-00197,57,No especificado,Puebla,18600.0,2022-11-03,9,41,3,5,3361.56,139,Moda,Orgánico,14,7,3,1,12.2,0,556.57,0
+CL-00198,27,No especificado,Toluca,25900.0,2025-03-30,8,24,1,10,10612.32,25,Deportes,Directo,14,4,0,9,24.2,0,476.62,1
+CL-00199,45,Femenino,Oaxaca,9300.0,2024-01-16,6,13,0,6,2114.2,64,Belleza,Meta Ads,9,3,1,4,12.4,0,442.3,0
+CL-00200,41,Masculino,Ciudad de México,17400.0,2026-01-15,37,114,11,1,956.66,175,Electrodomésticos,Google Ads,0,0,0,0,0.0,8,956.66,0
+CL-00201,35,Femenino,Monterrey,32900.0,2020-01-13,2,2,0,0,0.0,,Belleza,Meta Ads,5,1,0,0,0.0,0,,0
+CL-00202,18,Femenino,Tijuana,20600.0,2020-05-16,0,0,0,4,1810.75,215,Moda,Email,0,0,0,1,14.0,0,437.09,0
+CL-00203,38,Femenino,Puebla,17400.0,2023-08-27,12,32,1,3,4356.44,61,Hogar y Muebles,Directo,3,2,1,2,28.8,0,1768.28,0
+CL-00204,56,Masculino,Mérida,13000.0,2023-08-15,3,6,0,0,0.0,,Deportes,Meta Ads,0,0,0,0,0.0,0,,0
+CL-00205,57,Femenino,Puebla,8700.0,2022-07-14,1,1,0,1,538.39,337,Hogar y Muebles,Orgánico,6,1,0,0,0.0,0,538.39,0
+CL-00206,50,Femenino,Puebla,18000.0,2022-12-23,0,0,0,0,0.0,,Electrodomésticos,Orgánico,3,1,0,0,0.0,0,,0
+CL-00207,39,Femenino,Aguascalientes,29800.0,2024-08-05,25,132,10,9,27352.29,7,Hogar y Muebles,Email,3,1,1,1,7.7,2,2425.14,1
+CL-00208,31,Femenino,Mérida,12600.0,2021-07-29,12,24,1,11,3820.02,12,Belleza,Email,4,1,0,10,22.3,0,664.36,1
+CL-00209,47,Femenino,Monterrey,17600.0,2023-10-11,8,21,1,8,12553.42,20,Hogar y Muebles,Google Ads,11,5,0,1,6.6,1,1301.07,1
+CL-00210,40,Masculino,Guadalajara,19800.0,2025-08-22,3,5,0,3,2739.1,15,Juguetes,Referido,7,3,1,0,0.0,0,815.79,0
+CL-00211,27,Femenino,Toluca,12700.0,2022-11-15,9,36,1,4,5958.39,108,Hogar y Muebles,Orgánico,13,9,3,4,23.5,0,1220.38,0
+CL-00212,33,Masculino,Monterrey,17400.0,2026-08-07,4,8,1,1,1451.13,49,Celulares,Directo,5,1,0,1,17.6,1,1451.13,0
+CL-00213,18,Femenino,Chihuahua,16000.0,2022-07-12,14,21,3,1,379.05,47,Juguetes,Google Ads,13,5,5,0,0.0,1,379.05,0
+CL-00214,22,Femenino,Monterrey,13300.0,2026-06-16,20,50,3,0,0.0,,Moda,Orgánico,0,0,0,0,0.0,2,,0
+CL-00215,42,No especificado,Chihuahua,24800.0,2021-06-18,23,75,2,11,14321.8,10,Moda,Email,9,4,3,0,0.0,2,789.28,1
+CL-00216,33,Femenino,Chihuahua,8400.0,2024-01-07,11,34,2,5,5904.41,32,Electrónica,Google Ads,12,8,3,5,19.5,2,734.07,0
+CL-00217,21,Masculino,Tijuana,14500.0,2024-12-11,12,75,2,8,8920.6,30,Celulares,WhatsApp,7,6,2,5,25.6,0,952.6,0
+CL-00218,52,Masculino,León,18000.0,2023-10-12,9,27,0,5,10060.57,46,Electrodomésticos,WhatsApp,7,2,1,0,0.0,0,3068.14,0
+CL-00219,30,Femenino,Guadalajara,22200.0,2026-08-13,10,16,0,0,0.0,,Belleza,Meta Ads,10,5,2,0,0.0,0,,0
+CL-00220,32,Femenino,Puebla,13700.0,2025-03-16,1,4,0,9,4807.01,70,Belleza,Google Ads,15,3,1,5,21.8,0,306.57,0
+CL-00221,30,Masculino,Mérida,11200.0,2025-06-04,6,29,3,3,3792.83,281,Electrónica,Meta Ads,11,1,1,1,22.5,2,1181.02,0
+CL-00222,28,Femenino,León,26800.0,2026-02-19,22,67,4,0,0.0,,Moda,Meta Ads,16,9,5,0,0.0,4,,0
+CL-00223,21,Femenino,Aguascalientes,16900.0,2026-07-14,10,24,0,3,3835.8,69,Moda,Google Ads,12,6,4,2,10.1,0,896.07,0
+CL-00224,31,Femenino,Veracruz,9600.0,2026-07-19,1,3,0,0,0.0,,Juguetes,Directo,11,4,1,0,0.0,0,,0
+CL-00225,23,Masculino,San Luis Potosí,16400.0,2024-12-05,29,198,7,2,2249.09,166,Deportes,Referido,15,3,1,1,5.0,6,1364.06,0
+CL-00226,29,Femenino,Cancún,9500.0,2023-07-03,5,5,0,0,0.0,,Deportes,Orgánico,10,6,2,0,0.0,0,,0
+CL-00227,18,No especificado,Aguascalientes,10800.0,2026-06-12,11,36,0,1,420.9,6,Belleza,Referido,13,4,1,0,0.0,0,420.9,1
+CL-00228,51,Masculino,Oaxaca,15500.0,2021-10-06,1,2,0,0,0.0,,Celulares,WhatsApp,8,6,2,0,0.0,0,,0
+CL-00229,18,Masculino,Puebla,25300.0,2026-07-15,9,25,0,2,1717.21,75,Moda,Google Ads,1,0,0,2,12.8,0,1176.53,0
+CL-00230,32,Masculino,Querétaro,8500.0,2022-08-01,10,10,2,4,3781.45,7,Celulares,Email,13,4,1,4,10.6,1,1232.08,0
+CL-00231,45,Femenino,Monterrey,57000.0,2024-02-28,20,44,1,4,19167.06,12,Electrodomésticos,Orgánico,3,3,1,0,0.0,0,6381.88,0
+CL-00232,31,Femenino,Puebla,15100.0,2021-12-19,9,11,0,2,4688.35,1,Hogar y Muebles,Orgánico,17,7,4,2,21.8,0,1657.72,1
+CL-00233,40,Femenino,León,25800.0,2022-10-20,21,51,7,6,4452.59,40,Belleza,Google Ads,18,5,1,1,24.0,5,727.54,0
+CL-00234,37,Femenino,Guadalajara,17500.0,2026-08-11,9,36,0,0,0.0,,Belleza,WhatsApp,0,0,0,0,0.0,0,,0
+CL-00235,23,Femenino,Ciudad de México,48100.0,2024-03-17,19,121,5,2,1297.65,224,Belleza,Orgánico,8,3,1,1,24.8,1,785.04,0
+CL-00236,32,Femenino,Querétaro,22500.0,2023-09-11,33,238,8,2,2223.41,206,Moda,Google Ads,8,3,1,0,0.0,6,1435.15,0
+CL-00237,31,Femenino,Toluca,12000.0,2023-07-23,7,37,0,3,1733.48,93,Moda,Orgánico,16,6,4,3,17.5,0,648.05,0
+CL-00238,58,Femenino,Guadalajara,17500.0,2025-05-07,3,8,1,2,2449.17,281,Electrodomésticos,Google Ads,1,0,0,0,0.0,0,1055.49,0
+CL-00239,29,Masculino,Toluca,14300.0,2026-04-20,13,31,3,0,0.0,,Deportes,Referido,15,5,3,0,0.0,2,,0
+CL-00240,28,Femenino,Veracruz,20300.0,2024-04-09,14,33,4,3,1608.68,69,Belleza,Meta Ads,5,3,0,0,0.0,1,538.94,0
+CL-00241,72,Masculino,León,16400.0,2024-12-06,1,1,0,1,2048.6,294,Celulares,Google Ads,7,0,0,0,0.0,0,2048.6,0
+CL-00242,49,Femenino,Puebla,20700.0,2025-07-06,5,11,1,13,23619.35,14,Hogar y Muebles,Orgánico,18,7,3,4,12.7,1,3836.65,1
+CL-00243,32,Femenino,Puebla,21600.0,2022-04-08,6,17,0,7,14612.07,4,Hogar y Muebles,Google Ads,1,1,0,2,19.1,0,1999.9,1
+CL-00244,29,Femenino,Monterrey,24900.0,2023-10-01,9,76,3,0,0.0,,Moda,Orgánico,3,3,1,0,0.0,1,,0
+CL-00245,48,Femenino,Guadalajara,9500.0,2025-02-19,10,13,1,4,2844.11,46,Moda,Orgánico,5,3,1,2,15.3,0,321.7,0
+CL-00246,47,Femenino,Guadalajara,99100.0,2023-05-04,17,67,0,11,71201.21,19,Hogar y Muebles,Orgánico,0,0,0,2,5.0,0,11248.65,0
+CL-00247,29,Femenino,Ciudad de México,33300.0,2025-10-02,20,126,9,0,0.0,,Belleza,Google Ads,5,1,1,0,0.0,7,,0
+CL-00248,56,Femenino,Monterrey,37000.0,2020-01-31,14,98,5,18,58874.05,27,Electrodomésticos,Directo,8,2,1,3,12.4,0,2087.94,1
+CL-00249,39,Femenino,Cancún,22500.0,2021-08-04,18,54,2,1,972.28,22,Deportes,Orgánico,13,8,4,0,0.0,2,972.28,1
+CL-00250,42,Femenino,Ciudad de México,10400.0,2022-01-23,5,24,0,5,5937.9,39,Hogar y Muebles,Email,8,4,2,5,22.7,0,516.69,0
+CL-00251,42,Masculino,Guadalajara,39500.0,2026-01-27,19,42,3,2,2974.73,115,Electrodomésticos,Email,4,3,0,1,20.8,3,1020.25,0
+CL-00252,42,Masculino,Ciudad de México,12500.0,2021-07-21,7,13,0,5,3613.12,48,Electrodomésticos,Google Ads,8,5,3,3,17.6,0,488.43,0
+CL-00253,49,Masculino,Puebla,6000.0,2024-01-25,4,5,1,5,4480.58,112,Celulares,Google Ads,12,3,0,5,24.6,1,620.42,0
+CL-00254,51,Femenino,Puebla,20500.0,2023-12-03,6,21,0,4,5220.23,24,Celulares,Directo,5,4,0,2,12.5,0,1134.36,1
+CL-00255,41,Femenino,Monterrey,16700.0,2026-08-02,10,56,3,0,0.0,,Moda,Meta Ads,2,2,0,0,0.0,2,,0
+CL-00256,36,Femenino,Aguascalientes,19600.0,2021-07-13,0,0,0,2,2773.28,159,Juguetes,Orgánico,4,0,0,1,20.3,0,1532.69,0
+CL-00257,30,Masculino,Guadalajara,22300.0,2025-08-20,34,181,11,0,0.0,,Moda,Google Ads,14,2,0,0,0.0,10,,0
+CL-00258,28,Femenino,Veracruz,10700.0,2021-05-23,7,7,0,4,4582.77,51,Celulares,Referido,9,4,0,1,15.0,0,556.06,0
+CL-00259,48,Masculino,Guadalajara,22200.0,2021-10-18,10,24,2,2,2901.59,171,Electrónica,Referido,19,6,2,1,16.1,1,1366.44,0
+CL-00260,30,Masculino,Ciudad de México,21300.0,2026-06-22,2,9,0,0,0.0,,Celulares,Meta Ads,7,3,0,0,0.0,0,,0
+CL-00261,44,Femenino,Toluca,25700.0,2021-10-02,6,19,1,4,2908.54,14,Juguetes,Meta Ads,3,2,0,1,11.8,1,663.98,0
+CL-00262,18,Femenino,Querétaro,18700.0,2026-07-14,5,8,0,1,203.84,69,Moda,Google Ads,13,10,2,1,16.5,0,203.84,0
+CL-00263,33,Masculino,Chihuahua,23400.0,2025-12-13,38,106,3,1,1622.45,53,Electrónica,Google Ads,3,0,0,0,0.0,3,1622.45,0
+CL-00264,41,Femenino,Ciudad de México,15300.0,2021-05-07,1,2,1,1,571.2,323,Hogar y Muebles,Directo,3,0,0,1,6.0,1,571.2,0
+CL-00265,32,Masculino,Tijuana,19000.0,2026-06-10,5,13,0,3,4544.75,59,Electrodomésticos,WhatsApp,3,1,0,2,14.4,0,1419.11,0
+CL-00266,30,Masculino,Ciudad de México,12500.0,2022-07-25,12,50,2,2,1954.53,72,Celulares,Referido,13,8,4,2,13.9,0,640.77,0
+CL-00267,25,Masculino,Oaxaca,22800.0,2026-06-15,15,19,1,0,0.0,,Celulares,Orgánico,9,5,1,0,0.0,1,,0
+CL-00268,48,Masculino,Aguascalientes,32600.0,2023-04-04,15,48,1,15,46334.86,43,Electrónica,WhatsApp,5,5,1,5,6.1,0,3038.37,0
+CL-00269,58,Masculino,León,11600.0,2023-07-19,8,31,2,4,4688.73,13,Celulares,Meta Ads,7,3,1,0,0.0,2,1046.97,1
+CL-00270,26,Femenino,Guadalajara,11600.0,2026-09-01,18,36,2,0,0.0,,Hogar y Muebles,Meta Ads,8,4,1,0,0.0,1,,0
+CL-00271,40,Femenino,Monterrey,21400.0,2020-06-20,18,48,1,5,14047.45,14,Hogar y Muebles,Orgánico,4,3,0,2,10.4,0,2536.72,1
+CL-00272,22,Masculino,Monterrey,25600.0,2025-07-13,13,54,0,1,1987.69,161,Electrónica,Referido,6,4,1,1,23.8,0,1987.69,0
+CL-00273,35,Masculino,Aguascalientes,10400.0,2025-04-04,1,1,0,4,4915.77,52,Celulares,Orgánico,8,4,1,2,21.1,0,1486.26,0
+CL-00274,39,Femenino,Querétaro,15600.0,2024-12-09,1,1,0,3,2128.62,246,Moda,Orgánico,0,0,0,1,17.3,0,431.28,0
+CL-00275,30,Masculino,Guadalajara,22400.0,2026-02-10,4,10,0,0,0.0,,Celulares,Google Ads,12,5,1,0,0.0,0,,0
+CL-00276,33,Masculino,Ciudad de México,17600.0,2026-07-19,5,22,1,2,833.67,20,Juguetes,Orgánico,7,3,1,0,0.0,1,565.09,0
+CL-00277,37,Femenino,Mérida,51800.0,2020-11-22,27,57,3,22,91897.92,53,Electrónica,Directo,6,3,0,2,9.7,0,4746.4,0
+CL-00278,37,Masculino,Monterrey,17800.0,2020-01-24,19,36,1,11,19830.4,22,Electrónica,Email,5,3,0,0,0.0,1,2304.89,0
+CL-00279,30,Femenino,Ciudad de México,14200.0,2023-10-06,36,170,8,0,0.0,,Electrodomésticos,Google Ads,5,2,1,0,0.0,5,,0
+CL-00280,25,Femenino,Tijuana,30900.0,2026-04-03,20,111,7,1,3263.77,91,Hogar y Muebles,Orgánico,7,4,2,1,8.0,4,3263.77,0
+CL-00281,53,Femenino,Monterrey,23000.0,2022-07-20,0,0,0,0,0.0,,Electrodomésticos,Directo,1,0,0,0,0.0,0,,0
+CL-00282,31,Femenino,Tijuana,13000.0,2024-09-30,6,17,0,7,3015.2,135,Belleza,Referido,7,4,3,6,20.4,0,413.46,0
+CL-00283,42,Masculino,León,20600.0,2022-10-06,4,4,0,4,5366.7,45,Electrodomésticos,Meta Ads,15,7,3,3,15.2,0,1454.96,0
+CL-00284,34,No especificado,Puebla,15400.0,2022-06-27,2,2,0,0,0.0,,Electrodomésticos,Orgánico,7,0,0,0,0.0,0,,0
+CL-00285,33,Femenino,Ciudad de México,25000.0,2021-11-10,8,30,1,1,614.67,41,Deportes,Email,12,0,0,0,0.0,1,614.67,0
+CL-00286,21,Masculino,San Luis Potosí,23300.0,2021-04-19,9,56,0,11,24210.79,128,Electrónica,Orgánico,9,4,0,3,16.6,0,982.07,0
+CL-00287,55,Masculino,Toluca,15100.0,2023-08-22,0,0,0,0,0.0,,Electrónica,Meta Ads,3,0,0,0,0.0,0,,0
+CL-00288,28,Masculino,Ciudad de México,23000.0,2025-04-09,3,3,0,12,22626.93,4,Electrodomésticos,Email,10,6,1,2,11.3,0,2938.73,1
+CL-00289,37,Femenino,Aguascalientes,12800.0,2026-07-10,8,24,1,0,0.0,,Electrodomésticos,WhatsApp,3,2,0,0,0.0,0,,0
+CL-00290,67,Femenino,Cancún,17800.0,2021-04-16,0,0,0,1,1529.68,278,Hogar y Muebles,Google Ads,2,0,0,0,0.0,0,1529.68,0
+CL-00291,36,Femenino,Oaxaca,18600.0,2025-09-09,62,540,19,0,0.0,,Electrodomésticos,Directo,13,2,0,0,0.0,14,,0
+CL-00292,35,Femenino,Ciudad de México,14200.0,2024-02-25,13,65,4,1,703.84,41,Belleza,Meta Ads,6,6,0,0,0.0,3,703.84,0
+CL-00293,32,Masculino,Puebla,15800.0,2025-03-13,5,17,0,3,2751.5,138,Deportes,Email,3,1,0,0,0.0,0,682.03,0
+CL-00294,18,Femenino,Cancún,20700.0,2023-11-03,13,62,2,2,3322.71,294,Hogar y Muebles,Orgánico,17,2,1,0,0.0,1,1259.06,0
+CL-00295,35,Masculino,Monterrey,25200.0,2021-10-14,0,0,0,1,1326.99,173,Electrodomésticos,WhatsApp,5,2,1,0,0.0,0,1326.99,0
+CL-00296,19,Femenino,Guadalajara,15900.0,2026-04-25,14,58,7,0,0.0,,Moda,Google Ads,8,2,1,0,0.0,6,,0
+CL-00297,36,Femenino,Monterrey,12900.0,2022-01-26,10,57,1,3,2118.72,2,Moda,Meta Ads,15,11,6,2,18.2,1,945.01,0
+CL-00298,26,Masculino,Guadalajara,9100.0,2022-11-19,6,20,0,8,6869.09,69,Celulares,Google Ads,8,2,1,7,22.2,0,1593.69,0
+CL-00299,26,Masculino,Toluca,10800.0,2026-06-27,3,7,0,1,828.81,65,Celulares,Google Ads,8,1,1,0,0.0,0,828.81,0
+CL-00300,56,Femenino,Chihuahua,8500.0,2024-06-18,0,0,0,1,1180.57,234,Electrónica,Google Ads,0,0,0,0,0.0,0,1180.57,0
+CL-00301,52,Femenino,Monterrey,9200.0,2023-06-25,0,0,0,0,0.0,,Electrónica,Google Ads,6,0,0,0,0.0,0,,0
+CL-00302,30,Femenino,Aguascalientes,19000.0,2024-12-07,40,124,4,2,2764.43,132,Electrodomésticos,Meta Ads,9,4,1,0,0.0,4,1161.67,0
+CL-00303,54,Femenino,Chihuahua,56100.0,2022-06-18,8,33,3,26,120812.1,7,Electrodomésticos,WhatsApp,10,6,1,4,14.0,2,4365.37,1
+CL-00304,27,Femenino,Querétaro,27700.0,2026-08-20,10,32,0,0,0.0,,Electrónica,Orgánico,4,3,0,0,0.0,0,,0
+CL-00305,33,Femenino,León,10300.0,2022-12-25,6,22,0,7,3379.08,41,Juguetes,Google Ads,15,10,5,5,22.9,0,365.71,0
+CL-00306,51,Masculino,Ciudad de México,15700.0,2025-01-14,23,123,6,0,0.0,,Hogar y Muebles,Orgánico,8,3,0,0,0.0,4,,0
+CL-00307,20,Masculino,Guadalajara,16400.0,2026-06-13,6,6,0,0,0.0,,Deportes,Google Ads,3,0,0,0,0.0,0,,0
+CL-00308,30,Femenino,San Luis Potosí,14200.0,2025-10-17,15,21,1,2,1252.84,103,Moda,Meta Ads,6,0,0,0,0.0,1,446.96,0
+CL-00309,18,Masculino,Toluca,19600.0,2023-07-02,22,177,7,1,1605.1,277,Celulares,Meta Ads,9,5,3,0,0.0,6,1605.1,0
+CL-00310,31,Masculino,Guadalajara,53000.0,2022-11-26,3,23,0,15,59601.06,4,Electrónica,Directo,2,1,0,4,11.2,0,5287.41,0
+CL-00311,26,Femenino,Puebla,10700.0,2025-10-10,12,16,1,4,3145.18,65,Moda,Meta Ads,10,5,0,1,26.4,0,959.84,0
+CL-00312,41,Femenino,Mérida,22300.0,2025-05-09,5,14,0,3,3453.64,45,Moda,Google Ads,3,0,0,1,9.8,0,2000.74,0
+CL-00313,19,Masculino,Veracruz,16400.0,2026-06-21,9,25,2,0,0.0,,Moda,Google Ads,4,3,1,0,0.0,1,,0
+CL-00314,40,Masculino,Toluca,22400.0,2023-07-13,7,26,0,2,1094.16,47,Deportes,Referido,5,2,0,2,25.6,0,678.03,0
+CL-00315,31,Masculino,Chihuahua,21100.0,2026-02-13,7,10,1,3,2160.41,17,Deportes,Orgánico,11,5,0,1,6.9,0,256.34,1
+CL-00316,54,Masculino,Ciudad de México,13500.0,2026-01-09,17,44,0,4,3977.41,145,Electrodomésticos,Meta Ads,11,4,0,2,30.7,0,921.67,0
+CL-00317,41,Masculino,Tijuana,18200.0,2025-06-10,13,69,3,1,2814.32,90,Electrodomésticos,Google Ads,18,6,5,0,0.0,2,2814.32,0
+CL-00318,28,Femenino,Toluca,14700.0,2026-06-02,14,25,1,0,0.0,,Juguetes,Google Ads,9,5,1,0,0.0,1,,0
+CL-00319,51,Masculino,Puebla,26500.0,2019-12-25,20,68,3,13,36852.18,55,Hogar y Muebles,Email,3,3,1,2,9.9,1,2674.62,0
+CL-00320,43,Femenino,Ciudad de México,33900.0,2020-11-18,10,28,0,20,70879.31,4,Hogar y Muebles,Email,4,2,2,6,13.5,0,1312.02,1
+CL-00321,46,Masculino,Ciudad de México,15400.0,2024-03-31,8,46,2,1,459.57,54,Celulares,Directo,9,2,0,0,0.0,2,459.57,0
+CL-00322,48,Masculino,Puebla,22500.0,2022-02-14,2,2,0,1,1285.23,252,Celulares,Google Ads,0,0,0,1,13.3,0,1285.23,0
+CL-00323,33,Masculino,Oaxaca,9900.0,2025-09-26,49,462,19,0,0.0,,Deportes,Meta Ads,10,8,0,0,0.0,17,,0
+CL-00324,53,Femenino,Toluca,8600.0,2024-04-18,1,4,0,4,5269.43,216,Hogar y Muebles,Meta Ads,2,0,0,1,22.5,0,1493.28,0
+CL-00325,31,Masculino,Ciudad de México,26300.0,2026-06-20,6,20,1,0,0.0,,Electrónica,Google Ads,16,13,3,0,0.0,1,,0
+CL-00326,42,Femenino,Aguascalientes,20800.0,2024-03-18,0,0,0,2,1938.15,153,Juguetes,Meta Ads,7,0,0,0,0.0,0,1078.58,0
+CL-00327,26,Femenino,Oaxaca,11100.0,2024-10-11,13,26,2,10,6390.27,281,Moda,Google Ads,18,17,10,8,15.3,1,867.03,0
+CL-00328,25,Femenino,Monterrey,19500.0,2024-04-29,10,50,3,1,680.11,59,Moda,Meta Ads,20,5,2,1,16.6,3,680.11,0
+CL-00329,41,Masculino,Guadalajara,20500.0,2021-05-10,12,33,0,3,4923.8,13,Electrónica,Google Ads,1,1,0,0,0.0,0,1323.77,1
+CL-00330,36,Femenino,Monterrey,17100.0,2024-10-17,0,0,0,0,0.0,,Belleza,Directo,6,0,0,0,0.0,0,,0
+CL-00331,37,Masculino,Aguascalientes,11400.0,2022-03-07,14,70,6,6,8755.71,132,Electrónica,Meta Ads,16,8,3,5,22.0,3,1236.32,0
+CL-00332,58,Femenino,Ciudad de México,21300.0,2024-07-11,14,40,1,6,12415.89,127,Hogar y Muebles,Google Ads,9,2,1,0,0.0,0,1626.33,0
+CL-00333,27,Femenino,Puebla,8300.0,2024-10-10,37,86,6,2,745.24,148,Moda,Meta Ads,11,9,1,0,0.0,5,374.61,0
+CL-00334,45,Femenino,Ciudad de México,12800.0,2023-11-27,0,0,0,0,0.0,,Electrodomésticos,Referido,0,0,0,0,0.0,0,,0
+CL-00335,50,Masculino,Ciudad de México,17000.0,2023-06-14,4,4,0,0,0.0,,Hogar y Muebles,Orgánico,6,0,0,0,0.0,0,,0
+CL-00336,19,Masculino,Monterrey,34500.0,2024-07-22,26,167,9,0,0.0,,Moda,Meta Ads,12,4,1,0,0.0,6,,0
+CL-00337,46,Femenino,Aguascalientes,14100.0,2023-08-30,1,2,0,1,1915.88,307,Moda,Orgánico,6,1,0,0,0.0,0,1915.88,0
+CL-00338,37,Masculino,León,25100.0,2023-11-06,13,72,3,1,758.89,36,Moda,Google Ads,8,2,1,1,20.2,3,758.89,0
+CL-00339,30,Masculino,Mérida,28200.0,2022-01-20,13,38,2,3,2648.87,67,Juguetes,WhatsApp,1,1,1,0,0.0,0,396.39,0
+CL-00340,28,Masculino,San Luis Potosí,16700.0,2025-07-13,3,11,1,2,2538.67,55,Hogar y Muebles,Meta Ads,9,4,2,1,17.3,0,949.29,0
+CL-00341,44,Femenino,Aguascalientes,13300.0,2022-10-26,17,53,1,4,6124.92,38,Hogar y Muebles,Google Ads,17,5,1,0,0.0,1,920.57,0
+CL-00342,23,Masculino,Monterrey,15800.0,2025-10-03,0,0,0,10,8050.17,14,Belleza,Meta Ads,8,2,0,2,20.2,0,960.7,0
+CL-00343,30,Masculino,Mérida,10000.0,2024-01-31,14,26,0,8,3733.6,8,Moda,Meta Ads,9,4,1,4,29.2,0,750.84,0
+CL-00344,26,Femenino,Monterrey,16700.0,2026-07-10,3,10,0,1,935.66,19,Celulares,Directo,12,2,2,0,0.0,0,935.66,0
+CL-00345,55,Femenino,Ciudad de México,12700.0,2020-03-04,0,0,0,0,0.0,,Moda,Meta Ads,3,1,0,0,0.0,0,,0
+CL-00346,30,Femenino,Aguascalientes,19600.0,2026-06-25,7,18,0,3,6652.45,53,Hogar y Muebles,Meta Ads,5,3,1,1,11.5,0,1793.76,0
+CL-00347,30,Femenino,Mérida,11900.0,2026-09-02,11,50,3,0,0.0,,Moda,Google Ads,8,2,0,0,0.0,3,,0
+CL-00348,31,Femenino,Guadalajara,13800.0,2024-02-01,9,44,1,9,12624.94,42,Hogar y Muebles,Meta Ads,8,0,0,7,17.7,0,1290.05,0
+CL-00349,46,Femenino,Puebla,11100.0,2025-03-01,10,52,1,14,21235.66,33,Hogar y Muebles,Email,17,12,4,14,19.1,1,1066.7,0
+CL-00350,64,Masculino,Monterrey,41200.0,2020-04-27,0,0,0,1,3911.49,190,Hogar y Muebles,Orgánico,6,0,0,0,0.0,0,3911.49,0
+CL-00351,34,Femenino,Aguascalientes,6000.0,2021-05-14,12,80,1,1,806.63,49,Deportes,Directo,5,3,0,0,0.0,0,806.63,0
+CL-00352,30,Femenino,Guadalajara,22000.0,2023-06-09,0,0,0,0,0.0,,Celulares,Referido,5,0,0,0,0.0,0,,0
+CL-00353,35,Femenino,Toluca,56200.0,2022-02-27,17,65,2,19,81990.09,6,Hogar y Muebles,Directo,5,1,0,1,9.6,0,3746.57,1
+CL-00354,35,Masculino,Puebla,16400.0,2025-05-02,28,131,5,1,1151.97,88,Celulares,WhatsApp,8,0,0,1,11.0,5,1151.97,0
+CL-00355,56,Femenino,León,66300.0,2021-07-15,5,9,0,19,95417.92,14,Hogar y Muebles,Email,7,4,3,0,0.0,0,3536.95,0
+CL-00356,56,Masculino,Querétaro,9200.0,2023-05-17,2,3,1,2,2788.16,313,Electrodomésticos,Meta Ads,2,1,0,0,0.0,1,1360.92,0
+CL-00357,41,Femenino,Guadalajara,12900.0,2022-10-17,6,9,1,2,834.31,64,Juguetes,Google Ads,10,3,1,2,18.0,0,353.64,0
+CL-00358,26,Femenino,Ciudad de México,19000.0,2024-12-18,43,112,13,2,2434.35,197,Moda,Orgánico,4,1,0,1,22.1,12,1452.17,0
+CL-00359,18,Femenino,Ciudad de México,34100.0,2024-12-05,7,31,1,8,15664.13,11,Celulares,Meta Ads,5,1,1,6,14.2,0,2721.44,0
+CL-00360,29,Masculino,Ciudad de México,28200.0,2026-06-08,6,14,3,4,8259.04,67,Electrónica,Orgánico,1,1,0,3,18.1,3,2552.99,0
+CL-00361,64,Femenino,Puebla,22000.0,2022-10-15,3,3,0,1,3001.64,216,Electrónica,Orgánico,3,1,0,0,0.0,0,3001.64,0
+CL-00362,18,Femenino,León,21000.0,2021-11-01,1,4,0,6,4115.43,19,Moda,Email,8,2,0,4,22.5,0,1105.46,1
+CL-00363,50,Femenino,León,8700.0,2024-03-28,2,7,0,1,607.21,315,Electrodomésticos,Orgánico,2,1,0,0,0.0,0,607.21,0
+CL-00364,48,Femenino,Ciudad de México,12100.0,2020-03-06,0,0,0,5,1774.38,362,Belleza,Google Ads,2,1,0,0,0.0,0,214.5,0
+CL-00365,37,Femenino,Querétaro,17100.0,2024-11-09,8,27,2,2,1047.4,37,Belleza,Orgánico,5,2,2,1,8.2,1,588.33,0
+CL-00366,32,Masculino,Ciudad de México,16600.0,2023-11-28,16,56,3,1,345.6,163,Moda,Meta Ads,9,6,3,1,18.6,1,345.6,0
+CL-00367,30,Femenino,Ciudad de México,36700.0,2022-12-01,3,12,0,2,5610.7,48,Hogar y Muebles,Orgánico,3,0,0,2,18.3,0,1885.05,0
+CL-00368,43,Masculino,Puebla,30200.0,2021-09-27,22,94,5,12,33139.43,36,Electrónica,Referido,12,9,3,0,0.0,0,2399.93,0
+CL-00369,38,Femenino,Tijuana,32600.0,2025-12-11,5,45,0,6,6822.78,67,Moda,Google Ads,7,5,1,2,12.1,0,1423.27,0
+CL-00370,40,Masculino,Oaxaca,10400.0,2024-11-29,12,70,0,0,0.0,,Deportes,Orgánico,8,5,0,0,0.0,0,,0
+CL-00371,43,Femenino,Puebla,13900.0,2025-12-16,35,375,10,1,1295.83,55,Hogar y Muebles,WhatsApp,4,2,2,1,17.5,9,1295.83,0
+CL-00372,36,Masculino,Guadalajara,39300.0,2021-12-13,10,86,4,8,13549.64,49,Moda,Orgánico,6,3,0,1,7.2,1,1917.83,0
+CL-00373,55,Femenino,Monterrey,23100.0,2024-09-13,0,0,0,3,4278.83,267,Deportes,WhatsApp,2,0,0,3,17.0,0,3154.31,0
+CL-00374,42,Masculino,Ciudad de México,20400.0,2025-06-02,12,12,0,3,3637.77,152,Electrónica,Google Ads,13,7,4,0,0.0,0,1131.2,0
+CL-00375,31,Masculino,Guadalajara,27300.0,2024-01-02,7,12,0,5,11622.56,102,Celulares,Meta Ads,14,4,2,3,19.7,0,1421.58,0
+CL-00376,43,Femenino,Toluca,12300.0,2022-11-16,11,35,3,7,7399.11,51,Electrodomésticos,Email,18,17,4,7,23.9,2,937.9,0
+CL-00377,34,Masculino,Guadalajara,13400.0,2023-11-07,7,24,1,2,3292.41,17,Electrónica,Meta Ads,7,2,0,1,22.7,0,2137.19,0
+CL-00378,36,Masculino,Ciudad de México,29200.0,2024-08-02,24,45,3,2,1698.67,96,Deportes,Google Ads,10,2,2,2,18.3,3,738.34,0
+CL-00379,31,Masculino,Toluca,8700.0,2024-04-14,9,15,1,5,2832.11,50,Juguetes,Email,9,5,4,5,14.6,1,313.66,0
+CL-00380,58,Femenino,Veracruz,11000.0,2023-01-23,1,2,0,2,2474.35,177,Electrodomésticos,Google Ads,4,1,0,0,0.0,0,1255.1,0
+CL-00381,62,Femenino,Ciudad de México,39000.0,2022-01-18,31,179,3,23,64340.2,98,Electrodomésticos,Directo,1,1,0,5,9.7,1,3322.52,0
+CL-00382,18,Masculino,Ciudad de México,20800.0,2026-06-22,1,4,0,2,2625.95,62,Electrónica,Meta Ads,7,2,0,1,9.1,0,1672.43,0
+CL-00383,19,Femenino,Guadalajara,15200.0,2023-09-30,33,155,2,1,274.96,201,Moda,Google Ads,6,5,2,0,0.0,2,274.96,0
+CL-00384,50,Femenino,Cancún,31900.0,2023-11-30,19,58,2,16,20388.72,11,Belleza,WhatsApp,9,1,0,1,10.7,1,2288.29,1
+CL-00385,30,Masculino,León,12400.0,2024-11-10,37,257,10,7,7739.94,231,Electrónica,Meta Ads,7,1,1,2,15.5,6,1444.43,0
+CL-00386,23,Masculino,Veracruz,15200.0,2024-03-23,7,28,3,12,18813.12,35,Electrónica,Email,14,8,3,11,31.6,0,849.82,0
+CL-00387,32,Femenino,Veracruz,10700.0,2021-12-07,14,28,1,6,2693.71,55,Juguetes,WhatsApp,9,3,2,5,24.2,1,172.61,0
+CL-00388,52,Masculino,Monterrey,23900.0,2025-08-16,7,29,2,4,16374.1,327,Hogar y Muebles,Meta Ads,7,3,1,1,22.2,1,6341.33,0
+CL-00389,35,Femenino,Ciudad de México,13400.0,2026-07-31,8,18,0,1,532.0,8,Belleza,Google Ads,4,1,0,0,0.0,0,532.0,1
+CL-00390,29,Masculino,Ciudad de México,10700.0,2025-04-08,12,21,0,13,14330.4,180,Electrónica,Orgánico,13,6,5,10,24.6,0,452.9,0
+CL-00391,50,Masculino,Ciudad de México,15300.0,2023-09-07,0,0,0,0,0.0,,Juguetes,Email,0,0,0,0,0.0,0,,0
+CL-00392,28,Masculino,Puebla,16000.0,2023-10-21,44,260,28,2,3484.62,178,Hogar y Muebles,Email,9,1,0,1,14.2,25,435.66,0
+CL-00393,23,Masculino,Guadalajara,10100.0,2026-07-30,5,12,0,0,0.0,,Moda,Meta Ads,9,3,0,0,0.0,0,,0
+CL-00394,29,Masculino,Puebla,14700.0,2025-05-15,17,114,2,3,1750.31,112,Juguetes,Google Ads,12,3,0,1,11.1,2,621.68,0
+CL-00395,18,Femenino,León,12300.0,2026-07-18,11,34,0,2,1804.38,8,Juguetes,Meta Ads,13,3,0,1,9.0,0,1124.97,0
+CL-00396,38,Masculino,Ciudad de México,19100.0,2023-11-18,3,3,0,0,0.0,,Electrodomésticos,Meta Ads,7,0,0,0,0.0,0,,0
+CL-00397,38,Femenino,Guadalajara,9500.0,2021-04-21,9,53,1,14,5311.96,36,Belleza,Directo,5,3,0,10,23.0,1,439.18,0
+CL-00398,48,Masculino,Oaxaca,8500.0,2022-01-30,3,3,1,0,0.0,,Juguetes,Orgánico,0,0,0,0,0.0,0,,0
+CL-00399,31,Femenino,Oaxaca,15600.0,2026-09-23,5,23,3,0,0.0,,Electrodomésticos,Meta Ads,14,4,0,0,0.0,2,,0
+CL-00400,32,Femenino,Querétaro,11000.0,2026-09-10,11,37,3,0,0.0,,Belleza,Referido,14,4,3,0,0.0,3,,0
+CL-00401,53,Masculino,Oaxaca,11200.0,2025-12-11,14,21,2,2,4416.32,7,Hogar y Muebles,Google Ads,7,3,2,0,0.0,0,2780.31,1
+CL-00402,35,No especificado,Chihuahua,10900.0,2022-10-07,7,25,0,10,12605.66,23,Celulares,Email,16,4,2,6,17.5,0,426.44,1
+CL-00403,40,Femenino,Ciudad de México,26000.0,2025-07-27,25,149,5,2,4543.21,254,Hogar y Muebles,Google Ads,15,7,1,1,19.8,3,1080.34,0
+CL-00404,32,Masculino,Ciudad de México,35800.0,2021-03-18,5,21,1,36,120955.6,19,Electrónica,Directo,0,0,0,6,8.9,0,3685.89,0
+CL-00405,48,Masculino,Puebla,21800.0,2019-12-20,17,35,5,29,72804.22,37,Electrodomésticos,Email,5,3,1,4,7.1,1,1026.83,0
+CL-00406,60,Femenino,Ciudad de México,22600.0,2024-03-23,1,4,0,1,418.96,287,Juguetes,Google Ads,9,2,0,0,0.0,0,418.96,0
+CL-00407,22,Masculino,Puebla,7700.0,2025-12-29,21,92,2,3,1975.54,33,Moda,Email,12,10,6,3,21.8,2,586.46,0
+CL-00408,29,Femenino,León,10600.0,2025-03-04,2,4,0,1,411.17,150,Belleza,Email,2,0,0,0,0.0,0,411.17,0
+CL-00409,30,Femenino,Oaxaca,31700.0,2021-08-14,13,36,1,10,32745.7,26,Hogar y Muebles,Email,8,2,1,3,7.9,0,3787.45,1
+CL-00410,42,No especificado,Ciudad de México,17000.0,2022-02-22,2,4,0,0,0.0,,Electrónica,Google Ads,6,0,0,0,0.0,0,,0
+CL-00411,47,Masculino,Ciudad de México,18900.0,2021-09-03,9,12,0,1,448.12,65,Moda,Google Ads,4,2,0,0,0.0,0,448.12,0
+CL-00412,45,Masculino,Puebla,30200.0,2022-11-22,0,0,0,2,3218.81,111,Hogar y Muebles,Directo,13,5,1,2,5.0,0,1696.57,0
+CL-00413,40,Masculino,Ciudad de México,34400.0,2022-01-28,5,10,0,1,2049.41,1,Celulares,Orgánico,10,4,1,0,0.0,0,2049.41,1
+CL-00414,37,Masculino,Oaxaca,21800.0,2024-11-20,2,2,0,0,0.0,,Electrodomésticos,Directo,1,0,0,0,0.0,0,,0
+CL-00415,33,Femenino,Guadalajara,14300.0,2024-05-16,28,148,3,4,2965.19,193,Moda,Meta Ads,5,2,1,1,5.3,2,292.26,0
+CL-00416,48,Femenino,Oaxaca,49100.0,2022-03-24,14,58,1,10,43503.43,75,Hogar y Muebles,Directo,9,7,1,1,8.0,1,1356.15,0
+CL-00417,58,Masculino,Tijuana,6200.0,2021-09-08,1,2,0,0,0.0,,Electrodomésticos,Orgánico,7,0,0,0,0.0,0,,0
+CL-00418,34,Masculino,Chihuahua,10500.0,2026-06-25,5,35,0,0,0.0,,Moda,Orgánico,10,6,5,0,0.0,0,,0
+CL-00419,44,Femenino,Puebla,39200.0,2024-08-24,8,31,0,10,16198.29,2,Moda,Orgánico,10,5,3,2,11.4,0,1146.67,1
+CL-00420,27,Femenino,Ciudad de México,14700.0,2026-08-05,7,15,0,0,0.0,,Moda,Google Ads,6,2,1,0,0.0,0,,0
+CL-00421,44,Masculino,Ciudad de México,49000.0,2022-01-19,8,60,2,24,93070.88,27,Electrónica,Directo,4,3,1,3,9.0,1,5474.77,1
+CL-00422,21,Femenino,Puebla,13900.0,2025-05-08,60,363,15,1,745.3,282,Moda,Meta Ads,0,0,0,1,8.0,13,745.3,0
+CL-00423,28,Femenino,Monterrey,22300.0,2026-07-06,5,13,0,1,1454.69,66,Electrodomésticos,Orgánico,4,3,0,1,10.5,0,1454.69,0
+CL-00424,51,Masculino,Monterrey,22700.0,2023-07-04,0,0,0,1,2233.52,331,Electrónica,Orgánico,6,0,0,0,0.0,0,2233.52,0
+CL-00425,22,Masculino,Tijuana,13500.0,2022-12-05,15,28,3,4,4178.3,1,Electrónica,Google Ads,11,7,2,2,17.4,1,626.58,1
+CL-00426,19,Femenino,Mérida,8500.0,2023-06-21,7,34,0,9,9780.44,15,Electrodomésticos,Directo,8,7,4,7,24.7,0,1715.77,0
+CL-00427,31,Femenino,Veracruz,14500.0,2025-01-12,21,140,2,2,1333.83,235,Moda,Email,10,4,2,0,0.0,0,369.59,0
+CL-00428,29,Masculino,Puebla,34100.0,2022-12-17,31,116,3,15,35381.79,5,Electrónica,WhatsApp,5,2,1,2,6.5,1,1421.05,1
+CL-00429,40,Masculino,Oaxaca,22500.0,2022-11-16,3,6,0,4,9936.96,126,Electrónica,Meta Ads,5,1,0,2,8.9,0,1134.88,0
+CL-00430,37,Masculino,Aguascalientes,17400.0,2022-11-19,3,5,0,1,1507.82,118,Celulares,Referido,12,8,0,0,0.0,0,1507.82,0
+CL-00431,39,Masculino,Ciudad de México,17600.0,2026-08-03,4,5,1,0,0.0,,Moda,Google Ads,10,5,3,0,0.0,0,,0
+CL-00432,29,Femenino,Mérida,67100.0,2023-01-31,9,39,1,10,20805.8,2,Moda,Email,2,2,0,2,10.9,0,1947.19,1
+CL-00433,47,Femenino,Ciudad de México,111000.0,2022-12-11,3,10,0,21,122622.55,6,Electrodomésticos,Directo,8,2,1,1,10.1,0,4886.11,0
+CL-00434,55,Masculino,León,13900.0,2024-12-16,3,7,0,2,2805.68,43,Electrodomésticos,Email,6,2,2,2,20.2,0,776.16,0
+CL-00435,21,Femenino,San Luis Potosí,17800.0,2021-11-16,9,19,0,6,6642.78,1,Electrónica,Google Ads,15,5,3,4,25.8,0,699.93,1
+CL-00436,43,Masculino,Ciudad de México,20900.0,2024-11-17,3,8,1,8,13788.25,13,Electrónica,Google Ads,9,3,1,7,29.9,0,967.48,1
+CL-00437,54,Femenino,León,9600.0,2024-11-26,4,6,1,0,0.0,,Moda,Meta Ads,1,0,0,0,0.0,0,,0
+CL-00438,37,Femenino,Toluca,6300.0,2026-01-14,16,31,4,0,0.0,,Moda,Google Ads,15,2,1,0,0.0,0,,0
+CL-00439,29,No especificado,Oaxaca,14300.0,2024-02-27,37,186,12,2,818.28,77,Juguetes,Orgánico,6,2,1,1,15.7,8,307.94,0
+CL-00440,29,Femenino,Toluca,30300.0,2023-07-04,16,96,4,0,0.0,,Juguetes,Referido,9,8,4,0,0.0,3,,0
+CL-00441,35,Femenino,Puebla,11500.0,2021-05-12,2,3,0,0,0.0,,Moda,Meta Ads,5,1,0,0,0.0,0,,0
+CL-00442,28,Femenino,Toluca,13600.0,2023-12-27,26,84,2,0,0.0,,Belleza,WhatsApp,0,0,0,0,0.0,2,,0
+CL-00443,54,Femenino,Veracruz,8800.0,2022-03-18,3,7,1,0,0.0,,Electrodomésticos,Orgánico,2,1,0,0,0.0,0,,0
+CL-00444,27,Femenino,León,12800.0,2025-02-19,30,153,8,0,0.0,,Electrónica,Meta Ads,7,3,0,0,0.0,5,,0
+CL-00445,44,Femenino,Ciudad de México,10900.0,2024-07-19,13,36,2,11,12727.28,46,Electrodomésticos,Orgánico,17,7,6,6,26.6,2,1066.69,0
+CL-00446,28,Masculino,San Luis Potosí,7500.0,2025-07-25,5,10,1,6,5078.59,5,Electrónica,Orgánico,12,6,1,6,18.2,0,531.84,0
+CL-00447,43,Femenino,Chihuahua,12800.0,2021-11-27,5,16,0,2,2032.78,322,Hogar y Muebles,Orgánico,3,1,0,1,23.6,0,780.27,0
+CL-00448,34,Femenino,Oaxaca,8700.0,2026-03-14,10,36,2,0,0.0,,Juguetes,Google Ads,23,20,4,0,0.0,1,,0
+CL-00449,26,Femenino,Querétaro,17600.0,2026-07-02,18,60,3,0,0.0,,Celulares,Meta Ads,0,0,0,0,0.0,2,,0
+CL-00450,34,Femenino,Mérida,16200.0,2026-09-19,16,36,1,0,0.0,,Hogar y Muebles,Google Ads,3,0,0,0,0.0,0,,0
+CL-00451,39,Femenino,Toluca,12300.0,2024-11-20,4,13,0,3,2095.66,74,Moda,Google Ads,6,2,0,1,20.1,0,741.28,0
+CL-00452,29,Masculino,Aguascalientes,40700.0,2022-10-31,11,49,1,29,93527.57,41,Celulares,Referido,13,7,1,3,11.5,0,1594.1,0
+CL-00453,58,Femenino,San Luis Potosí,8100.0,2025-02-28,4,8,0,10,3033.91,18,Belleza,Meta Ads,32,15,6,9,26.6,0,421.33,0
+CL-00454,40,Femenino,Ciudad de México,10300.0,2020-04-03,1,2,0,0,0.0,,Hogar y Muebles,Directo,2,0,0,0,0.0,0,,0
+CL-00455,34,Femenino,Veracruz,11500.0,2024-05-03,24,106,11,0,0.0,,Moda,Email,14,8,2,0,0.0,5,,0
+CL-00456,27,Femenino,Oaxaca,6400.0,2025-02-02,9,45,0,2,843.06,30,Moda,Meta Ads,20,13,7,2,26.3,0,341.87,0
+CL-00457,55,Femenino,León,16100.0,2025-08-10,2,2,0,2,1318.63,69,Belleza,Google Ads,2,0,0,1,22.1,0,558.27,0
+CL-00458,26,Femenino,Puebla,17100.0,2022-06-15,4,4,0,1,282.41,230,Deportes,Meta Ads,5,0,0,1,17.5,0,282.41,0
+CL-00459,29,Masculino,Puebla,15600.0,2025-02-25,4,7,1,11,11223.67,44,Celulares,Meta Ads,16,9,5,7,23.4,1,2121.03,0
+CL-00460,42,Masculino,Guadalajara,33500.0,2023-08-07,11,56,1,14,23614.99,22,Moda,Directo,5,2,0,2,14.0,1,1321.91,0
+CL-00461,28,Masculino,Guadalajara,12800.0,2021-07-10,1,1,0,3,2913.48,35,Electrodomésticos,Directo,3,1,1,0,0.0,0,847.68,0
+CL-00462,24,Femenino,Toluca,13500.0,2026-07-08,8,39,3,2,822.34,24,Belleza,Meta Ads,5,3,1,2,10.6,2,497.94,1
+CL-00463,38,Femenino,Toluca,40000.0,2024-03-27,6,15,0,1,7065.54,365,Electrodomésticos,Orgánico,8,2,1,0,0.0,0,7065.54,0
+CL-00464,21,Masculino,Puebla,13300.0,2026-07-12,8,17,0,0,0.0,,Celulares,Meta Ads,2,1,0,0,0.0,0,,0
+CL-00465,32,Femenino,Veracruz,19200.0,2021-10-01,5,34,0,4,2861.25,1,Moda,Meta Ads,21,10,3,4,28.0,0,702.79,1
+CL-00466,31,Femenino,Veracruz,12900.0,2024-03-17,6,11,1,6,3051.1,9,Juguetes,WhatsApp,13,12,6,5,25.6,0,275.21,1
+CL-00467,31,Femenino,Ciudad de México,24600.0,2024-07-06,25,94,9,2,1983.83,100,Moda,Google Ads,0,0,0,0,0.0,7,1271.1,0
+CL-00468,53,Femenino,Guadalajara,17100.0,2022-09-13,1,2,0,0,0.0,,Hogar y Muebles,Orgánico,2,1,0,0,0.0,0,,0
+CL-00469,41,Femenino,Veracruz,31700.0,2020-01-23,11,49,3,13,44678.46,2,Hogar y Muebles,WhatsApp,5,5,3,0,0.0,0,1511.47,1
+CL-00470,30,Femenino,Querétaro,20600.0,2025-01-08,14,48,3,1,1283.96,82,Belleza,Google Ads,17,7,1,1,16.5,3,1283.96,0
+CL-00471,30,Femenino,Ciudad de México,22400.0,2025-03-19,27,29,0,1,1728.03,38,Celulares,Google Ads,8,2,1,0,0.0,0,1728.03,0
+CL-00472,51,Femenino,Puebla,12900.0,2021-01-11,0,0,0,0,0.0,,Juguetes,Referido,3,1,0,0,0.0,0,,0
+CL-00473,31,Femenino,Tijuana,7500.0,2022-06-04,4,11,1,1,798.18,83,Hogar y Muebles,Meta Ads,9,4,2,1,27.3,1,798.18,0
+CL-00474,51,No especificado,Monterrey,30600.0,2025-02-06,2,2,0,10,6245.34,154,Belleza,Orgánico,15,2,1,2,9.9,0,1106.25,0
+CL-00475,24,Masculino,Toluca,17900.0,2023-10-11,21,59,4,0,0.0,,Celulares,Google Ads,12,1,0,0,0.0,4,,0
+CL-00476,61,Masculino,Ciudad de México,31900.0,2022-11-10,1,2,0,4,7444.38,293,Electrónica,Directo,3,1,0,1,18.6,0,1549.25,0
+CL-00477,67,Femenino,Querétaro,18700.0,2021-06-25,0,0,0,0,0.0,,Hogar y Muebles,Google Ads,7,0,0,0,0.0,0,,0
+CL-00478,53,Femenino,León,19500.0,2023-07-13,8,17,0,6,11534.51,57,Hogar y Muebles,Referido,7,2,2,3,11.5,0,1309.11,0
+CL-00479,44,Masculino,Guadalajara,11200.0,2024-07-19,7,20,0,6,6149.52,54,Electrodomésticos,Email,20,11,3,3,30.7,0,1574.57,0
+CL-00480,61,Femenino,Monterrey,18100.0,2019-12-15,3,6,0,3,1692.42,348,Moda,Email,10,0,0,1,15.2,0,367.91,0
+CL-00481,34,Femenino,Ciudad de México,16900.0,2021-04-18,6,29,1,2,752.79,14,Belleza,WhatsApp,17,3,1,1,18.9,1,248.04,1
+CL-00482,30,Femenino,Monterrey,11000.0,2023-09-22,21,53,1,2,3571.34,75,Electrodomésticos,Email,5,1,1,0,0.0,1,2243.3,0
+CL-00483,36,Masculino,León,14100.0,2025-11-10,3,6,0,2,4510.35,79,Electrónica,Orgánico,6,3,0,2,21.8,0,1243.48,0
+CL-00484,31,Masculino,San Luis Potosí,13900.0,2023-09-29,13,60,2,0,0.0,,Electrodomésticos,Google Ads,18,7,2,0,0.0,2,,0
+CL-00485,28,Femenino,Chihuahua,39900.0,2022-09-17,6,15,1,16,29220.8,11,Moda,Directo,6,4,0,1,11.3,0,3274.83,1
+CL-00486,36,Femenino,Toluca,32900.0,2025-05-31,9,33,2,9,6583.74,13,Belleza,Orgánico,15,7,2,4,5.0,1,823.74,0
+CL-00487,40,Femenino,Monterrey,57400.0,2020-11-25,12,20,2,10,20873.22,17,Belleza,Directo,4,3,0,0,0.0,1,1030.8,1
+CL-00488,26,Masculino,Aguascalientes,18400.0,2024-08-02,48,261,19,1,971.89,134,Electrodomésticos,Meta Ads,3,3,1,0,0.0,18,971.89,0
+CL-00489,33,Femenino,Ciudad de México,20600.0,2020-03-01,0,0,0,0,0.0,,Celulares,Meta Ads,2,0,0,0,0.0,0,,0
+CL-00490,21,Masculino,Guadalajara,9900.0,2021-09-01,11,31,1,6,3640.1,68,Deportes,Google Ads,23,11,5,5,15.0,0,365.95,0
+CL-00491,23,Masculino,Ciudad de México,9100.0,2026-09-10,5,5,0,0,0.0,,Electrónica,Google Ads,5,3,1,0,0.0,0,,0
+CL-00492,22,Femenino,Monterrey,19500.0,2026-06-09,4,7,0,0,0.0,,Moda,Google Ads,15,5,2,0,0.0,0,,0
+CL-00493,56,Femenino,Toluca,11900.0,2021-02-06,1,1,1,0,0.0,,Belleza,Google Ads,0,0,0,0,0.0,1,,0
+CL-00494,63,Femenino,Mérida,12500.0,2020-04-02,0,0,0,0,0.0,,Electrodomésticos,Referido,8,3,0,0,0.0,0,,0
+CL-00495,42,Femenino,Oaxaca,15700.0,2023-11-28,1,1,0,1,457.66,355,Moda,Meta Ads,1,0,0,1,13.1,0,457.66,0
+CL-00496,31,Masculino,Tijuana,12000.0,2021-07-15,1,2,2,4,5170.65,246,Electrónica,Google Ads,1,0,0,0,0.0,2,1814.37,0
+CL-00497,30,Femenino,Chihuahua,22500.0,2026-09-08,6,26,0,0,0.0,,Moda,Google Ads,11,2,1,0,0.0,0,,0
+CL-00498,37,Femenino,Ciudad de México,24300.0,2024-01-11,32,258,11,2,4190.88,21,Hogar y Muebles,Meta Ads,9,4,0,1,18.5,9,2869.96,0
+CL-00499,41,Masculino,San Luis Potosí,43500.0,2020-05-06,20,93,3,14,43128.22,5,Electrónica,Directo,9,8,0,2,12.6,0,3636.85,1
+CL-00500,46,Femenino,Ciudad de México,18400.0,2023-04-29,3,10,0,11,8755.9,67,Deportes,Email,28,14,7,10,30.6,0,406.09,0
+CL-00501,45,Femenino,Ciudad de México,55500.0,2025-04-13,4,9,0,2,1192.75,25,Juguetes,Meta Ads,6,3,3,1,15.0,0,765.95,1
+CL-00502,28,Femenino,Cancún,42000.0,2024-08-10,29,58,1,6,5672.02,64,Moda,Meta Ads,17,8,6,4,23.5,0,970.54,0
+CL-00503,45,Femenino,Querétaro,20500.0,2024-02-08,7,35,2,14,26028.0,23,Hogar y Muebles,Directo,13,4,1,5,16.9,2,2746.04,0
+CL-00504,22,Femenino,Querétaro,7900.0,2026-03-05,10,29,2,1,1310.4,28,Electrónica,Meta Ads,8,3,2,1,21.3,0,1310.4,0
+CL-00505,64,Masculino,Ciudad de México,41900.0,2020-07-23,4,11,1,12,16150.93,20,Juguetes,Directo,11,9,7,0,0.0,0,1167.74,1
+CL-00506,30,Masculino,Mérida,9200.0,2024-09-29,5,8,0,2,461.93,6,Moda,WhatsApp,2,0,0,2,22.1,0,205.39,1
+CL-00507,27,Femenino,León,22200.0,2024-02-06,28,103,3,1,316.46,96,Moda,Google Ads,6,1,1,0,0.0,3,316.46,0
+CL-00508,46,Masculino,Monterrey,55700.0,2021-06-02,10,19,1,5,10520.62,36,Belleza,Orgánico,5,4,0,1,6.7,0,1635.05,0
+CL-00509,32,Masculino,Mérida,20300.0,2025-01-23,2,17,0,2,1615.92,157,Belleza,Google Ads,4,0,0,1,8.8,0,466.59,0
+CL-00510,55,Femenino,Puebla,13100.0,2024-06-10,1,1,0,0,0.0,,Moda,Directo,1,0,0,0,0.0,0,,0
+CL-00511,29,Masculino,San Luis Potosí,16400.0,2023-07-28,20,219,17,0,0.0,,Electrónica,Directo,5,1,0,0,0.0,15,,0
+CL-00512,27,Masculino,San Luis Potosí,13900.0,2025-09-09,67,309,25,1,364.89,220,Belleza,Directo,13,1,1,0,0.0,18,364.89,0
+CL-00513,41,Masculino,Guadalajara,15800.0,2023-05-17,13,54,1,3,6190.68,114,Electrónica,Meta Ads,5,3,0,1,21.8,1,2764.51,0
+CL-00514,32,Masculino,Ciudad de México,10100.0,2022-01-17,6,10,2,8,6125.33,234,Celulares,Meta Ads,8,2,0,6,18.6,0,862.95,0
+CL-00515,28,Masculino,Ciudad de México,13100.0,2026-07-26,8,45,3,0,0.0,,Electrónica,Google Ads,5,3,2,0,0.0,1,,0
+CL-00516,41,Femenino,Cancún,24600.0,2022-12-10,12,56,1,6,3901.1,48,Belleza,Google Ads,7,5,1,2,11.2,1,279.28,0
+CL-00517,34,Femenino,Ciudad de México,32400.0,2024-08-07,26,149,9,1,2340.99,179,Hogar y Muebles,Meta Ads,6,3,1,0,0.0,8,2340.99,0
+CL-00518,32,Masculino,Monterrey,21800.0,2026-08-22,7,11,1,0,0.0,,Celulares,Orgánico,2,1,0,0,0.0,1,,0
+CL-00519,30,Femenino,Querétaro,16000.0,2026-07-06,3,11,0,0,0.0,,Juguetes,Google Ads,3,3,1,0,0.0,0,,0
+CL-00520,26,Femenino,Guadalajara,11100.0,2025-01-05,15,41,0,17,11097.11,80,Moda,Email,12,5,5,13,26.1,0,573.07,0
+CL-00521,69,Femenino,Oaxaca,8800.0,2021-05-15,2,2,0,0,0.0,,Hogar y Muebles,Directo,3,0,0,0,0.0,0,,0
+CL-00522,26,Femenino,Tijuana,26900.0,2022-03-07,4,5,0,2,1618.58,37,Moda,Meta Ads,11,4,1,1,10.0,0,1164.46,0
+CL-00523,31,Femenino,Ciudad de México,20700.0,2023-01-11,6,20,1,6,5243.55,3,Moda,Google Ads,8,5,3,0,0.0,0,1005.24,1
+CL-00524,18,Femenino,Mérida,14300.0,2026-08-30,15,99,0,0,0.0,,Belleza,Google Ads,12,6,0,0,0.0,0,,0
+CL-00525,31,Femenino,Guadalajara,23400.0,2025-06-15,19,48,2,1,1657.83,242,Hogar y Muebles,Google Ads,0,0,0,1,15.3,0,1657.83,0
+CL-00526,57,Femenino,Monterrey,12900.0,2021-10-26,1,2,1,1,460.15,356,Moda,Directo,8,0,0,1,12.9,1,460.15,0
+CL-00527,38,No especificado,Guadalajara,15300.0,2022-10-21,5,16,0,2,2957.66,133,Electrónica,Directo,1,0,0,1,15.2,0,1679.52,0
+CL-00528,21,Masculino,Oaxaca,25600.0,2021-04-18,4,20,1,6,13736.62,71,Hogar y Muebles,Orgánico,11,3,2,1,23.1,1,1350.29,0
+CL-00529,39,Femenino,Mérida,11700.0,2022-08-13,11,44,0,5,2082.18,47,Moda,Email,5,5,4,5,26.0,0,529.76,0
+CL-00530,23,Masculino,Oaxaca,14900.0,2025-09-20,15,60,4,4,4319.25,59,Celulares,Orgánico,4,1,0,2,16.0,0,1587.89,0
+CL-00531,40,Femenino,Monterrey,13100.0,2023-11-21,2,2,1,2,4220.21,292,Electrodomésticos,Google Ads,0,0,0,0,0.0,1,2306.09,0
+CL-00532,50,Femenino,San Luis Potosí,18900.0,2023-06-04,7,19,1,7,11299.58,102,Electrodomésticos,Meta Ads,5,3,0,3,13.0,1,2948.21,0
+CL-00533,51,Femenino,Puebla,6000.0,2022-09-11,10,15,0,1,690.12,83,Moda,WhatsApp,7,1,1,0,0.0,0,690.12,0
+CL-00534,41,Masculino,Guadalajara,18000.0,2025-05-15,4,11,0,0,0.0,,Moda,Directo,4,1,0,0,0.0,0,,0
+CL-00535,33,Masculino,Chihuahua,7600.0,2022-12-31,0,0,0,2,1567.51,213,Celulares,Meta Ads,11,1,0,1,20.1,0,912.93,0
+CL-00536,24,Femenino,Monterrey,26300.0,2021-10-27,4,10,0,7,4480.97,12,Belleza,Google Ads,5,3,2,5,13.7,0,254.95,0
+CL-00537,26,Femenino,Mérida,18200.0,2026-08-30,7,36,1,0,0.0,,Moda,Google Ads,4,0,0,0,0.0,1,,0
+CL-00538,40,Femenino,Oaxaca,9500.0,2023-04-25,12,36,1,6,3041.24,48,Moda,WhatsApp,14,6,4,6,23.9,0,1432.25,0
+CL-00539,31,Femenino,Monterrey,53800.0,2020-07-19,3,10,2,0,0.0,,Moda,Orgánico,2,0,0,0,0.0,1,,0
+CL-00540,39,Masculino,Puebla,9300.0,2026-07-12,23,63,2,0,0.0,,Moda,Google Ads,12,6,3,0,0.0,1,,0
+CL-00541,29,Masculino,Puebla,11600.0,2026-06-25,11,36,2,0,0.0,,Juguetes,Meta Ads,6,3,0,0,0.0,2,,0
+CL-00542,54,Masculino,Oaxaca,18100.0,2023-02-16,9,23,2,4,5340.36,21,Electrodomésticos,Google Ads,11,3,0,1,19.4,1,400.53,1
+CL-00543,44,No especificado,Puebla,15200.0,2023-06-10,0,0,0,0,0.0,,Belleza,Email,4,0,0,0,0.0,0,,0
+CL-00544,53,Masculino,Querétaro,46700.0,2022-05-24,9,31,1,15,69639.65,1,Electrodomésticos,Directo,12,10,3,2,6.9,0,4449.99,1
+CL-00545,50,Femenino,Chihuahua,26100.0,2024-10-05,2,3,0,1,403.63,258,Moda,Google Ads,7,2,0,0,0.0,0,403.63,0
+CL-00546,22,Femenino,Cancún,11400.0,2026-06-06,4,4,0,0,0.0,,Celulares,Google Ads,7,2,1,0,0.0,0,,0
+CL-00547,32,Masculino,Oaxaca,13400.0,2025-06-29,11,15,0,9,5038.87,9,Juguetes,Google Ads,7,3,3,5,18.3,0,859.14,1
+CL-00548,28,Femenino,Ciudad de México,32600.0,2026-01-21,30,198,20,0,0.0,,Celulares,Meta Ads,9,5,3,0,0.0,14,,0
+CL-00549,26,No especificado,Guadalajara,22700.0,2026-08-23,4,10,0,0,0.0,,Electrónica,Meta Ads,7,4,1,0,0.0,0,,0
+CL-00550,21,Femenino,León,18900.0,2025-10-07,10,27,1,5,5041.5,182,Moda,WhatsApp,2,1,1,0,0.0,0,872.09,0
+CL-00551,41,Masculino,León,19100.0,2024-07-18,8,25,0,4,4286.85,145,Moda,Directo,3,2,0,1,15.5,0,906.96,0
+CL-00552,46,Femenino,León,40200.0,2020-07-13,12,81,0,5,11465.73,44,Electrónica,Orgánico,6,2,1,1,14.0,0,1663.18,0
+CL-00553,26,Femenino,Toluca,26200.0,2024-03-30,48,201,13,0,0.0,,Moda,Google Ads,5,3,2,0,0.0,12,,0
+CL-00554,36,Masculino,Tijuana,35100.0,2022-01-25,9,24,2,0,0.0,,Moda,Directo,5,2,1,0,0.0,1,,0
+CL-00555,30,Femenino,Ciudad de México,12600.0,2026-06-21,5,14,1,0,0.0,,Belleza,Orgánico,0,0,0,0,0.0,1,,0
+CL-00556,35,Femenino,Puebla,19500.0,2025-06-11,6,23,0,14,12999.42,45,Moda,Referido,7,2,0,2,14.5,0,661.89,0
+CL-00557,23,Masculino,Ciudad de México,21100.0,2026-09-08,5,13,0,1,1703.95,2,Celulares,Orgánico,7,5,1,0,0.0,0,1703.95,0
+CL-00558,18,Masculino,Ciudad de México,18500.0,2021-06-28,8,19,0,7,6786.01,78,Deportes,Google Ads,4,2,1,4,30.3,0,464.13,0
+CL-00559,32,Femenino,Puebla,14000.0,2026-07-17,0,0,0,1,310.8,5,Deportes,Directo,3,1,1,1,14.5,0,310.8,0
+CL-00560,24,Masculino,Puebla,26500.0,2026-06-02,6,7,1,0,0.0,,Moda,Meta Ads,6,2,2,0,0.0,1,,0
+CL-00561,37,Femenino,Aguascalientes,34500.0,2021-09-22,3,8,0,5,10665.03,1,Electrodomésticos,Directo,11,4,1,1,14.9,0,1768.03,0
+CL-00562,33,Femenino,Chihuahua,20900.0,2025-02-26,22,117,12,1,4484.35,140,Hogar y Muebles,Orgánico,6,3,0,0,0.0,7,4484.35,0
+CL-00563,40,Masculino,Querétaro,16100.0,2022-01-09,6,44,0,5,6229.9,46,Electrónica,Google Ads,9,6,1,3,23.9,0,641.53,0
+CL-00564,18,Femenino,León,14200.0,2023-12-01,2,3,0,0,0.0,,Moda,Email,3,0,0,0,0.0,0,,0
+CL-00565,31,Masculino,San Luis Potosí,13300.0,2025-04-16,18,87,4,1,1602.57,130,Moda,Meta Ads,4,1,1,0,0.0,4,1602.57,0
+CL-00566,25,Femenino,Monterrey,11800.0,2024-01-19,81,292,17,1,490.21,73,Belleza,Orgánico,10,3,2,1,11.8,13,490.21,0
+CL-00567,53,Masculino,Guadalajara,24800.0,2023-01-20,11,26,3,6,6255.49,24,Moda,Google Ads,8,1,0,2,10.7,2,727.63,1
+CL-00568,44,Masculino,Ciudad de México,25000.0,2024-01-01,1,1,0,3,7352.56,171,Celulares,Google Ads,4,0,0,0,0.0,0,1780.85,0
+CL-00569,46,Femenino,Puebla,12500.0,2023-05-20,1,1,0,3,1291.21,281,Belleza,Orgánico,2,0,0,0,0.0,0,412.06,0
+CL-00570,47,Femenino,León,16100.0,2021-10-15,8,8,0,4,7737.86,7,Hogar y Muebles,Orgánico,12,10,2,3,15.3,0,2283.79,1
+CL-00571,38,Femenino,Puebla,12200.0,2024-12-17,2,5,2,3,2631.26,296,Hogar y Muebles,Meta Ads,4,1,0,1,16.1,1,657.14,0
+CL-00572,38,Femenino,Guadalajara,17600.0,2021-11-18,4,8,0,2,5890.69,19,Hogar y Muebles,Directo,9,3,0,0,0.0,0,2263.84,0
+CL-00573,28,Masculino,Ciudad de México,19700.0,2026-07-01,6,21,1,0,0.0,,Deportes,Google Ads,10,6,0,0,0.0,1,,0
+CL-00574,29,Femenino,Ciudad de México,22200.0,2026-08-25,5,25,0,0,0.0,,Hogar y Muebles,Email,11,3,0,0,0.0,0,,0
+CL-00575,38,Femenino,Guadalajara,17300.0,2021-04-30,4,13,1,2,1275.36,19,Belleza,Google Ads,8,4,3,1,28.4,1,727.41,1
+CL-00576,46,Femenino,León,8900.0,2023-01-03,4,12,0,7,3079.06,75,Juguetes,Orgánico,3,1,0,5,30.7,0,200.04,0
+CL-00577,28,Masculino,Querétaro,13600.0,2026-06-14,6,30,2,1,483.37,85,Deportes,Orgánico,8,2,0,0,0.0,0,483.37,0
+CL-00578,34,Femenino,Mérida,48700.0,2020-09-29,26,122,5,14,47261.09,8,Celulares,Email,6,5,1,0,0.0,2,1700.37,0
+CL-00579,29,Masculino,Oaxaca,8900.0,2022-04-06,20,79,4,3,3356.9,87,Electrónica,Meta Ads,22,10,3,2,21.8,1,1455.16,0
+CL-00580,34,Femenino,Ciudad de México,16700.0,2024-08-08,3,7,0,0,0.0,,Hogar y Muebles,Google Ads,3,0,0,0,0.0,0,,0
+CL-00581,61,Femenino,León,19600.0,2021-01-23,1,5,0,0,0.0,,Moda,Orgánico,3,0,0,0,0.0,0,,0
+CL-00582,29,Masculino,Ciudad de México,34100.0,2022-12-24,21,83,3,18,66828.66,3,Electrónica,Orgánico,16,11,5,2,9.6,0,2692.08,1
+CL-00583,24,Masculino,Guadalajara,6800.0,2023-09-30,8,29,1,8,8426.68,12,Hogar y Muebles,Meta Ads,19,7,3,2,15.8,1,1189.44,0
+CL-00584,32,Masculino,Ciudad de México,30600.0,2026-08-15,4,7,0,0,0.0,,Electrónica,Directo,5,1,1,0,0.0,0,,0
+CL-00585,33,Femenino,Guadalajara,33600.0,2024-04-28,20,131,11,0,0.0,,Hogar y Muebles,Google Ads,16,5,1,0,0.0,7,,0
+CL-00586,21,Masculino,Guadalajara,14200.0,2026-08-10,7,30,3,0,0.0,,Celulares,Meta Ads,11,1,1,0,0.0,2,,0
+CL-00587,43,Femenino,Puebla,8700.0,2025-03-05,10,46,1,7,1948.87,53,Juguetes,Directo,10,3,1,6,15.9,1,162.8,0
+CL-00588,27,Masculino,León,15600.0,2022-09-21,1,1,0,4,4530.53,72,Celulares,Referido,8,2,1,1,5.0,0,793.15,0
+CL-00589,49,Femenino,Puebla,10500.0,2023-09-11,6,17,1,12,4465.95,31,Belleza,Email,7,2,1,9,22.7,0,487.83,0
+CL-00590,39,Femenino,Querétaro,19400.0,2023-07-29,45,168,6,0,0.0,,Moda,Meta Ads,5,2,2,0,0.0,6,,0
+CL-00591,31,Masculino,Querétaro,24700.0,2025-10-18,4,16,1,1,1990.34,180,Electrónica,Google Ads,13,5,1,0,0.0,1,1990.34,0
+CL-00592,19,Masculino,Puebla,8700.0,2026-09-14,7,21,0,0,0.0,,Celulares,Meta Ads,11,3,1,0,0.0,0,,0
+CL-00593,37,Femenino,León,14000.0,2025-01-19,3,10,0,2,3038.33,10,Electrodomésticos,Google Ads,6,2,0,1,7.8,0,1272.55,1
+CL-00594,38,Femenino,Puebla,8800.0,2024-04-04,4,11,0,18,6318.01,12,Belleza,Meta Ads,15,3,2,13,14.4,0,245.52,1
+CL-00595,41,Masculino,Monterrey,10000.0,2026-01-26,6,26,1,4,1752.93,61,Celulares,Google Ads,20,9,3,2,15.3,1,409.36,0
+CL-00596,50,Femenino,Toluca,9200.0,2024-09-17,5,13,1,1,298.49,33,Belleza,WhatsApp,14,4,3,1,20.1,0,298.49,0
+CL-00597,42,Masculino,San Luis Potosí,15400.0,2023-04-26,3,3,1,6,6393.78,270,Moda,Google Ads,2,1,1,1,16.1,1,875.81,0
+CL-00598,28,Femenino,Tijuana,8100.0,2025-05-13,32,105,2,0,0.0,,Hogar y Muebles,Meta Ads,6,6,0,0,0.0,0,,0
+CL-00599,46,Femenino,Puebla,15400.0,2025-05-19,4,22,0,4,3218.95,1,Moda,Orgánico,2,0,0,1,5.0,0,517.18,0
+CL-00600,54,Femenino,Tijuana,44900.0,2022-08-14,7,42,2,25,32610.21,59,Juguetes,Directo,7,5,2,1,6.6,0,828.89,0
+CL-00601,24,Femenino,Ciudad de México,17300.0,2026-07-04,5,14,1,1,1522.93,40,Electrodomésticos,Referido,11,7,4,0,0.0,0,1522.93,0
+CL-00602,56,Femenino,Oaxaca,14200.0,2023-06-10,0,0,0,0,0.0,,Hogar y Muebles,Google Ads,5,0,0,0,0.0,0,,0
+CL-00603,30,Femenino,Ciudad de México,24500.0,2026-08-28,12,52,1,0,0.0,,Hogar y Muebles,Google Ads,3,2,0,0,0.0,1,,0
+CL-00604,28,Masculino,Veracruz,29700.0,2023-10-03,15,84,2,3,6279.03,146,Hogar y Muebles,Meta Ads,7,4,2,0,0.0,2,2964.28,0
+CL-00605,34,Masculino,Ciudad de México,12600.0,2020-10-23,2,5,0,0,0.0,,Celulares,Orgánico,1,0,0,0,0.0,0,,0
+CL-00606,21,Masculino,Puebla,11100.0,2026-09-11,5,5,0,0,0.0,,Electrodomésticos,Meta Ads,0,0,0,0,0.0,0,,0
+CL-00607,28,Masculino,Monterrey,20100.0,2021-10-25,5,10,1,2,2702.83,8,Hogar y Muebles,Directo,7,2,0,1,17.4,0,1208.89,0
+CL-00608,42,Femenino,Monterrey,9200.0,2024-04-04,11,47,1,13,4630.2,117,Juguetes,Meta Ads,8,3,2,11,25.6,1,423.84,0
+CL-00609,33,Masculino,San Luis Potosí,14200.0,2026-09-14,4,10,0,0,0.0,,Deportes,Google Ads,5,2,1,0,0.0,0,,0
+CL-00610,23,Masculino,Puebla,20000.0,2026-06-25,12,15,2,0,0.0,,Moda,Google Ads,2,0,0,0,0.0,1,,0
+CL-00611,43,Femenino,Puebla,26100.0,2026-02-20,14,14,0,2,4031.36,103,Hogar y Muebles,Referido,4,3,2,1,20.0,0,2103.37,0
+CL-00612,25,Masculino,Toluca,24600.0,2020-07-20,12,28,4,5,14021.78,18,Electrodomésticos,Email,9,5,1,1,10.3,0,1799.9,1
+CL-00613,53,Femenino,Querétaro,12100.0,2021-10-01,3,8,0,1,887.6,330,Electrónica,Referido,2,0,0,0,0.0,0,887.6,0
+CL-00614,35,Femenino,Toluca,13000.0,2020-09-05,1,1,0,0,0.0,,Moda,Referido,5,0,0,0,0.0,0,,0
+CL-00615,24,Femenino,Monterrey,20200.0,2023-01-17,11,26,2,6,5719.7,14,Moda,Orgánico,2,1,0,0,0.0,2,647.95,1
+CL-00616,25,Masculino,Chihuahua,22400.0,2026-06-13,7,10,0,0,0.0,,Celulares,Directo,4,1,1,0,0.0,0,,0
+CL-00617,30,Femenino,Querétaro,17400.0,2024-09-23,19,154,4,2,2154.26,293,Hogar y Muebles,Meta Ads,1,1,0,0,0.0,3,854.73,0
+CL-00618,50,Masculino,Querétaro,8600.0,2020-09-29,0,0,0,0,0.0,,Electrónica,Google Ads,2,1,0,0,0.0,0,,0
+CL-00619,26,Masculino,Querétaro,9300.0,2024-11-17,14,20,0,1,1767.47,30,Electrónica,Google Ads,7,5,0,0,0.0,0,1767.47,1
+CL-00620,38,Femenino,Guadalajara,31400.0,2020-04-07,8,36,5,9,8618.23,180,Juguetes,Referido,5,3,2,2,8.5,3,1040.05,0
+CL-00621,37,Masculino,Toluca,15300.0,2021-08-02,4,4,0,0,0.0,,Electrodomésticos,Meta Ads,3,0,0,0,0.0,0,,0
+CL-00622,56,Femenino,Querétaro,17400.0,2023-01-15,2,5,0,1,1589.87,251,Electrónica,Orgánico,1,0,0,0,0.0,0,1589.87,0
+CL-00623,38,Masculino,Oaxaca,16700.0,2023-07-26,1,5,0,1,969.44,207,Deportes,Orgánico,7,0,0,0,0.0,0,969.44,0
+CL-00624,39,Masculino,Monterrey,12400.0,2026-01-06,20,85,6,1,715.04,151,Moda,Google Ads,8,5,1,0,0.0,3,715.04,0
+CL-00625,43,Masculino,León,20400.0,2020-04-03,0,0,0,3,4378.28,201,Electrodomésticos,Meta Ads,8,0,0,3,9.2,0,2311.02,0
+CL-00626,54,Femenino,Ciudad de México,9600.0,2021-02-05,1,1,0,1,1230.63,312,Electrónica,Google Ads,4,1,0,0,0.0,0,1230.63,0
+CL-00627,22,Masculino,Puebla,6000.0,2026-02-16,9,27,1,1,238.21,47,Deportes,Orgánico,6,1,1,1,24.3,0,238.21,0
+CL-00628,27,Femenino,Veracruz,19800.0,2019-12-23,0,0,0,0,0.0,,Belleza,Meta Ads,2,2,0,0,0.0,0,,0
+CL-00629,36,Femenino,Cancún,16700.0,2022-08-18,2,3,0,11,16299.13,62,Electrodomésticos,Email,6,2,1,2,16.9,0,2235.89,0
+CL-00630,29,Masculino,Mérida,19400.0,2025-04-26,19,41,2,1,2613.01,67,Electrónica,Orgánico,2,2,0,0,0.0,1,2613.01,0
+CL-00631,18,Femenino,Puebla,12300.0,2023-01-07,18,51,2,6,3346.97,115,Juguetes,Google Ads,27,8,2,6,21.5,0,263.12,0
+CL-00632,22,Masculino,Tijuana,12600.0,2026-09-22,7,19,0,0,0.0,,Juguetes,Meta Ads,4,1,0,0,0.0,0,,0
+CL-00633,37,Femenino,Veracruz,15600.0,2024-10-17,9,17,0,0,0.0,,Belleza,Orgánico,3,2,0,0,0.0,0,,0
+CL-00634,24,Masculino,Guadalajara,17900.0,2026-09-18,15,22,2,0,0.0,,Celulares,Meta Ads,12,5,2,0,0.0,1,,0
+CL-00635,18,Masculino,Aguascalientes,19700.0,2022-08-03,4,4,0,7,4356.86,40,Moda,Google Ads,9,5,1,3,5.3,0,458.91,0
+CL-00636,45,Femenino,Ciudad de México,12100.0,2026-02-27,10,30,1,3,4265.33,66,Electrodomésticos,Referido,10,6,3,0,0.0,0,908.28,0
+CL-00637,40,Masculino,Ciudad de México,17000.0,2024-12-22,2,2,0,2,3042.0,287,Electrodomésticos,Meta Ads,4,0,0,0,0.0,0,1658.89,0
+CL-00638,51,Masculino,Guadalajara,18100.0,2022-10-29,1,4,0,0,0.0,,Electrónica,Meta Ads,6,2,0,0,0.0,0,,0
+CL-00639,40,Masculino,Monterrey,15100.0,2023-04-22,10,16,0,4,3116.92,92,Moda,Email,11,3,1,3,23.6,0,692.62,0
+CL-00640,27,Femenino,Veracruz,15600.0,2026-05-17,8,23,3,2,933.36,136,Belleza,WhatsApp,15,6,2,0,0.0,3,541.56,0
+CL-00641,72,Femenino,Chihuahua,11800.0,2024-09-25,1,2,0,0,0.0,,Electrónica,Directo,4,1,0,0,0.0,0,,0
+CL-00642,32,Masculino,Guadalajara,12800.0,2023-10-04,18,82,3,1,599.26,184,Electrónica,Orgánico,5,1,0,0,0.0,3,599.26,0
+CL-00643,44,Masculino,Puebla,6000.0,2025-02-02,4,6,0,9,6438.79,39,Electrónica,Meta Ads,13,4,1,7,21.5,0,725.35,0
+CL-00644,60,Femenino,Ciudad de México,34900.0,2024-08-12,12,60,4,15,45613.29,2,Electrodomésticos,Orgánico,7,6,2,2,15.0,1,2550.68,0
+CL-00645,32,Masculino,Aguascalientes,10000.0,2024-08-23,14,64,2,20,22148.74,2,Hogar y Muebles,Google Ads,20,19,6,19,20.7,1,2496.34,0
+CL-00646,27,Femenino,León,17300.0,2026-06-17,8,9,0,0,0.0,,Hogar y Muebles,Meta Ads,2,2,0,0,0.0,0,,0
+CL-00647,21,Masculino,León,14100.0,2025-02-12,10,10,0,5,8628.27,72,Electrónica,Meta Ads,2,0,0,3,7.7,0,687.04,0
+CL-00648,25,Femenino,Querétaro,15200.0,2025-12-15,51,114,3,1,420.79,119,Juguetes,Orgánico,11,4,2,0,0.0,2,420.79,0
+CL-00649,54,Masculino,Monterrey,15600.0,2021-05-31,2,3,0,2,5056.62,151,Hogar y Muebles,Directo,4,0,0,0,0.0,0,3899.52,0
+CL-00650,42,Masculino,Puebla,19700.0,2025-01-06,11,62,0,4,6822.91,24,Electrodomésticos,Meta Ads,22,9,4,4,30.4,0,2134.42,1
+CL-00651,44,Femenino,Monterrey,27900.0,2021-03-12,1,1,0,0,0.0,,Belleza,Google Ads,3,0,0,0,0.0,0,,0
+CL-00652,36,Masculino,Ciudad de México,13900.0,2023-05-10,5,5,0,3,2229.43,6,Deportes,Directo,8,6,3,1,22.2,0,399.59,0
+CL-00653,28,Femenino,Ciudad de México,10000.0,2026-06-22,15,81,1,0,0.0,,Juguetes,Directo,5,3,1,0,0.0,1,,0
+CL-00654,35,Masculino,Puebla,22000.0,2026-04-29,11,59,1,0,0.0,,Electrónica,Google Ads,12,5,0,0,0.0,1,,0
+CL-00655,33,Femenino,Monterrey,40700.0,2024-01-31,0,0,0,5,7563.77,77,Moda,Meta Ads,2,1,0,1,12.0,0,714.47,0
+CL-00656,28,Masculino,Chihuahua,18800.0,2025-03-24,19,55,0,7,3842.48,54,Belleza,Meta Ads,19,12,3,5,14.1,0,451.36,0
+CL-00657,34,Femenino,Ciudad de México,17000.0,2025-09-03,11,25,1,4,2209.84,122,Moda,Directo,3,0,0,1,17.8,0,548.29,0
+CL-00658,30,Femenino,Guadalajara,15900.0,2022-11-19,12,17,1,6,7881.91,113,Celulares,Referido,24,11,4,2,5.0,0,1567.98,0
+CL-00659,45,Masculino,Toluca,17200.0,2023-07-31,7,11,0,4,3605.51,1,Belleza,Meta Ads,5,2,1,3,12.8,0,968.37,1
+CL-00660,29,Femenino,Monterrey,19000.0,2023-02-18,3,10,3,1,461.41,49,Juguetes,Directo,5,2,0,0,0.0,1,461.41,0
+CL-00661,33,Femenino,Querétaro,26400.0,2026-09-21,11,73,3,0,0.0,,Moda,Meta Ads,6,0,0,0,0.0,2,,0
+CL-00662,54,Femenino,Chihuahua,21800.0,2022-03-28,3,9,0,0,0.0,,Hogar y Muebles,Directo,4,1,0,0,0.0,0,,0
+CL-00663,37,Femenino,Guadalajara,9300.0,2026-06-18,6,18,0,0,0.0,,Hogar y Muebles,Google Ads,9,5,0,0,0.0,0,,0
+CL-00664,47,Femenino,Puebla,10000.0,2022-11-06,5,12,0,8,8307.47,92,Hogar y Muebles,Google Ads,9,7,1,6,22.7,0,877.41,0
+CL-00665,22,Masculino,Tijuana,15000.0,2024-03-09,10,20,3,2,1232.32,36,Celulares,Email,9,3,1,0,0.0,2,572.78,0
+CL-00666,37,Femenino,Guadalajara,33800.0,2023-10-27,19,72,0,11,15892.55,16,Moda,Email,12,11,4,2,5.0,0,2306.6,1
+CL-00667,31,Masculino,Monterrey,12200.0,2021-05-29,7,22,1,4,1931.41,59,Deportes,Orgánico,6,6,3,3,19.4,1,275.12,0
+CL-00668,23,Masculino,Toluca,33900.0,2022-03-15,9,28,1,6,5824.76,4,Belleza,Orgánico,4,0,0,1,15.4,1,601.96,0
+CL-00669,35,Masculino,Tijuana,14900.0,2024-11-04,2,4,1,6,6973.81,99,Celulares,Email,2,1,0,2,14.4,1,1417.89,0
+CL-00670,35,Femenino,Puebla,9700.0,2023-10-09,5,13,1,7,3603.28,30,Moda,Google Ads,7,6,2,5,11.5,1,387.86,1
+CL-00671,50,Masculino,San Luis Potosí,27700.0,2025-04-30,8,12,0,7,13810.76,73,Electrodomésticos,WhatsApp,5,1,1,2,19.2,0,1636.3,0
+CL-00672,68,Masculino,Guadalajara,11800.0,2022-12-28,0,0,0,4,2256.4,179,Juguetes,Google Ads,4,1,0,0,0.0,0,574.29,0
+CL-00673,72,Masculino,León,13100.0,2022-07-22,0,0,0,1,1397.6,346,Hogar y Muebles,Google Ads,5,1,0,0,0.0,0,1397.6,0
+CL-00674,30,Femenino,San Luis Potosí,16500.0,2026-09-05,4,28,2,1,873.05,20,Deportes,Google Ads,4,1,0,0,0.0,2,873.05,0
+CL-00675,25,Masculino,Monterrey,20300.0,2025-07-07,30,191,6,1,833.05,222,Moda,Google Ads,8,7,2,0,0.0,5,833.05,0
+CL-00676,50,Masculino,Toluca,48700.0,2024-02-18,15,71,2,12,45335.71,12,Electrónica,Email,6,3,2,1,7.6,0,3763.85,1
+CL-00677,23,Femenino,Tijuana,17400.0,2025-08-29,20,141,7,3,1906.39,33,Belleza,Orgánico,1,0,0,2,12.1,5,496.86,0
+CL-00678,27,Femenino,Monterrey,16400.0,2025-12-07,7,55,1,1,1024.59,213,Moda,Meta Ads,2,2,1,1,17.1,1,1024.59,0
+CL-00679,35,Femenino,Guadalajara,64400.0,2023-05-13,5,13,0,14,31631.05,7,Moda,Orgánico,10,7,3,3,10.0,0,2846.91,0
+CL-00680,44,Femenino,Monterrey,26000.0,2023-11-28,14,43,2,15,18308.55,73,Moda,Orgánico,5,2,1,1,5.4,1,648.39,0
+CL-00681,33,Masculino,Monterrey,7300.0,2022-04-30,4,10,1,4,3230.76,5,Celulares,Meta Ads,24,8,2,2,27.4,0,1032.4,1
+CL-00682,25,Femenino,León,9300.0,2025-02-25,47,305,19,0,0.0,,Celulares,Google Ads,11,6,5,0,0.0,15,,0
+CL-00683,65,Femenino,Puebla,10000.0,2024-04-09,1,1,0,2,1011.79,297,Moda,Directo,6,0,0,1,14.3,0,589.7,0
+CL-00684,31,Femenino,Puebla,21200.0,2026-08-18,11,17,0,1,968.72,30,Moda,Meta Ads,6,5,0,1,24.0,0,968.72,1
+CL-00685,32,Femenino,Ciudad de México,19000.0,2026-07-29,5,26,1,1,485.77,21,Juguetes,Google Ads,4,1,0,0,0.0,1,485.77,0
+CL-00686,50,Masculino,Oaxaca,16600.0,2023-04-04,3,9,0,3,3611.41,179,Celulares,Google Ads,9,2,0,0,0.0,0,1604.87,0
+CL-00687,42,Masculino,Veracruz,15400.0,2024-09-29,5,12,3,3,4609.0,13,Electrónica,Orgánico,17,9,0,3,13.3,1,1824.06,0
+CL-00688,33,Femenino,Ciudad de México,24500.0,2025-04-07,14,71,1,0,0.0,,Moda,Directo,6,1,1,0,0.0,1,,0
+CL-00689,29,Femenino,Monterrey,16300.0,2026-08-21,5,17,0,0,0.0,,Hogar y Muebles,Google Ads,15,12,3,0,0.0,0,,0
+CL-00690,43,Femenino,Mérida,30200.0,2022-10-10,5,14,1,6,7012.69,79,Belleza,Directo,7,1,0,3,11.6,1,727.73,0
+CL-00691,40,Masculino,Ciudad de México,69100.0,2021-02-05,24,86,5,12,43259.59,3,Electrónica,Orgánico,5,2,0,2,8.3,0,4122.68,1
+CL-00692,33,Masculino,Oaxaca,11000.0,2026-08-02,10,26,2,1,1064.56,17,Celulares,Meta Ads,5,0,0,0,0.0,1,1064.56,0
+CL-00693,58,Femenino,Guadalajara,23600.0,2020-12-03,1,6,0,0,0.0,,Hogar y Muebles,Referido,2,0,0,0,0.0,0,,0
+CL-00694,23,Femenino,Tijuana,17800.0,2026-02-10,29,75,6,1,512.9,204,Belleza,Google Ads,11,3,2,0,0.0,6,512.9,0
+CL-00695,48,Masculino,Ciudad de México,19500.0,2024-11-21,5,5,0,1,1226.17,296,Electrónica,Google Ads,4,1,0,0,0.0,0,1226.17,0
+CL-00696,41,Masculino,Ciudad de México,25000.0,2021-11-07,5,5,0,1,1372.83,19,Celulares,Orgánico,8,2,1,0,0.0,0,1372.83,1
+CL-00697,32,Masculino,Monterrey,17000.0,2023-12-09,0,0,0,1,1302.5,307,Deportes,Meta Ads,4,1,0,1,8.3,0,1302.5,0
+CL-00698,29,Masculino,Querétaro,15900.0,2026-08-14,4,11,0,0,0.0,,Celulares,Meta Ads,9,2,0,0,0.0,0,,0
+CL-00699,69,Femenino,Puebla,9600.0,2021-01-23,1,1,0,1,305.32,219,Belleza,Referido,3,1,0,0,0.0,0,305.32,0
+CL-00700,43,Masculino,Oaxaca,16600.0,2021-03-21,2,4,0,1,1320.14,162,Electrónica,Orgánico,4,0,0,0,0.0,0,1320.14,0
+CL-00701,47,Masculino,Ciudad de México,30800.0,2024-02-15,23,80,6,0,0.0,,Electrodomésticos,Directo,8,4,0,0,0.0,6,,0
+CL-00702,49,Femenino,Aguascalientes,40000.0,2023-07-30,7,23,1,24,37796.81,40,Moda,Email,10,6,2,4,5.0,1,2001.63,0
+CL-00703,51,Femenino,Tijuana,29800.0,2023-07-30,4,7,1,4,10350.99,96,Hogar y Muebles,WhatsApp,9,5,1,2,21.3,0,4705.03,0
+CL-00704,45,Masculino,Toluca,17600.0,2025-01-23,37,281,17,0,0.0,,Moda,Google Ads,6,0,0,0,0.0,14,,0
+CL-00705,31,Masculino,Puebla,10000.0,2022-02-28,6,23,1,8,3978.18,4,Juguetes,Meta Ads,34,11,8,6,22.2,0,390.99,1
+CL-00706,46,Femenino,Puebla,15400.0,2023-10-23,10,10,0,6,3660.74,53,Juguetes,Email,5,0,0,5,12.0,0,317.25,0
+CL-00707,28,Masculino,Veracruz,8300.0,2025-06-28,21,99,5,1,687.49,296,Electrodomésticos,Orgánico,0,0,0,0,0.0,3,687.49,0
+CL-00708,23,Masculino,Aguascalientes,7800.0,2026-06-06,7,25,2,0,0.0,,Moda,Meta Ads,9,8,3,0,0.0,2,,0
+CL-00709,29,Femenino,San Luis Potosí,13900.0,2026-06-19,7,22,0,1,1046.32,91,Moda,Meta Ads,9,3,1,0,0.0,0,1046.32,0
+CL-00710,32,Femenino,Querétaro,15500.0,2025-05-27,26,109,0,0,0.0,,Moda,Meta Ads,8,1,0,0,0.0,0,,0
+CL-00711,41,Masculino,Ciudad de México,59700.0,2020-03-21,7,53,2,19,76742.67,26,Electrónica,Directo,14,3,0,1,12.3,0,2349.78,0
+CL-00712,37,Femenino,León,30800.0,2021-06-26,17,73,4,2,1803.62,108,Moda,Orgánico,10,7,4,0,0.0,1,1103.07,0
+CL-00713,55,Masculino,Toluca,33100.0,2024-06-29,25,49,2,24,62563.27,25,Celulares,Email,6,5,2,2,9.0,0,2227.11,1
+CL-00714,45,Masculino,Monterrey,30500.0,2024-02-15,12,47,4,3,5911.58,19,Electrodomésticos,Meta Ads,4,1,0,1,23.1,1,3139.99,1
+CL-00715,33,Masculino,Monterrey,28200.0,2020-06-27,15,28,1,9,20898.74,27,Electrónica,Directo,3,3,2,2,5.1,0,1139.26,0
+CL-00716,36,Femenino,Chihuahua,18500.0,2026-09-08,12,49,1,0,0.0,,Belleza,Orgánico,12,4,2,0,0.0,0,,0
+CL-00717,48,Femenino,Puebla,22200.0,2019-12-27,5,14,0,0,0.0,,Moda,Google Ads,2,0,0,0,0.0,0,,0
+CL-00718,29,Femenino,Ciudad de México,29200.0,2022-08-06,1,1,0,1,608.37,336,Moda,Google Ads,1,0,0,0,0.0,0,608.37,0
+CL-00719,42,Femenino,Chihuahua,15500.0,2024-08-01,2,4,0,1,729.33,258,Hogar y Muebles,Google Ads,2,0,0,0,0.0,0,729.33,0
+CL-00720,50,Femenino,San Luis Potosí,55700.0,2022-04-18,10,22,0,17,70718.56,1,Hogar y Muebles,Email,3,2,1,2,13.3,0,3578.49,1
+CL-00721,53,Masculino,León,19400.0,2023-06-25,5,7,2,4,5354.22,18,Hogar y Muebles,Email,9,3,1,2,9.2,1,1456.09,1
+CL-00722,29,Masculino,Chihuahua,12700.0,2026-07-13,2,3,0,1,2381.85,51,Electrónica,Referido,6,1,1,1,10.1,0,2381.85,0
+CL-00723,53,Masculino,Mérida,26300.0,2022-10-20,6,22,0,6,11074.26,10,Hogar y Muebles,Email,7,3,0,1,21.5,0,2553.14,0
+CL-00724,59,Masculino,Aguascalientes,31500.0,2021-10-14,3,25,0,1,957.98,94,Celulares,Google Ads,4,0,0,0,0.0,0,957.98,0
+CL-00725,32,Femenino,Querétaro,6000.0,2022-02-16,1,1,0,4,1379.66,201,Juguetes,Referido,2,0,0,0,0.0,0,494.49,0
+CL-00726,21,Femenino,San Luis Potosí,7600.0,2024-05-31,5,17,2,2,1556.38,275,Celulares,Meta Ads,4,0,0,0,0.0,1,502.32,0
+CL-00727,36,Masculino,Oaxaca,9200.0,2021-11-23,6,27,0,4,2401.76,2,Moda,Orgánico,6,1,0,1,5.0,0,314.52,1
+CL-00728,55,Masculino,Ciudad de México,13500.0,2021-12-21,2,3,0,2,1860.59,207,Electrodomésticos,Directo,3,0,0,0,0.0,0,1207.22,0
+CL-00729,34,Femenino,Ciudad de México,18200.0,2026-06-22,11,49,3,0,0.0,,Deportes,Meta Ads,7,3,0,0,0.0,3,,0
+CL-00730,36,Femenino,San Luis Potosí,13600.0,2026-09-17,9,20,0,0,0.0,,Belleza,Google Ads,12,4,3,0,0.0,0,,0
+CL-00731,30,Masculino,Mérida,12200.0,2026-08-02,1,6,0,0,0.0,,Deportes,Google Ads,7,2,0,0,0.0,0,,0
+CL-00732,28,Femenino,Toluca,9600.0,2026-06-30,20,66,2,0,0.0,,Electrodomésticos,Google Ads,5,2,2,0,0.0,2,,0
+CL-00733,28,Femenino,Puebla,12500.0,2026-07-15,1,5,0,4,5266.27,21,Electrónica,Orgánico,8,1,0,0,0.0,0,1302.81,1
+CL-00734,43,Masculino,Toluca,36200.0,2023-02-28,28,155,4,26,87526.69,49,Electrónica,Directo,1,1,1,3,8.8,1,3745.66,0
+CL-00735,25,Femenino,Cancún,11900.0,2021-05-07,8,51,2,4,6336.54,76,Electrodomésticos,Email,10,2,1,3,26.3,1,1049.54,0
+CL-00736,20,Femenino,Querétaro,15500.0,2023-12-05,42,151,14,2,2330.2,218,Deportes,Meta Ads,12,4,2,1,16.4,13,1047.69,0
+CL-00737,53,Femenino,Tijuana,7700.0,2023-08-27,10,26,0,7,3673.42,33,Moda,Email,9,2,1,3,15.5,0,698.27,0
+CL-00738,54,Femenino,Chihuahua,11800.0,2022-04-25,1,3,2,1,242.34,236,Juguetes,Google Ads,5,1,0,0,0.0,1,242.34,0
+CL-00739,27,Masculino,Tijuana,20400.0,2025-04-10,15,35,1,0,0.0,,Celulares,Directo,5,0,0,0,0.0,0,,0
+CL-00740,40,Femenino,Ciudad de México,21100.0,2022-03-02,17,65,1,6,11847.8,187,Electrodomésticos,Email,13,1,1,2,18.6,1,1396.03,0
+CL-00741,58,Masculino,León,14000.0,2020-12-17,4,9,1,0,0.0,,Electrónica,Google Ads,2,0,0,0,0.0,0,,0
+CL-00742,20,Femenino,Querétaro,30300.0,2024-08-28,42,148,3,1,2231.84,65,Celulares,Google Ads,7,5,1,0,0.0,3,2231.84,0
+CL-00743,50,Femenino,Puebla,12200.0,2022-03-14,2,5,0,0,0.0,,Hogar y Muebles,Meta Ads,6,1,0,0,0.0,0,,0
+CL-00744,56,Masculino,Toluca,26700.0,2024-10-13,34,122,4,18,40088.7,2,Celulares,Email,3,2,0,2,8.3,1,1924.12,1
+CL-00745,25,Masculino,Guadalajara,8300.0,2026-09-06,7,14,0,0,0.0,,Electrónica,Google Ads,6,1,0,0,0.0,0,,0
+CL-00746,18,Masculino,Puebla,13800.0,2026-07-22,11,13,0,0,0.0,,Belleza,Orgánico,0,0,0,0,0.0,0,,0
+CL-00747,61,Femenino,Monterrey,13600.0,2019-12-28,2,2,0,5,4279.87,252,Juguetes,Email,8,1,0,1,13.2,0,1417.02,0
+CL-00748,31,Femenino,Cancún,9000.0,2022-07-30,3,9,1,7,2328.46,11,Belleza,Meta Ads,4,3,0,4,20.4,1,142.14,1
+CL-00749,23,Femenino,Veracruz,12800.0,2026-09-18,2,2,0,0,0.0,,Belleza,Orgánico,9,0,0,0,0.0,0,,0
+CL-00750,39,Masculino,Oaxaca,16200.0,2026-01-01,10,48,0,0,0.0,,Deportes,Orgánico,12,3,0,0,0.0,0,,0
+CL-00751,44,Femenino,León,16600.0,2020-11-15,1,3,0,0,0.0,,Juguetes,Meta Ads,2,0,0,0,0.0,0,,0
+CL-00752,31,Femenino,Puebla,12400.0,2023-02-11,3,10,0,5,7793.09,1,Hogar y Muebles,Email,12,9,4,4,22.7,0,1819.22,1
+CL-00753,37,Masculino,Puebla,16800.0,2025-12-25,12,35,1,1,1868.87,42,Electrodomésticos,WhatsApp,9,1,1,0,0.0,0,1868.87,0
+CL-00754,47,Masculino,Ciudad de México,6300.0,2022-09-06,18,66,1,3,2813.02,41,Celulares,WhatsApp,10,7,2,1,21.3,0,574.74,0
+CL-00755,42,Masculino,Puebla,48900.0,2020-07-30,13,21,3,26,92961.1,5,Electrodomésticos,Directo,10,6,0,6,12.1,0,6416.89,1
+CL-00756,58,Femenino,Tijuana,72200.0,2021-12-06,6,41,3,2,2821.67,46,Belleza,Orgánico,6,2,0,0,0.0,1,1233.16,0
+CL-00757,64,Masculino,Toluca,10600.0,2021-02-19,0,0,0,0,0.0,,Electrónica,Google Ads,7,2,0,0,0.0,0,,0
+CL-00758,39,Masculino,Ciudad de México,18700.0,2025-06-21,8,18,1,7,6232.79,28,Deportes,WhatsApp,5,2,1,2,6.7,1,459.98,1
+CL-00759,26,Femenino,Ciudad de México,20400.0,2023-12-16,2,5,0,0,0.0,,Moda,Google Ads,8,4,1,0,0.0,0,,0
+CL-00760,56,No especificado,Toluca,13500.0,2021-09-04,1,1,0,0,0.0,,Electrónica,Directo,6,0,0,0,0.0,0,,0
+CL-00761,37,Femenino,León,13900.0,2021-05-08,2,2,0,5,4353.58,80,Juguetes,Referido,12,10,3,3,17.3,0,1362.23,0
+CL-00762,34,Femenino,Ciudad de México,25000.0,2025-03-29,7,19,1,3,1580.52,51,Belleza,Referido,11,1,0,0,0.0,0,454.21,0
+CL-00763,40,Femenino,Ciudad de México,19100.0,2026-08-21,7,19,0,0,0.0,,Celulares,Meta Ads,6,4,1,0,0.0,0,,0
+CL-00764,27,Femenino,Guadalajara,14200.0,2026-09-14,24,25,1,0,0.0,,Celulares,Meta Ads,2,1,0,0,0.0,1,,0
+CL-00765,45,Femenino,Monterrey,51500.0,2021-06-24,16,49,3,2,3961.61,188,Moda,Google Ads,8,3,0,1,12.9,1,1876.91,0
+CL-00766,18,Masculino,Tijuana,13900.0,2026-06-20,15,42,1,3,1407.28,9,Moda,Referido,25,10,4,3,20.0,1,361.2,0
+CL-00767,28,Masculino,Puebla,10400.0,2024-11-04,15,51,1,1,1164.42,28,Celulares,Meta Ads,15,5,2,1,23.2,1,1164.42,1
+CL-00768,49,Femenino,Puebla,23100.0,2024-09-16,3,9,1,7,5694.86,13,Belleza,Google Ads,10,5,1,1,24.7,0,918.02,1
+CL-00769,44,Femenino,Puebla,34400.0,2020-08-06,7,32,1,5,13810.07,28,Celulares,Directo,5,2,0,1,11.0,0,2857.64,0
+CL-00770,25,Masculino,Ciudad de México,16200.0,2026-08-08,15,58,6,0,0.0,,Electrónica,Orgánico,6,6,0,0,0.0,2,,0
+CL-00771,38,Femenino,Ciudad de México,22700.0,2021-04-23,19,78,3,3,1753.75,176,Deportes,Email,10,6,1,0,0.0,0,464.02,0
+CL-00772,21,Masculino,Tijuana,20600.0,2022-08-21,1,1,0,0,0.0,,Hogar y Muebles,Meta Ads,5,1,0,0,0.0,0,,0
+CL-00773,34,Femenino,Tijuana,17600.0,2026-06-14,13,22,1,0,0.0,,Moda,Google Ads,5,3,1,0,0.0,0,,0
+CL-00774,25,Masculino,Puebla,23400.0,2025-03-13,31,307,7,1,337.94,220,Moda,Directo,1,0,0,0,0.0,6,337.94,0
+CL-00775,39,Masculino,Ciudad de México,23000.0,2023-03-02,9,26,1,9,13407.0,22,Celulares,Meta Ads,29,9,1,7,19.6,1,1442.04,0
+CL-00776,21,Femenino,Querétaro,16800.0,2026-09-12,17,57,2,0,0.0,,Belleza,Google Ads,0,0,0,0,0.0,2,,0
+CL-00777,43,Femenino,Querétaro,19300.0,2021-02-03,2,4,0,3,1534.88,324,Belleza,Meta Ads,2,0,0,2,12.0,0,533.02,0
+CL-00778,21,Masculino,Monterrey,13200.0,2026-06-11,6,30,5,0,0.0,,Electrónica,Google Ads,17,4,1,0,0.0,3,,0
+CL-00779,46,Masculino,San Luis Potosí,22900.0,2021-10-26,2,4,0,4,4969.53,361,Deportes,Meta Ads,4,0,0,3,12.9,0,924.61,0
+CL-00780,32,Masculino,Puebla,26700.0,2025-02-19,2,7,0,4,2947.25,33,Juguetes,Email,0,0,0,2,24.8,0,232.97,0
+CL-00781,34,Masculino,Cancún,8800.0,2026-09-18,3,4,0,0,0.0,,Juguetes,WhatsApp,12,5,0,0,0.0,0,,0
+CL-00782,54,Masculino,Aguascalientes,14500.0,2024-05-19,2,6,0,3,2937.94,151,Electrodomésticos,Directo,5,1,0,0,0.0,0,739.89,0
+CL-00783,47,Femenino,Ciudad de México,21800.0,2024-03-09,1,2,0,2,1521.3,3,Juguetes,Orgánico,5,2,0,1,13.6,0,915.91,1
+CL-00784,18,Masculino,Toluca,15300.0,2026-08-22,7,25,0,0,0.0,,Moda,Meta Ads,4,1,0,0,0.0,0,,0
+CL-00785,37,Masculino,Puebla,8700.0,2024-07-25,21,25,0,5,6065.95,2,Electrónica,Email,13,7,2,4,20.2,0,1082.48,1
+CL-00786,38,Masculino,Tijuana,13500.0,2024-08-28,0,0,0,0,0.0,,Juguetes,Google Ads,4,0,0,0,0.0,0,,0
+CL-00787,41,Femenino,Toluca,16800.0,2025-02-17,2,3,0,0,0.0,,Deportes,Email,4,0,0,0,0.0,0,,0
+CL-00788,29,Masculino,Tijuana,18200.0,2022-03-13,2,4,0,6,8959.38,32,Celulares,Directo,14,2,0,2,5.3,0,1200.19,0
+CL-00789,49,Femenino,Oaxaca,51400.0,2020-08-05,13,25,0,5,17807.81,13,Hogar y Muebles,Email,6,3,0,0,0.0,0,4812.13,1
+CL-00790,22,Femenino,Chihuahua,13100.0,2026-09-07,11,19,3,0,0.0,,Hogar y Muebles,Google Ads,7,3,0,0,0.0,0,,0
+CL-00791,44,Masculino,Puebla,54800.0,2023-03-07,8,24,2,2,7096.86,23,Electrónica,Orgánico,5,3,0,0,0.0,0,2747.81,0
+CL-00792,32,Masculino,Querétaro,18500.0,2024-02-02,49,419,15,1,2884.35,245,Electrónica,Google Ads,13,8,4,0,0.0,12,2884.35,0
+CL-00793,39,Femenino,Mérida,12200.0,2024-11-24,40,226,23,1,894.44,252,Juguetes,Meta Ads,12,4,1,0,0.0,20,894.44,0
+CL-00794,39,Femenino,Ciudad de México,18000.0,2026-01-25,17,53,3,3,6139.92,45,Hogar y Muebles,Orgánico,20,9,7,2,25.9,1,3729.17,0
+CL-00795,43,Femenino,Tijuana,26300.0,2023-12-14,7,27,1,3,6500.57,94,Electrodomésticos,Directo,10,2,0,0,0.0,0,3470.42,0
+CL-00796,47,Femenino,Aguascalientes,11500.0,2020-03-24,2,4,0,2,970.18,310,Moda,Meta Ads,1,0,0,0,0.0,0,265.24,0
+CL-00797,31,Masculino,Ciudad de México,16500.0,2026-03-30,11,18,0,0,0.0,,Celulares,WhatsApp,7,3,1,0,0.0,0,,0
+CL-00798,56,Masculino,Ciudad de México,12000.0,2025-02-25,1,3,0,0,0.0,,Belleza,Meta Ads,7,1,1,0,0.0,0,,0
+CL-00799,35,Masculino,Monterrey,10900.0,2022-11-08,15,18,4,9,10277.22,4,Hogar y Muebles,Meta Ads,16,15,5,6,35.6,3,550.65,1
+CL-00800,24,Masculino,Querétaro,14900.0,2022-01-18,6,23,1,8,8473.66,68,Celulares,Meta Ads,13,9,6,4,24.9,0,1111.26,0
+CL-00801,47,Masculino,Ciudad de México,9200.0,2024-11-24,0,0,0,2,2234.46,308,Electrónica,Orgánico,7,2,0,0,0.0,0,1333.07,0
+CL-00802,50,Masculino,Cancún,11800.0,2024-03-12,2,4,0,0,0.0,,Moda,Directo,3,1,0,0,0.0,0,,0
+CL-00803,46,Femenino,Aguascalientes,13200.0,2020-06-03,0,0,0,1,1378.52,345,Hogar y Muebles,Meta Ads,4,1,0,1,19.0,0,1378.52,0
+CL-00804,37,Femenino,Querétaro,16200.0,2023-12-31,59,224,11,0,0.0,,Juguetes,Google Ads,5,2,0,0,0.0,8,,0
+CL-00805,18,Femenino,Aguascalientes,9500.0,2021-10-04,9,43,2,8,2321.91,45,Belleza,WhatsApp,13,5,2,5,21.7,1,285.39,0
+CL-00806,26,Femenino,Querétaro,20900.0,2024-07-25,16,72,6,1,578.19,165,Moda,Directo,20,3,2,0,0.0,4,578.19,0
+CL-00807,37,Femenino,Puebla,11100.0,2025-03-08,1,2,0,1,597.23,254,Belleza,Google Ads,3,0,0,0,0.0,0,597.23,0
+CL-00808,45,Femenino,Tijuana,22700.0,2022-02-14,7,22,0,3,6414.55,159,Electrodomésticos,Google Ads,19,0,0,1,11.9,0,1425.92,0
+CL-00809,59,Masculino,San Luis Potosí,23800.0,2024-06-04,11,23,0,8,13135.32,70,Electrónica,Google Ads,4,4,0,3,14.8,0,1516.62,0
+CL-00810,25,Femenino,San Luis Potosí,12500.0,2021-08-28,8,10,0,3,2322.84,107,Electrónica,Email,10,4,1,1,8.6,0,966.83,0
+CL-00811,36,Masculino,Veracruz,25800.0,2024-05-18,4,5,0,1,1096.98,40,Electrónica,Meta Ads,7,1,1,1,27.9,0,1096.98,0
+CL-00812,44,Masculino,Oaxaca,17000.0,2023-03-07,1,3,0,3,2603.75,228,Juguetes,Meta Ads,5,1,0,2,17.9,0,1409.85,0
+CL-00813,44,Masculino,Tijuana,23800.0,2024-06-21,3,16,0,6,4029.97,97,Belleza,WhatsApp,11,4,0,2,11.6,0,566.18,0
+CL-00814,34,Femenino,Ciudad de México,20700.0,2021-05-06,6,16,0,8,4255.94,173,Juguetes,Directo,10,2,2,7,22.5,0,787.86,0
+CL-00815,53,Masculino,Monterrey,29300.0,2024-06-06,20,91,3,8,12595.94,34,Moda,Directo,7,5,3,0,0.0,1,1170.98,0
+CL-00816,40,Femenino,Ciudad de México,7600.0,2026-01-22,5,13,0,5,4937.21,32,Hogar y Muebles,Google Ads,8,2,2,5,29.3,0,566.92,0
+CL-00817,37,Masculino,Chihuahua,13400.0,2023-08-10,4,8,0,0,0.0,,Moda,Orgánico,1,0,0,0,0.0,0,,0
+CL-00818,37,Femenino,Ciudad de México,30000.0,2020-07-27,1,2,0,2,4117.39,334,Electrodomésticos,Google Ads,0,0,0,1,11.4,0,2030.24,0
+CL-00819,38,Femenino,Toluca,7100.0,2021-10-09,3,12,0,4,2958.27,159,Celulares,Referido,6,1,0,3,18.1,0,525.53,0
+CL-00820,31,Femenino,Ciudad de México,17300.0,2025-08-03,9,20,0,4,8954.74,28,Hogar y Muebles,Email,0,0,0,0,0.0,0,1909.37,0
+CL-00821,60,Masculino,San Luis Potosí,17100.0,2021-11-20,10,27,1,8,8418.86,25,Celulares,Directo,5,1,1,4,23.6,0,1019.16,1
+CL-00822,46,Masculino,Chihuahua,13900.0,2025-01-28,2,2,0,2,4198.95,333,Hogar y Muebles,Google Ads,1,0,0,0,0.0,0,2336.51,0
+CL-00823,54,Masculino,Puebla,13800.0,2021-04-13,10,18,0,12,6270.71,13,Moda,Meta Ads,8,5,2,8,21.6,0,619.33,1
+CL-00824,41,Femenino,Ciudad de México,19600.0,2020-12-26,1,1,0,3,2555.48,312,Moda,Google Ads,2,0,0,0,0.0,0,663.22,0
+CL-00825,40,Masculino,Tijuana,40500.0,2021-08-26,7,54,2,7,23783.64,38,Electrodomésticos,Directo,4,3,1,2,16.0,0,3137.65,0
+CL-00826,24,Masculino,Mérida,11000.0,2026-08-31,8,27,0,0,0.0,,Celulares,Orgánico,3,1,0,0,0.0,0,,0
+CL-00827,22,Femenino,Ciudad de México,14300.0,2026-01-08,63,122,10,0,0.0,,Electrodomésticos,Email,10,2,2,0,0.0,8,,0
+CL-00828,51,Masculino,Puebla,10300.0,2023-10-24,3,12,0,4,4884.4,354,Electrodomésticos,WhatsApp,3,0,0,1,17.7,0,1067.21,0
+CL-00829,26,Femenino,Toluca,25700.0,2021-04-29,21,67,5,2,2997.82,5,Celulares,Orgánico,9,6,1,1,11.9,2,1241.51,1
+CL-00830,23,Masculino,Toluca,12400.0,2026-05-30,40,255,18,0,0.0,,Deportes,Google Ads,12,10,3,0,0.0,14,,0
+CL-00831,35,Masculino,Mérida,20500.0,2024-04-28,15,44,1,2,829.94,205,Juguetes,Orgánico,10,1,0,1,14.3,0,405.56,0
+CL-00832,24,Masculino,Guadalajara,17200.0,2025-07-18,25,54,4,1,933.8,162,Celulares,Meta Ads,13,1,0,0,0.0,3,933.8,0
+CL-00833,29,Femenino,Monterrey,21000.0,2024-12-26,50,165,7,2,2282.91,103,Juguetes,Email,10,1,0,1,15.6,5,971.0,0
+CL-00834,40,Masculino,Guadalajara,19200.0,2024-06-17,5,13,1,19,15952.18,13,Deportes,Meta Ads,7,0,0,12,19.7,0,545.64,1
+CL-00835,32,Femenino,Toluca,49300.0,2022-02-04,8,31,0,12,23004.55,41,Moda,Orgánico,10,8,2,1,11.2,0,1356.27,0
+CL-00836,37,Femenino,Veracruz,44000.0,2020-01-12,7,38,1,21,97775.02,97,Hogar y Muebles,Meta Ads,12,6,1,1,10.1,0,5813.35,0
+CL-00837,43,Femenino,Mérida,19000.0,2022-08-23,12,23,2,3,6289.31,282,Hogar y Muebles,Meta Ads,10,4,1,3,13.4,1,2747.5,0
+CL-00838,40,Femenino,Guadalajara,40900.0,2022-04-24,12,59,0,3,11038.04,20,Electrodomésticos,Google Ads,8,3,2,0,0.0,0,4676.46,1
+CL-00839,23,Masculino,Puebla,23000.0,2026-07-19,12,46,2,0,0.0,,Moda,Google Ads,29,8,3,0,0.0,2,,0
+CL-00840,18,Femenino,Aguascalientes,28400.0,2026-07-11,12,85,1,0,0.0,,Moda,Meta Ads,8,6,0,0,0.0,1,,0
+CL-00841,29,Masculino,Puebla,12000.0,2026-09-19,9,9,0,0,0.0,,Electrónica,WhatsApp,14,7,0,0,0.0,0,,0
+CL-00842,24,Masculino,Puebla,29800.0,2025-03-04,25,108,6,0,0.0,,Electrónica,Google Ads,12,2,1,0,0.0,5,,0
+CL-00843,48,Masculino,Ciudad de México,96000.0,2023-10-07,8,8,1,17,97381.68,15,Electrónica,Directo,5,2,0,1,12.2,1,5582.3,1
+CL-00844,36,Masculino,León,9900.0,2024-11-25,14,16,3,9,6759.6,19,Deportes,Directo,8,1,0,6,19.4,1,1256.7,1
+CL-00845,32,Masculino,Chihuahua,10400.0,2023-09-15,3,4,0,1,1669.97,329,Electrodomésticos,Google Ads,12,3,0,0,0.0,0,1669.97,0
+CL-00846,33,Femenino,Mérida,18900.0,2025-12-03,4,24,2,1,660.71,42,Moda,Directo,10,2,0,0,0.0,1,660.71,0
+CL-00847,33,Femenino,Monterrey,13900.0,2024-10-26,42,191,11,1,1368.09,28,Electrodomésticos,Orgánico,13,11,5,0,0.0,10,1368.09,1
+CL-00848,36,Femenino,Veracruz,25900.0,2025-12-24,3,5,0,0,0.0,,Belleza,Meta Ads,8,3,0,0,0.0,0,,0
+CL-00849,34,Masculino,Monterrey,11300.0,2024-12-05,0,0,0,0,0.0,,Electrodomésticos,Directo,4,1,1,0,0.0,0,,0
+CL-00850,34,Masculino,León,18100.0,2019-12-18,28,46,4,3,8607.3,5,Electrónica,Meta Ads,6,4,2,0,0.0,1,3328.02,0
+CL-00851,29,Femenino,Guadalajara,21000.0,2026-09-16,3,19,0,0,0.0,,Belleza,Orgánico,14,5,1,0,0.0,0,,0
+CL-00852,48,Femenino,Ciudad de México,33300.0,2024-03-24,16,32,2,2,4694.38,21,Electrodomésticos,Meta Ads,3,3,0,1,10.9,1,1337.43,0
+CL-00853,24,Masculino,Monterrey,19700.0,2026-02-05,14,53,2,1,682.11,29,Deportes,Referido,5,0,0,1,10.0,1,682.11,1
+CL-00854,26,Masculino,Ciudad de México,9700.0,2023-01-21,15,59,2,9,3547.03,30,Juguetes,Email,0,0,0,9,19.8,2,340.86,0
+CL-00855,25,Femenino,Monterrey,24000.0,2024-01-26,54,98,7,1,542.59,35,Moda,Google Ads,5,1,0,0,0.0,3,542.59,0
+CL-00856,32,Masculino,Guadalajara,28300.0,2026-07-09,6,23,2,0,0.0,,Electrónica,Meta Ads,4,2,0,0,0.0,1,,0
+CL-00857,54,Masculino,Querétaro,19200.0,2024-09-06,11,21,1,1,1450.17,110,Celulares,Orgánico,8,1,0,0,0.0,1,1450.17,0
+CL-00858,34,Masculino,Ciudad de México,15500.0,2025-01-03,0,0,0,1,1082.75,364,Celulares,Orgánico,4,0,0,0,0.0,0,1082.75,0
+CL-00859,29,Femenino,Puebla,21000.0,2025-07-11,14,72,3,0,0.0,,Electrodomésticos,Google Ads,6,3,1,0,0.0,2,,0
+CL-00860,31,Femenino,Tijuana,11300.0,2026-06-10,13,72,3,3,1573.95,112,Juguetes,Orgánico,11,2,2,2,11.9,2,334.83,0
+CL-00861,32,Femenino,Puebla,10500.0,2026-08-04,10,34,2,0,0.0,,Belleza,Meta Ads,16,6,2,0,0.0,2,,0
+CL-00862,26,Femenino,Querétaro,14800.0,2026-06-22,1,2,0,1,901.11,84,Moda,Meta Ads,5,4,1,0,0.0,0,901.11,0
+CL-00863,39,Femenino,León,6000.0,2024-07-28,8,13,3,7,3882.27,62,Moda,Google Ads,0,0,0,7,22.8,2,837.42,0
+CL-00864,30,Masculino,Ciudad de México,29600.0,2026-08-24,4,19,0,0,0.0,,Celulares,Meta Ads,3,1,1,0,0.0,0,,0
+CL-00865,43,Femenino,Puebla,7800.0,2021-09-18,3,3,0,3,4186.88,194,Hogar y Muebles,Directo,3,0,0,1,15.1,0,917.23,0
+CL-00866,29,Masculino,Guadalajara,16700.0,2025-02-20,2,10,1,4,2820.73,46,Deportes,Google Ads,8,2,1,3,20.8,1,727.89,0
+CL-00867,34,Masculino,Puebla,18100.0,2024-04-13,1,2,0,0,0.0,,Belleza,Orgánico,1,0,0,0,0.0,0,,0
+CL-00868,28,Femenino,Puebla,7600.0,2024-05-15,10,35,2,5,2389.96,61,Belleza,Google Ads,2,2,2,4,13.4,0,145.43,0
+CL-00869,44,Femenino,Aguascalientes,40800.0,2024-01-10,20,50,1,16,24437.16,40,Moda,Google Ads,12,5,0,3,5.3,0,1451.15,0
+CL-00870,26,Masculino,León,21200.0,2026-07-29,9,18,2,0,0.0,,Celulares,Google Ads,3,1,0,0,0.0,2,,0
+CL-00871,33,Femenino,San Luis Potosí,18700.0,2021-08-12,1,2,0,0,0.0,,Belleza,Meta Ads,8,3,0,0,0.0,0,,0
+CL-00872,23,Femenino,Cancún,16000.0,2026-09-25,2,8,2,0,0.0,,Moda,Google Ads,15,5,1,0,0.0,2,,0
+CL-00873,39,Femenino,Veracruz,13600.0,2026-09-25,8,41,0,0,0.0,,Moda,Google Ads,10,7,4,0,0.0,0,,0
+CL-00874,51,Masculino,Cancún,44200.0,2022-12-11,21,110,4,11,42873.37,110,Electrodomésticos,Google Ads,9,6,1,1,15.4,1,2018.38,0
+CL-00875,37,Masculino,Tijuana,9200.0,2026-06-26,14,48,1,0,0.0,,Celulares,Meta Ads,6,5,0,0,0.0,1,,0
+CL-00876,26,Masculino,Guadalajara,13900.0,2026-06-25,6,19,0,2,3007.65,64,Celulares,Meta Ads,7,0,0,1,10.5,0,1458.12,0
+CL-00877,59,Femenino,Cancún,31500.0,2022-07-25,9,29,1,4,6175.87,3,Moda,Orgánico,3,3,0,1,9.8,0,1705.93,1
+CL-00878,28,No especificado,Guadalajara,9200.0,2025-04-26,3,3,0,2,815.9,300,Belleza,Email,2,1,0,1,8.0,0,485.03,0
+CL-00879,55,Masculino,León,17100.0,2025-11-14,12,33,1,5,8454.67,5,Electrónica,Email,7,3,3,4,25.2,1,1188.57,0
+CL-00880,42,Masculino,León,11500.0,2023-09-05,50,229,12,3,3545.9,164,Electrodomésticos,Orgánico,4,0,0,1,12.4,9,1025.15,0
+CL-00881,24,Femenino,Cancún,7400.0,2025-01-07,24,74,2,2,859.55,139,Moda,Orgánico,3,1,1,0,0.0,2,347.71,0
+CL-00882,45,Masculino,Cancún,15600.0,2020-11-16,0,0,0,0,0.0,,Celulares,Meta Ads,3,0,0,0,0.0,0,,0
+CL-00883,27,Masculino,Monterrey,32200.0,2024-09-11,5,6,0,0,0.0,,Belleza,Orgánico,2,0,0,0,0.0,0,,0
+CL-00884,59,No especificado,Querétaro,17600.0,2023-02-20,0,0,0,0,0.0,,Celulares,Orgánico,3,0,0,0,0.0,0,,0
+CL-00885,39,Femenino,Puebla,16000.0,2025-03-22,12,43,0,3,4132.9,10,Electrodomésticos,Email,15,6,2,2,24.3,0,1897.41,1
+CL-00886,22,Masculino,San Luis Potosí,9900.0,2025-03-07,0,0,0,10,9406.05,47,Hogar y Muebles,Orgánico,18,10,5,8,28.0,0,810.55,0
+CL-00887,30,Femenino,Chihuahua,15900.0,2024-06-03,27,118,16,4,8196.66,114,Hogar y Muebles,Google Ads,13,5,0,1,11.3,13,1987.99,0
+CL-00888,34,Masculino,Tijuana,17500.0,2024-02-25,26,149,7,1,1374.65,82,Electrónica,Google Ads,13,5,1,0,0.0,6,1374.65,0
+CL-00889,55,Masculino,Ciudad de México,23000.0,2023-03-09,0,0,0,1,1582.81,222,Electrónica,Directo,1,1,1,0,0.0,0,1582.81,0
+CL-00890,25,Femenino,Ciudad de México,16300.0,2026-06-18,6,32,1,1,1531.93,19,Electrodomésticos,Orgánico,4,1,0,0,0.0,0,1531.93,0
+CL-00891,23,Femenino,Ciudad de México,11300.0,2023-11-02,25,80,1,0,0.0,,Belleza,Meta Ads,9,2,0,0,0.0,1,,0
+CL-00892,27,Femenino,Mérida,12600.0,2026-08-17,9,10,0,2,1222.22,28,Moda,Google Ads,8,1,0,1,18.0,0,402.62,0
+CL-00893,36,Femenino,Tijuana,15100.0,2026-06-17,55,216,18,1,317.72,105,Moda,Meta Ads,9,4,3,0,0.0,16,317.72,0
+CL-00894,40,Femenino,Guadalajara,14800.0,2023-12-20,2,5,0,11,22123.63,117,Hogar y Muebles,WhatsApp,17,3,0,2,16.0,0,1131.79,0
+CL-00895,55,Femenino,Mérida,11200.0,2024-05-30,0,0,0,0,0.0,,Hogar y Muebles,Referido,6,2,0,0,0.0,0,,0
+CL-00896,62,Masculino,Mérida,9900.0,2022-04-24,2,6,0,0,0.0,,Electrodomésticos,Email,10,0,0,0,0.0,0,,0
+CL-00897,38,Femenino,Ciudad de México,25600.0,2023-06-05,6,26,0,3,5930.8,76,Celulares,Directo,6,1,0,0,0.0,0,986.56,0
+CL-00898,24,Femenino,Guadalajara,9600.0,2021-04-10,2,2,1,3,2812.67,334,Hogar y Muebles,Meta Ads,5,0,0,0,0.0,1,945.28,0
+CL-00899,21,Femenino,Chihuahua,9800.0,2021-12-25,1,2,0,3,2343.08,171,Celulares,Email,4,0,0,1,15.7,0,314.95,0
+CL-00900,48,Femenino,Ciudad de México,11500.0,2020-12-20,0,0,0,0,0.0,,Hogar y Muebles,Orgánico,1,0,0,0,0.0,0,,0
+CL-00901,27,Femenino,Guadalajara,17700.0,2026-06-25,15,53,4,2,950.05,19,Belleza,Google Ads,10,1,0,1,15.7,4,501.18,1
+CL-00902,46,Femenino,Puebla,24100.0,2022-07-27,12,33,0,3,2808.61,130,Juguetes,Orgánico,11,2,1,1,19.1,0,1113.67,0
+CL-00903,30,Femenino,Oaxaca,11600.0,2023-08-03,26,51,2,0,0.0,,Hogar y Muebles,Orgánico,14,9,3,0,0.0,1,,0
+CL-00904,20,Masculino,Ciudad de México,22200.0,2025-05-30,23,100,7,2,2570.65,122,Electrodomésticos,Meta Ads,13,6,5,0,0.0,6,681.52,0
+CL-00905,47,Masculino,Puebla,53900.0,2021-12-03,23,82,1,9,38850.1,6,Electrodomésticos,Directo,6,2,0,0,0.0,0,3425.25,1
+CL-00906,22,Masculino,Ciudad de México,17600.0,2022-02-08,6,22,1,2,3696.17,172,Electrónica,Directo,19,9,0,0,0.0,0,2621.22,0
+CL-00907,50,Femenino,Puebla,29000.0,2024-02-15,12,73,2,14,19308.39,6,Deportes,Meta Ads,3,2,0,1,5.0,0,683.65,1
+CL-00908,36,Femenino,Toluca,44800.0,2022-09-26,5,10,1,1,1202.84,89,Moda,Email,19,6,1,0,0.0,0,1202.84,0
+CL-00909,27,Masculino,Mérida,15400.0,2024-06-05,30,70,4,1,475.6,97,Deportes,Meta Ads,5,3,2,0,0.0,4,475.6,0
+CL-00910,52,Masculino,Oaxaca,25000.0,2024-07-08,7,19,1,2,2282.06,39,Celulares,Orgánico,7,1,0,0,0.0,1,957.2,0
+CL-00911,51,No especificado,Ciudad de México,12700.0,2024-09-08,16,36,1,4,7345.14,38,Electrodomésticos,Email,5,1,1,2,23.4,0,891.81,0
+CL-00912,49,Masculino,Puebla,9800.0,2022-06-24,18,36,2,13,5267.9,78,Belleza,Orgánico,5,0,0,12,31.3,1,495.48,0
+CL-00913,38,Femenino,Mérida,11200.0,2025-04-03,3,6,0,2,3103.72,324,Hogar y Muebles,Google Ads,0,0,0,0,0.0,0,2102.33,0
+CL-00914,30,Masculino,Ciudad de México,26500.0,2025-09-21,17,59,4,2,6157.95,252,Hogar y Muebles,Google Ads,7,5,1,0,0.0,4,2671.04,0
+CL-00915,29,Femenino,Tijuana,23800.0,2025-09-24,11,26,3,3,3450.36,277,Moda,Google Ads,17,6,5,0,0.0,2,2320.66,0
+CL-00916,46,Femenino,Puebla,12400.0,2025-01-25,1,1,0,6,7333.08,55,Hogar y Muebles,Google Ads,17,8,5,3,28.0,0,855.08,0
+CL-00917,33,Femenino,Veracruz,9500.0,2022-12-21,13,82,1,4,1998.22,128,Moda,Email,15,5,0,4,35.7,1,785.07,0
+CL-00918,28,Femenino,Ciudad de México,23100.0,2023-08-11,6,21,0,1,693.66,47,Belleza,Orgánico,7,2,1,0,0.0,0,693.66,0
+CL-00919,18,Femenino,Querétaro,22000.0,2026-06-19,6,6,0,1,741.9,60,Moda,Directo,5,4,2,0,0.0,0,741.9,0
+CL-00920,63,Femenino,Monterrey,13300.0,2025-04-25,0,0,0,2,2642.73,228,Electrodomésticos,Meta Ads,5,1,0,2,11.5,0,1481.9,0
+CL-00921,34,Femenino,Querétaro,19500.0,2025-02-23,13,43,2,0,0.0,,Juguetes,Meta Ads,10,4,2,0,0.0,2,,0
+CL-00922,18,Masculino,Veracruz,18900.0,2024-07-13,32,116,4,1,396.82,141,Moda,Orgánico,5,3,0,0,0.0,1,396.82,0
+CL-00923,33,Femenino,Ciudad de México,35600.0,2023-05-19,12,67,4,1,1769.72,49,Electrodomésticos,Referido,5,0,0,0,0.0,1,1769.72,0
+CL-00924,37,Masculino,Mérida,20300.0,2026-02-13,6,40,1,3,5039.04,87,Electrónica,Meta Ads,5,1,1,1,8.9,1,2208.8,0
+CL-00925,23,Femenino,Cancún,11800.0,2026-06-08,11,39,2,0,0.0,,Celulares,Meta Ads,0,0,0,0,0.0,2,,0
+CL-00926,35,Femenino,Monterrey,13300.0,2021-09-14,1,2,0,0,0.0,,Moda,Google Ads,7,0,0,0,0.0,0,,0
+CL-00927,61,Masculino,Ciudad de México,34000.0,2020-12-26,7,12,0,14,39735.49,5,Electrónica,Orgánico,8,6,2,2,13.4,0,3618.07,0
+CL-00928,29,Masculino,Ciudad de México,26100.0,2023-10-14,63,317,14,2,3616.87,187,Celulares,Meta Ads,8,6,3,0,0.0,8,790.33,0
+CL-00929,20,Masculino,Oaxaca,12200.0,2026-07-08,8,19,0,1,947.99,10,Electrónica,Meta Ads,9,2,0,1,12.1,0,947.99,0
+CL-00930,30,Femenino,Puebla,18600.0,2026-01-26,10,44,2,0,0.0,,Hogar y Muebles,Meta Ads,14,7,3,0,0.0,1,,0
+CL-00931,45,Femenino,Puebla,9800.0,2024-09-11,6,19,0,9,4201.87,7,Juguetes,Google Ads,15,11,5,6,20.7,0,347.07,1
+CL-00932,56,Masculino,Querétaro,17400.0,2019-12-28,2,4,0,0,0.0,,Deportes,Email,4,0,0,0,0.0,0,,0
+CL-00933,37,Masculino,Mérida,12600.0,2021-08-14,10,12,0,15,20421.57,48,Electrónica,Meta Ads,6,2,1,14,18.5,0,1279.64,0
+CL-00934,32,Masculino,Ciudad de México,23900.0,2025-12-26,4,19,0,3,1748.51,31,Belleza,Google Ads,7,2,0,2,13.5,0,839.27,0
+CL-00935,28,Masculino,Monterrey,10800.0,2026-03-03,15,20,4,0,0.0,,Electrónica,Email,13,7,5,0,0.0,3,,0
+CL-00936,24,Femenino,Veracruz,12700.0,2023-05-27,0,0,0,1,746.04,249,Moda,Email,1,1,0,0,0.0,0,746.04,0
+CL-00937,29,Femenino,Puebla,23700.0,2024-09-02,46,71,2,3,3146.91,87,Moda,Meta Ads,10,6,1,2,11.2,2,1365.65,0
+CL-00938,44,Femenino,Mérida,14300.0,2024-03-01,1,2,0,1,1337.48,330,Hogar y Muebles,Email,2,1,0,1,24.4,0,1337.48,0
+CL-00939,18,Femenino,Ciudad de México,19400.0,2024-03-19,53,444,9,1,910.0,35,Moda,Meta Ads,16,10,6,0,0.0,9,910.0,0
+CL-00940,36,Femenino,San Luis Potosí,19300.0,2025-11-22,17,83,4,0,0.0,,Moda,Meta Ads,12,5,0,0,0.0,4,,0
+CL-00941,21,Femenino,Guadalajara,25000.0,2026-07-04,4,9,0,0,0.0,,Deportes,Orgánico,11,4,3,0,0.0,0,,0
+CL-00942,44,Masculino,Guadalajara,16700.0,2025-12-25,11,63,3,2,3571.25,80,Hogar y Muebles,Google Ads,6,2,0,1,5.0,2,773.6,0
+CL-00943,60,Masculino,Ciudad de México,11100.0,2023-10-22,2,5,0,0,0.0,,Electrónica,Orgánico,5,1,0,0,0.0,0,,0
+CL-00944,56,Femenino,Guadalajara,34800.0,2024-10-23,15,47,0,3,2799.0,5,Juguetes,Directo,4,4,0,1,12.0,0,1623.69,0
+CL-00945,43,Masculino,Monterrey,25500.0,2023-01-04,20,94,4,11,14158.89,59,Moda,Google Ads,10,7,2,0,0.0,0,1094.48,0
+CL-00946,40,Masculino,Ciudad de México,20900.0,2023-01-26,5,5,0,4,3191.88,83,Moda,Referido,2,2,0,4,32.3,0,883.02,0
+CL-00947,27,Masculino,Mérida,16500.0,2025-01-02,6,10,0,2,1348.37,180,Celulares,Orgánico,2,0,0,0,0.0,0,572.8,0
+CL-00948,29,Masculino,Guadalajara,16600.0,2024-09-22,2,6,0,3,4434.83,2,Electrónica,Google Ads,8,7,4,3,19.2,0,1662.9,0
+CL-00949,42,Masculino,León,21200.0,2021-11-18,5,5,0,2,3047.41,16,Deportes,Meta Ads,5,1,0,1,13.2,0,1739.1,0
+CL-00950,36,Femenino,Cancún,11500.0,2021-08-04,5,19,0,7,3918.33,45,Moda,Google Ads,10,4,3,7,25.1,0,243.54,0
+CL-00951,22,Masculino,Guadalajara,28500.0,2024-08-30,31,133,3,0,0.0,,Electrónica,Email,10,1,0,0,0.0,3,,0
+CL-00952,33,Femenino,Ciudad de México,7600.0,2024-02-13,15,54,1,6,5587.99,22,Electrónica,Email,8,4,1,4,25.4,0,722.97,1
+CL-00953,50,Masculino,Tijuana,15900.0,2024-01-01,9,9,0,1,997.51,35,Celulares,Meta Ads,12,4,1,1,13.3,0,997.51,0
+CL-00954,31,Femenino,Querétaro,17600.0,2026-06-21,1,7,0,1,698.58,51,Moda,Meta Ads,20,8,4,1,10.5,0,698.58,0
+CL-00955,38,Femenino,Oaxaca,15300.0,2025-07-18,19,57,3,0,0.0,,Moda,Meta Ads,7,3,1,0,0.0,1,,0
+CL-00956,44,Femenino,Ciudad de México,35200.0,2022-01-31,15,54,1,12,11297.16,26,Belleza,Referido,3,2,0,3,12.0,0,495.12,1
+CL-00957,43,Femenino,Toluca,11500.0,2021-03-31,2,2,0,0,0.0,,Electrodomésticos,Email,4,1,0,0,0.0,0,,0
+CL-00958,56,Femenino,Chihuahua,23700.0,2023-10-26,7,26,0,2,1203.58,239,Moda,Meta Ads,1,0,0,1,14.2,0,441.38,0
+CL-00959,37,Masculino,Monterrey,13200.0,2025-12-21,16,29,2,7,3132.94,119,Moda,Orgánico,7,3,1,5,21.6,1,506.27,0
+CL-00960,40,Masculino,Ciudad de México,11700.0,2023-03-23,11,27,1,0,0.0,,Moda,WhatsApp,9,2,1,0,0.0,1,,0
+CL-00961,59,Femenino,Guadalajara,10500.0,2025-02-14,2,2,0,2,2556.67,151,Electrónica,Google Ads,2,0,0,0,0.0,0,531.71,0
+CL-00962,38,Femenino,Ciudad de México,21900.0,2026-05-04,36,184,8,0,0.0,,Moda,Orgánico,23,4,2,0,0.0,6,,0
+CL-00963,37,Masculino,Cancún,28800.0,2022-05-21,10,36,3,20,47499.85,22,Hogar y Muebles,Directo,18,9,4,1,12.5,1,2079.37,1
+CL-00964,28,Femenino,Mérida,21300.0,2023-07-29,10,52,1,27,26059.57,72,Juguetes,Orgánico,3,1,0,2,7.5,0,543.1,0
+CL-00965,44,Femenino,Monterrey,37900.0,2024-05-27,5,5,0,3,6136.54,34,Hogar y Muebles,Referido,12,6,0,2,12.4,0,1705.69,0
+CL-00966,66,Femenino,Cancún,9600.0,2021-06-16,2,2,0,1,617.49,255,Hogar y Muebles,Google Ads,3,0,0,0,0.0,0,617.49,0
+CL-00967,18,Femenino,Ciudad de México,10600.0,2026-08-09,3,13,0,0,0.0,,Deportes,Orgánico,7,4,0,0,0.0,0,,0
+CL-00968,20,Femenino,Tijuana,10500.0,2024-07-14,6,17,0,3,5270.31,34,Electrodomésticos,Meta Ads,10,3,2,2,20.3,0,1944.61,0
+CL-00969,44,Femenino,Tijuana,43700.0,2025-09-30,5,11,0,3,3402.9,152,Juguetes,Meta Ads,6,1,0,1,13.8,0,1454.66,0
+CL-00970,18,Masculino,León,13100.0,2024-10-19,16,59,6,3,1706.36,250,Belleza,Meta Ads,7,0,0,0,0.0,4,179.89,0
+CL-00971,33,Masculino,Monterrey,11800.0,2025-04-11,17,97,5,2,835.61,160,Moda,Orgánico,20,3,1,0,0.0,3,529.66,0
+CL-00972,37,Masculino,Ciudad de México,20300.0,2023-03-06,3,6,0,3,4218.01,283,Celulares,Orgánico,5,1,0,2,15.1,0,2040.3,0
+CL-00973,43,Femenino,Ciudad de México,16500.0,2024-11-05,1,1,0,2,1699.91,166,Moda,Meta Ads,3,0,0,2,11.4,0,937.96,0
+CL-00974,71,Femenino,Guadalajara,80200.0,2023-07-31,6,9,0,22,54689.5,40,Moda,Directo,13,5,2,5,5.0,0,2004.77,0
+CL-00975,27,Femenino,Ciudad de México,20900.0,2026-07-12,4,8,0,0,0.0,,Electrónica,Email,2,1,1,0,0.0,0,,0
+CL-00976,27,Masculino,Ciudad de México,20300.0,2023-09-17,40,249,7,2,2049.17,292,Moda,Referido,6,2,1,0,0.0,6,1341.13,0
+CL-00977,18,Masculino,Veracruz,24300.0,2023-06-07,10,36,0,2,3966.43,53,Electrónica,Orgánico,5,2,1,0,0.0,0,1234.06,0
+CL-00978,21,Femenino,Ciudad de México,14300.0,2022-09-07,5,16,0,7,4765.0,2,Moda,Email,8,5,3,5,20.5,0,1268.41,1
+CL-00979,20,Femenino,Puebla,21000.0,2024-11-25,7,12,0,4,2970.36,215,Deportes,Orgánico,7,5,2,2,28.2,0,799.27,0
+CL-00980,23,Masculino,Querétaro,12800.0,2022-03-08,1,1,0,0,0.0,,Hogar y Muebles,Email,4,0,0,0,0.0,0,,0
+CL-00981,36,Femenino,Querétaro,22700.0,2023-11-19,2,2,0,2,3045.08,104,Hogar y Muebles,Directo,6,1,0,0,0.0,0,950.78,0
+CL-00982,25,Femenino,Ciudad de México,34400.0,2026-08-31,1,5,0,1,2838.01,8,Hogar y Muebles,Meta Ads,19,18,4,1,12.2,0,2838.01,0
+CL-00983,26,Femenino,León,14300.0,2026-07-02,1,1,0,1,1020.51,84,Deportes,Orgánico,9,5,2,1,13.1,0,1020.51,0
+CL-00984,46,Masculino,Cancún,11000.0,2024-03-10,5,8,1,8,10713.82,24,Electrodomésticos,Google Ads,3,1,1,7,24.2,0,2242.97,1
+CL-00985,22,Masculino,Veracruz,13900.0,2024-11-28,13,29,0,4,4597.31,61,Celulares,Email,19,3,1,2,23.0,0,823.69,0
+CL-00986,55,Femenino,Puebla,16300.0,2021-08-31,0,0,0,1,631.41,246,Moda,Google Ads,5,1,1,1,11.7,0,631.41,0
+CL-00987,33,Masculino,Monterrey,27900.0,2021-10-22,10,12,1,5,7571.6,40,Celulares,Meta Ads,19,9,5,3,19.5,0,1820.36,0
+CL-00988,52,Masculino,León,15200.0,2022-06-12,17,32,0,0,0.0,,Celulares,Google Ads,4,1,1,0,0.0,0,,0
+CL-00989,34,Femenino,San Luis Potosí,16300.0,2023-01-31,3,11,0,15,24078.39,15,Hogar y Muebles,Directo,8,1,1,5,6.1,0,2996.53,0
+CL-00990,36,Femenino,Puebla,9800.0,2026-08-07,3,6,0,0,0.0,,Belleza,Meta Ads,4,0,0,0,0.0,0,,0
+CL-00991,31,Femenino,Monterrey,24300.0,2024-03-21,5,12,0,4,9767.5,139,Hogar y Muebles,WhatsApp,3,2,2,4,17.8,0,2787.45,0
+CL-00992,20,Femenino,Puebla,24500.0,2022-05-12,10,41,0,8,18452.18,75,Electrónica,Directo,10,5,1,0,0.0,0,1744.64,0
+CL-00993,62,Femenino,Querétaro,17800.0,2022-06-02,2,4,0,1,1533.77,328,Hogar y Muebles,Meta Ads,6,1,0,0,0.0,0,1533.77,0
+CL-00994,54,Masculino,Querétaro,20200.0,2020-10-02,3,4,0,1,1305.2,348,Electrónica,Google Ads,11,3,0,0,0.0,0,1305.2,0
+CL-00995,52,Femenino,Ciudad de México,19100.0,2022-01-08,16,55,0,6,7683.9,11,Hogar y Muebles,Email,13,4,3,6,24.6,0,527.66,1
+CL-00996,21,Femenino,Toluca,12400.0,2026-09-06,7,13,2,0,0.0,,Moda,Email,10,9,3,0,0.0,0,,0
+CL-00997,43,Femenino,León,10600.0,2024-08-26,3,5,0,2,2876.38,265,Hogar y Muebles,Google Ads,4,1,0,0,0.0,0,2346.76,0
+CL-00998,33,Masculino,Guadalajara,14500.0,2023-01-05,6,21,1,8,6743.3,42,Celulares,Google Ads,24,11,8,6,23.3,0,712.37,0
+CL-00999,18,Masculino,Guadalajara,6000.0,2021-07-17,16,82,2,6,2288.79,39,Juguetes,Meta Ads,3,2,0,4,27.9,0,432.77,0
+CL-01000,39,Masculino,Ciudad de México,22800.0,2025-03-12,93,163,6,2,1121.96,32,Moda,Google Ads,4,1,1,1,12.9,4,575.06,0
+CL-01001,43,Masculino,Guadalajara,14300.0,2021-02-02,1,2,1,1,469.51,252,Celulares,Directo,5,0,0,0,0.0,1,469.51,0
+CL-01002,34,Masculino,Guadalajara,26800.0,2024-03-04,4,15,0,22,57600.88,5,Electrónica,Directo,11,5,2,3,14.8,0,1597.46,1
+CL-01003,42,Femenino,Monterrey,15200.0,2021-04-23,1,3,0,1,357.08,318,Moda,Orgánico,1,0,0,0,0.0,0,357.08,0
+CL-01004,35,No especificado,Ciudad de México,10000.0,2026-06-02,10,13,3,1,1794.85,108,Electrónica,Google Ads,12,2,1,0,0.0,2,1794.85,0
+CL-01005,42,Femenino,Monterrey,27300.0,2019-12-07,2,2,0,0,0.0,,Moda,Email,5,1,0,0,0.0,0,,0
+CL-01006,50,Masculino,Ciudad de México,13700.0,2025-11-25,18,47,1,1,424.94,17,Moda,Email,15,5,5,0,0.0,1,424.94,1
+CL-01007,31,Femenino,Guadalajara,12100.0,2021-07-15,13,28,2,6,6569.64,11,Hogar y Muebles,WhatsApp,6,2,0,1,11.3,1,1117.34,1
+CL-01008,33,Masculino,Tijuana,13600.0,2024-07-25,14,31,0,12,7459.05,33,Deportes,Meta Ads,15,7,5,8,24.8,0,375.28,0
+CL-01009,56,Femenino,Guadalajara,18600.0,2022-04-16,1,2,0,1,431.0,203,Belleza,Orgánico,3,0,0,0,0.0,0,431.0,0
+CL-01010,34,Masculino,Tijuana,79700.0,2022-03-18,13,42,0,7,29162.35,5,Electrónica,Meta Ads,9,3,0,1,7.4,0,5651.44,1
+CL-01011,48,Femenino,Guadalajara,16300.0,2023-03-28,4,9,0,1,640.97,152,Moda,Google Ads,4,1,0,0,0.0,0,640.97,0
+CL-01012,27,Masculino,Oaxaca,7700.0,2024-07-10,3,8,0,6,3482.09,35,Electrónica,Email,8,1,0,3,22.4,0,207.35,0
+CL-01013,26,Femenino,Ciudad de México,21100.0,2023-10-03,20,58,1,2,5528.76,75,Hogar y Muebles,Directo,20,8,1,0,0.0,1,3866.63,0
+CL-01014,50,Femenino,Ciudad de México,41800.0,2023-03-13,1,7,0,5,6691.43,66,Juguetes,Email,10,7,3,2,15.7,0,1702.96,0
+CL-01015,35,Masculino,Chihuahua,10800.0,2025-04-12,14,85,3,1,950.97,96,Moda,Google Ads,18,3,0,0,0.0,3,950.97,0
+CL-01016,21,Masculino,Puebla,20600.0,2026-09-05,6,23,1,0,0.0,,Celulares,Meta Ads,11,6,0,0,0.0,1,,0
+CL-01017,19,Femenino,Querétaro,15100.0,2026-06-02,8,16,1,1,1571.14,119,Electrodomésticos,Google Ads,8,1,0,1,13.4,0,1571.14,0
+CL-01018,26,Masculino,Monterrey,25000.0,2020-11-11,30,48,0,32,76614.72,24,Celulares,Directo,4,1,1,3,5.0,0,2706.71,1
+CL-01019,51,Femenino,León,11700.0,2023-01-10,0,0,0,3,8315.36,285,Hogar y Muebles,Email,7,1,0,0,0.0,0,3915.27,0
+CL-01020,22,Femenino,Guadalajara,20300.0,2023-11-24,4,11,0,9,18096.62,187,Celulares,Meta Ads,9,7,2,5,20.0,0,3970.0,0
+CL-01021,23,Masculino,Monterrey,20000.0,2024-10-20,21,173,5,0,0.0,,Hogar y Muebles,Meta Ads,11,7,1,0,0.0,4,,0
+CL-01022,56,Masculino,Chihuahua,25000.0,2024-07-07,13,42,1,4,4100.56,36,Moda,Referido,0,0,0,1,5.0,0,1618.03,0
+CL-01023,45,Masculino,Puebla,10000.0,2021-04-16,4,11,1,2,1883.54,195,Hogar y Muebles,Meta Ads,13,5,3,2,17.7,1,849.74,0
+CL-01024,22,Femenino,Oaxaca,13500.0,2026-07-07,27,89,3,1,390.68,15,Moda,Google Ads,3,1,0,1,13.9,3,390.68,0
+CL-01025,18,Femenino,Mérida,10000.0,2021-07-26,4,14,0,3,1135.0,89,Moda,Email,14,9,3,2,16.8,0,191.03,0
+CL-01026,18,Femenino,León,8700.0,2023-06-02,7,7,1,5,1886.3,16,Belleza,Google Ads,12,7,0,5,24.7,1,699.02,1
+CL-01027,23,Masculino,Ciudad de México,19300.0,2026-07-06,9,22,1,2,3988.46,30,Hogar y Muebles,Google Ads,3,1,0,0,0.0,1,2733.39,1
+CL-01028,41,Femenino,Ciudad de México,54800.0,2021-08-05,7,21,1,4,4799.4,33,Moda,Orgánico,7,7,2,0,0.0,1,1768.2,0
+CL-01029,40,Masculino,Guadalajara,25100.0,2025-10-08,7,13,0,5,13300.1,167,Electrodomésticos,Email,13,4,2,1,17.7,0,1338.26,0
+CL-01030,55,Masculino,Tijuana,12400.0,2023-08-23,3,5,0,2,1489.24,358,Deportes,Google Ads,1,0,0,1,10.2,0,933.01,0
+CL-01031,36,Femenino,Guadalajara,6800.0,2022-09-26,4,15,1,4,1340.09,38,Moda,WhatsApp,15,9,3,3,22.0,0,441.66,0
+CL-01032,32,Masculino,Tijuana,12000.0,2026-06-03,11,68,6,0,0.0,,Electrodomésticos,Google Ads,4,2,0,0,0.0,3,,0
+CL-01033,36,Femenino,Monterrey,21500.0,2020-03-24,20,23,0,8,8922.32,46,Moda,WhatsApp,7,6,2,1,11.9,0,1741.9,0
+CL-01034,41,Femenino,Mérida,7900.0,2021-01-08,1,1,0,1,223.05,277,Belleza,Directo,2,0,0,1,9.8,0,223.05,0
+CL-01035,43,Masculino,Puebla,15200.0,2025-01-24,6,7,0,2,6749.44,67,Hogar y Muebles,WhatsApp,10,3,0,1,18.9,0,3520.09,0
+CL-01036,57,Femenino,Ciudad de México,16100.0,2024-01-18,2,6,0,1,450.51,187,Moda,Google Ads,6,0,0,1,22.5,0,450.51,0
+CL-01037,43,Femenino,Ciudad de México,10300.0,2025-06-26,8,15,0,7,7164.33,81,Hogar y Muebles,Orgánico,17,11,4,7,27.0,0,1111.66,0
+CL-01038,35,Masculino,Monterrey,13800.0,2021-11-07,15,38,1,11,13913.89,144,Electrodomésticos,Google Ads,11,8,4,10,16.3,1,1818.0,0
+CL-01039,55,Femenino,Puebla,12400.0,2020-11-01,3,11,0,1,1015.78,199,Electrodomésticos,Google Ads,6,1,0,0,0.0,0,1015.78,0
+CL-01040,24,Femenino,Tijuana,12300.0,2022-02-05,14,46,2,2,2379.45,5,Hogar y Muebles,Orgánico,0,0,0,2,15.9,1,1080.17,0
+CL-01041,56,Masculino,Monterrey,14200.0,2025-07-03,5,11,1,4,4600.4,60,Electrodomésticos,Google Ads,11,7,1,2,7.0,0,1620.57,0
+CL-01042,22,Masculino,Ciudad de México,24800.0,2026-09-08,4,14,0,0,0.0,,Celulares,Meta Ads,7,2,0,0,0.0,0,,0
+CL-01043,25,Masculino,Cancún,10900.0,2026-06-24,4,10,1,0,0.0,,Hogar y Muebles,Orgánico,14,10,7,0,0.0,0,,0
+CL-01044,43,Femenino,Ciudad de México,9600.0,2021-09-20,3,11,1,1,495.18,343,Moda,Email,3,0,0,0,0.0,1,495.18,0
+CL-01045,41,Femenino,Cancún,24900.0,2021-10-22,4,4,0,14,14690.58,66,Moda,Meta Ads,10,2,1,3,20.7,0,1071.81,0
+CL-01046,20,Masculino,Ciudad de México,26700.0,2023-11-24,15,114,9,1,2276.73,294,Electrónica,Orgánico,13,7,2,1,7.8,8,2276.73,0
+CL-01047,29,Masculino,León,17200.0,2026-08-27,3,11,0,0,0.0,,Celulares,Orgánico,10,4,1,0,0.0,0,,0
+CL-01048,36,Masculino,Puebla,53500.0,2023-09-12,5,35,4,26,95683.75,56,Celulares,Email,10,5,3,5,5.8,1,5562.25,0
+CL-01049,52,Femenino,Aguascalientes,17600.0,2022-11-02,8,11,0,2,1106.8,90,Moda,Orgánico,11,3,1,2,22.7,0,571.43,0
+CL-01050,44,No especificado,Ciudad de México,38600.0,2024-10-12,8,46,2,6,16659.13,80,Hogar y Muebles,Directo,12,11,1,0,0.0,2,1150.64,0
+CL-01051,44,Femenino,Ciudad de México,19100.0,2023-12-03,5,30,0,5,4851.76,5,Belleza,Google Ads,11,7,4,0,0.0,0,1348.12,1
+CL-01052,36,Femenino,Aguascalientes,16900.0,2024-09-22,17,75,1,0,0.0,,Hogar y Muebles,Meta Ads,2,1,0,0,0.0,1,,0
+CL-01053,38,Masculino,Aguascalientes,18800.0,2022-11-08,5,19,2,9,14853.93,128,Celulares,Referido,19,8,0,3,15.9,2,1306.12,0
+CL-01054,18,Femenino,Guadalajara,13400.0,2026-09-03,7,30,0,0,0.0,,Hogar y Muebles,Meta Ads,6,1,1,0,0.0,0,,0
+CL-01055,34,Femenino,Guadalajara,21600.0,2022-08-30,3,8,0,3,3044.0,21,Moda,Google Ads,11,4,2,3,23.2,0,1744.59,0
+CL-01056,40,Masculino,Puebla,16200.0,2024-03-21,9,36,2,0,0.0,,Juguetes,Google Ads,6,3,0,0,0.0,2,,0
+CL-01057,57,Femenino,Toluca,15600.0,2022-01-04,2,2,0,1,254.88,224,Belleza,Meta Ads,11,1,0,0,0.0,0,254.88,0
+CL-01058,48,Femenino,Cancún,10500.0,2020-09-05,2,2,0,1,500.31,342,Belleza,Google Ads,3,0,0,0,0.0,0,500.31,0
+CL-01059,31,Femenino,Ciudad de México,10400.0,2022-04-03,12,60,6,5,2428.99,74,Juguetes,Meta Ads,10,0,0,4,23.9,3,546.79,0
+CL-01060,32,Femenino,Monterrey,22900.0,2023-10-26,41,245,26,1,1308.47,255,Celulares,Email,9,6,1,0,0.0,23,1308.47,0
+CL-01061,52,Masculino,Puebla,15500.0,2021-01-30,1,1,0,0,0.0,,Hogar y Muebles,Orgánico,1,0,0,0,0.0,0,,0
+CL-01062,31,Masculino,Tijuana,17900.0,2023-04-22,1,1,0,2,1900.77,311,Electrónica,Email,9,0,0,0,0.0,0,784.98,0
+CL-01063,64,Femenino,Guadalajara,6800.0,2025-04-27,2,5,0,3,1501.02,335,Hogar y Muebles,Orgánico,2,0,0,1,16.8,0,501.01,0
+CL-01064,28,Masculino,Tijuana,16600.0,2020-01-01,0,0,0,4,4506.27,300,Deportes,Directo,1,0,0,1,14.0,0,1184.1,0
+CL-01065,59,Masculino,Toluca,13600.0,2024-08-31,1,3,0,2,2022.17,323,Celulares,Referido,1,0,0,1,12.2,0,951.06,0
+CL-01066,61,Masculino,Ciudad de México,12500.0,2020-01-23,1,1,0,1,541.25,257,Moda,Meta Ads,4,0,0,0,0.0,0,541.25,0
+CL-01067,35,Masculino,Querétaro,15700.0,2025-03-13,26,138,5,4,1616.41,296,Belleza,Meta Ads,9,6,1,1,17.3,5,289.9,0
+CL-01068,24,Femenino,Ciudad de México,40900.0,2022-12-24,8,39,3,14,52620.19,10,Hogar y Muebles,Directo,8,5,3,1,5.5,2,4330.77,0
+CL-01069,31,Femenino,San Luis Potosí,48300.0,2024-08-01,19,54,0,23,40365.82,44,Moda,Orgánico,5,4,3,2,11.6,0,688.04,0
+CL-01070,29,Femenino,Toluca,16400.0,2026-09-21,20,62,3,0,0.0,,Hogar y Muebles,Meta Ads,24,11,2,0,0.0,1,,0
+CL-01071,55,Masculino,Guadalajara,41400.0,2020-04-19,9,17,1,22,80739.49,45,Electrónica,Directo,3,0,0,1,10.3,0,2984.16,0
+CL-01072,56,Masculino,Monterrey,18600.0,2022-06-25,0,0,0,4,5796.95,137,Hogar y Muebles,Email,10,2,0,3,15.6,0,1466.12,0
+CL-01073,36,Femenino,Toluca,16500.0,2022-07-19,7,12,0,0,0.0,,Hogar y Muebles,Meta Ads,18,10,7,0,0.0,0,,0
+CL-01074,37,Femenino,Puebla,16500.0,2020-09-10,2,2,0,2,1307.69,298,Juguetes,Google Ads,2,0,0,0,0.0,0,650.36,0
+CL-01075,32,Masculino,Mérida,24300.0,2025-11-30,22,63,3,0,0.0,,Hogar y Muebles,Meta Ads,14,2,0,0,0.0,2,,0
+CL-01076,58,Femenino,Monterrey,33600.0,2023-09-15,18,45,0,20,26206.65,16,Belleza,Orgánico,4,2,0,5,9.9,0,871.44,0
+CL-01077,32,Femenino,Mérida,30000.0,2023-11-28,27,89,4,2,1485.44,269,Belleza,Directo,6,3,0,0,0.0,2,963.34,0
+CL-01078,49,Masculino,Guadalajara,42000.0,2022-07-17,4,18,1,25,70372.19,10,Celulares,Orgánico,7,3,2,0,0.0,0,4678.43,0
+CL-01079,35,Masculino,Puebla,9500.0,2023-01-24,6,26,1,5,3940.09,96,Celulares,Google Ads,11,2,0,3,33.6,1,379.58,0
+CL-01080,47,Femenino,Oaxaca,9600.0,2021-09-15,3,11,0,2,3205.35,2,Electrodomésticos,Meta Ads,20,14,7,0,0.0,0,1078.07,1
+CL-01081,44,Femenino,Veracruz,16100.0,2025-07-31,0,0,0,4,5984.03,193,Electrónica,Orgánico,6,2,0,0,0.0,0,1486.46,0
+CL-01082,39,Masculino,Ciudad de México,29600.0,2024-04-11,8,44,3,1,2018.15,68,Electrónica,Google Ads,16,8,3,0,0.0,3,2018.15,0
+CL-01083,21,Femenino,Monterrey,10300.0,2026-07-23,13,45,2,0,0.0,,Electrodomésticos,Referido,7,2,0,0,0.0,1,,0
+CL-01084,47,Masculino,Tijuana,99800.0,2020-09-24,21,49,0,14,34311.99,57,Deportes,Referido,3,2,0,1,7.0,0,1827.09,0
+CL-01085,49,Femenino,Toluca,27400.0,2020-07-27,13,54,4,14,18537.39,8,Juguetes,Email,6,4,2,3,9.7,1,1288.44,0
+CL-01086,19,Masculino,Ciudad de México,13100.0,2026-09-08,7,8,0,0,0.0,,Deportes,Orgánico,8,3,2,0,0.0,0,,0
+CL-01087,24,Femenino,Mérida,13900.0,2024-08-01,43,122,4,0,0.0,,Hogar y Muebles,Meta Ads,16,5,3,0,0.0,3,,0
+CL-01088,37,Femenino,Puebla,10100.0,2024-07-24,11,29,2,6,3231.73,21,Moda,WhatsApp,7,3,2,3,15.7,0,680.37,0
+CL-01089,18,Masculino,Ciudad de México,9100.0,2024-09-12,13,36,0,8,3117.05,67,Moda,Orgánico,7,7,7,5,26.8,0,656.48,0
+CL-01090,43,Femenino,Guadalajara,8400.0,2022-11-01,0,0,0,2,1709.82,176,Celulares,Google Ads,8,1,0,0,0.0,0,532.64,0
+CL-01091,53,Femenino,Monterrey,32100.0,2023-03-07,17,30,2,7,24487.18,22,Hogar y Muebles,Orgánico,6,0,0,4,6.5,0,3681.2,1
+CL-01092,33,Femenino,San Luis Potosí,11100.0,2024-08-19,28,239,12,0,0.0,,Celulares,Google Ads,11,6,1,0,0.0,10,,0
+CL-01093,31,Femenino,Tijuana,11300.0,2023-07-30,25,110,4,0,0.0,,Hogar y Muebles,Meta Ads,8,2,0,0,0.0,4,,0
+CL-01094,27,Femenino,Guadalajara,18800.0,2025-11-17,2,7,0,5,2758.11,13,Deportes,Email,16,1,0,4,26.8,0,662.25,0
+CL-01095,37,Masculino,Guadalajara,17200.0,2024-09-23,5,14,1,3,2315.69,11,Moda,Meta Ads,12,6,6,1,19.2,1,1361.21,1
+CL-01096,36,Femenino,Veracruz,12100.0,2021-06-09,11,17,0,0,0.0,,Moda,Meta Ads,16,8,1,0,0.0,0,,0
+CL-01097,56,Femenino,Puebla,10500.0,2020-10-03,2,6,0,2,1353.54,294,Deportes,Referido,5,1,0,0,0.0,0,670.92,0
+CL-01098,46,Masculino,Tijuana,90500.0,2022-02-16,11,40,1,9,16929.09,23,Juguetes,Directo,10,3,1,1,6.2,0,2006.53,1
+CL-01099,52,Femenino,Guadalajara,18700.0,2021-04-04,1,1,0,0,0.0,,Hogar y Muebles,Meta Ads,3,0,0,0,0.0,0,,0
+CL-01100,37,Masculino,Ciudad de México,17000.0,2021-12-05,14,50,1,19,44959.9,1,Hogar y Muebles,Email,11,10,2,2,7.7,0,1765.9,1
+CL-01101,35,Masculino,Toluca,14700.0,2026-07-22,10,28,0,0,0.0,,Deportes,WhatsApp,4,0,0,0,0.0,0,,0
+CL-01102,41,Masculino,Toluca,25700.0,2021-09-23,2,3,0,2,3951.19,239,Celulares,Meta Ads,13,2,0,0,0.0,0,1616.8,0
+CL-01103,25,Masculino,Mérida,22100.0,2023-10-13,19,105,7,1,1537.17,184,Electrónica,Google Ads,7,1,0,0,0.0,5,1537.17,0
+CL-01104,54,Masculino,Guadalajara,19900.0,2024-07-27,2,7,0,3,5452.05,98,Electrónica,Google Ads,7,4,2,1,11.2,0,2489.74,0
+CL-01105,65,Masculino,Puebla,11900.0,2022-01-05,1,4,0,3,2085.39,295,Moda,Google Ads,0,0,0,1,8.7,0,908.56,0
+CL-01106,24,Masculino,Ciudad de México,24400.0,2026-06-29,12,41,3,1,2767.87,27,Electrodomésticos,Meta Ads,11,6,2,1,20.0,0,2767.87,0
+CL-01107,34,Femenino,Mérida,15400.0,2024-11-28,45,262,9,0,0.0,,Electrónica,Google Ads,21,11,1,0,0.0,5,,0
+CL-01108,41,Masculino,Aguascalientes,17500.0,2024-11-28,16,45,3,7,11544.31,46,Electrodomésticos,Google Ads,12,5,0,5,17.2,2,1765.06,0
+CL-01109,30,Masculino,Guadalajara,22200.0,2026-07-05,11,22,2,1,657.35,72,Electrónica,Google Ads,12,11,0,1,10.5,2,657.35,0
+CL-01110,36,Femenino,Aguascalientes,11900.0,2024-08-11,7,24,0,15,18078.81,61,Electrodomésticos,Orgánico,16,8,5,11,21.5,0,1229.73,0
+CL-01111,36,Femenino,Guadalajara,15800.0,2021-12-24,5,17,2,3,2973.08,90,Celulares,Email,5,2,0,0,0.0,0,672.41,0
+CL-01112,38,Masculino,Monterrey,43800.0,2025-02-04,16,16,1,12,29000.85,99,Electrodomésticos,Directo,4,2,1,2,16.6,1,1294.19,0
+CL-01113,34,Femenino,Toluca,16600.0,2024-03-03,26,142,9,0,0.0,,Moda,Google Ads,10,4,0,0,0.0,9,,0
+CL-01114,42,Masculino,Toluca,15900.0,2021-05-12,2,2,0,0,0.0,,Electrodomésticos,Email,6,0,0,0,0.0,0,,0
+CL-01115,18,Masculino,Monterrey,7300.0,2024-12-12,1,2,0,1,400.49,278,Electrónica,Email,4,0,0,0,0.0,0,400.49,0
+CL-01116,21,Masculino,Guadalajara,19600.0,2024-05-01,30,64,7,4,5830.06,63,Electrónica,Orgánico,8,3,0,2,7.5,7,1616.85,0
+CL-01117,24,Masculino,Ciudad de México,19300.0,2022-03-25,16,27,4,6,4657.99,3,Moda,Google Ads,13,5,2,5,24.1,2,446.66,1
+CL-01118,43,Masculino,Guadalajara,15400.0,2023-11-06,30,75,3,2,4061.83,60,Hogar y Muebles,Orgánico,3,2,1,0,0.0,2,2116.06,0
+CL-01119,18,Femenino,Puebla,10400.0,2026-07-31,18,78,2,0,0.0,,Moda,Meta Ads,10,6,1,0,0.0,1,,0
+CL-01120,29,Femenino,Cancún,14900.0,2024-10-16,6,15,0,1,265.4,204,Belleza,Google Ads,4,0,0,0,0.0,0,265.4,0
+CL-01121,28,Femenino,Monterrey,16600.0,2024-11-24,0,0,0,1,1389.78,329,Celulares,Meta Ads,5,0,0,0,0.0,0,1389.78,0
+CL-01122,32,Femenino,Guadalajara,56800.0,2022-07-11,20,126,11,4,15366.54,38,Electrodomésticos,Directo,1,1,0,1,10.7,1,5367.49,0
+CL-01123,31,Femenino,Mérida,20000.0,2024-04-02,9,13,1,1,739.76,78,Moda,Directo,2,0,0,1,15.0,1,739.76,0
+CL-01124,45,Femenino,Monterrey,12600.0,2022-10-16,15,27,1,3,2303.49,50,Belleza,Email,4,2,1,0,0.0,0,930.05,0
+CL-01125,30,Femenino,Ciudad de México,12100.0,2024-01-16,4,7,0,9,6095.19,7,Moda,Email,5,4,1,6,17.6,0,495.61,1
+CL-01126,40,Femenino,Guadalajara,54400.0,2021-07-31,6,25,0,8,27789.73,85,Hogar y Muebles,Email,4,2,2,4,12.6,0,3976.19,0
+CL-01127,39,Femenino,Ciudad de México,22000.0,2023-12-16,29,117,2,1,961.84,80,Electrónica,Meta Ads,8,4,2,0,0.0,2,961.84,0
+CL-01128,26,Femenino,Toluca,45700.0,2021-04-30,3,14,0,2,4772.6,1,Celulares,Directo,11,2,0,0,0.0,0,3523.24,1
+CL-01129,58,Femenino,Cancún,17200.0,2021-07-29,1,5,0,2,2065.6,351,Electrodomésticos,Meta Ads,2,0,0,1,16.9,0,1014.01,0
+CL-01130,28,Masculino,Guadalajara,13800.0,2024-09-28,31,109,12,1,526.19,142,Electrónica,Orgánico,16,6,4,0,0.0,9,526.19,0
+CL-01131,18,Femenino,Puebla,17300.0,2025-11-21,12,80,3,3,4430.01,163,Electrodomésticos,Meta Ads,2,0,0,1,19.0,1,711.33,0
+CL-01132,33,Masculino,Guadalajara,26900.0,2022-01-26,4,14,1,3,6184.28,81,Celulares,Orgánico,3,0,0,1,19.0,1,1310.35,0
+CL-01133,35,Femenino,Guadalajara,22800.0,2026-07-31,23,131,7,1,747.23,30,Moda,Google Ads,5,2,0,0,0.0,5,747.23,0
+CL-01134,24,Masculino,Toluca,19000.0,2022-04-26,1,1,0,1,1514.16,189,Celulares,Meta Ads,6,0,0,0,0.0,0,1514.16,0
+CL-01135,26,Masculino,Veracruz,13600.0,2023-03-07,14,21,0,0,0.0,,Belleza,Google Ads,12,4,1,0,0.0,0,,0
+CL-01136,39,Femenino,Guadalajara,46600.0,2023-06-01,5,18,0,4,4277.35,21,Belleza,Directo,13,9,1,1,11.7,0,923.14,0
+CL-01137,30,Femenino,Mérida,6500.0,2026-08-18,4,15,2,0,0.0,,Moda,Google Ads,9,8,3,0,0.0,2,,0
+CL-01138,65,Masculino,Aguascalientes,10700.0,2020-02-14,3,3,0,2,2143.37,256,Electrónica,Google Ads,9,1,0,1,17.8,0,1226.82,0
+CL-01139,24,Femenino,Tijuana,11300.0,2026-06-18,10,10,1,0,0.0,,Celulares,Orgánico,6,4,1,0,0.0,1,,0
+CL-01140,61,Masculino,Ciudad de México,7400.0,2025-04-08,7,23,0,0,0.0,,Juguetes,Referido,13,5,2,0,0.0,0,,0
+CL-01141,35,Femenino,Aguascalientes,15800.0,2022-07-05,13,45,1,4,7741.42,14,Celulares,Email,18,7,4,2,18.9,0,4212.17,1
+CL-01142,34,Femenino,Monterrey,38700.0,2022-08-16,13,25,1,4,11957.42,46,Hogar y Muebles,Referido,2,1,0,1,11.3,0,2517.86,0
+CL-01143,35,No especificado,Cancún,26400.0,2025-01-03,5,27,0,3,2921.49,215,Juguetes,Orgánico,14,9,4,0,0.0,0,515.06,0
+CL-01144,47,Masculino,Querétaro,15500.0,2025-05-24,4,12,0,8,10476.34,34,Electrodomésticos,Orgánico,11,4,3,5,24.9,0,1279.88,0
+CL-01145,27,Masculino,Ciudad de México,13600.0,2020-06-09,1,2,0,0,0.0,,Deportes,Orgánico,5,0,0,0,0.0,0,,0
+CL-01146,57,Masculino,Ciudad de México,18400.0,2022-07-24,4,9,1,0,0.0,,Electrónica,Orgánico,3,0,0,0,0.0,0,,0
+CL-01147,18,Femenino,Mérida,18900.0,2023-10-05,37,112,1,0,0.0,,Moda,Google Ads,12,7,3,0,0.0,0,,0
+CL-01148,32,Femenino,Oaxaca,12400.0,2026-01-30,39,291,8,1,225.67,207,Belleza,Directo,10,7,0,1,11.2,7,225.67,0
+CL-01149,35,Femenino,Monterrey,25000.0,2023-07-07,19,105,9,1,582.52,26,Belleza,Google Ads,0,0,0,0,0.0,8,582.52,0
+CL-01150,58,Femenino,San Luis Potosí,8600.0,2024-10-27,1,3,0,2,862.7,355,Celulares,Email,4,0,0,1,16.5,0,404.84,0
+CL-01151,41,Masculino,Monterrey,16400.0,2024-11-23,47,125,3,1,1225.29,246,Juguetes,Google Ads,14,3,0,0,0.0,3,1225.29,0
+CL-01152,37,Femenino,Guadalajara,13800.0,2022-11-06,2,3,0,0,0.0,,Electrodomésticos,Google Ads,2,1,0,0,0.0,0,,0
+CL-01153,46,Masculino,Oaxaca,13200.0,2022-12-21,0,0,0,2,2195.43,206,Electrónica,Meta Ads,0,0,0,0,0.0,0,1042.64,0
+CL-01154,35,Masculino,Tijuana,20500.0,2023-05-13,5,8,0,5,8831.11,14,Hogar y Muebles,Email,2,0,0,2,12.6,0,3911.06,0
+CL-01155,50,Femenino,Chihuahua,17800.0,2020-04-09,2,2,0,1,900.56,282,Celulares,Meta Ads,1,0,0,0,0.0,0,900.56,0
+CL-01156,26,No especificado,Puebla,37300.0,2020-03-11,6,14,1,20,33851.79,30,Moda,Referido,6,4,0,4,8.7,0,1566.2,0
+CL-01157,51,Masculino,Aguascalientes,8500.0,2025-12-21,3,11,1,14,6480.09,189,Juguetes,WhatsApp,11,11,2,9,20.3,0,297.6,0
+CL-01158,30,Femenino,Oaxaca,9400.0,2026-07-01,2,6,1,1,1286.98,83,Hogar y Muebles,Meta Ads,11,5,1,0,0.0,1,1286.98,0
+CL-01159,47,Femenino,Puebla,44700.0,2021-02-04,6,19,0,11,42049.78,12,Hogar y Muebles,Referido,12,5,1,2,14.9,0,1270.44,0
+CL-01160,21,Masculino,Ciudad de México,19700.0,2025-02-17,21,64,5,0,0.0,,Hogar y Muebles,Google Ads,7,3,3,0,0.0,3,,0
+CL-01161,34,Femenino,Puebla,14900.0,2022-01-12,3,3,0,7,6257.05,15,Moda,Orgánico,15,14,4,7,21.6,0,613.71,1
+CL-01162,34,Femenino,Tijuana,18100.0,2024-09-12,7,23,2,8,12636.0,148,Electrodomésticos,Google Ads,15,12,8,6,18.1,2,1597.6,0
+CL-01163,38,Femenino,Mérida,29200.0,2021-03-13,11,70,1,10,13477.32,32,Belleza,Orgánico,0,0,0,1,8.0,0,749.72,0
+CL-01164,52,Femenino,Monterrey,45700.0,2022-01-27,8,19,1,15,21822.01,9,Juguetes,Orgánico,3,0,0,2,11.1,0,1351.71,0
+CL-01165,36,Femenino,Guadalajara,9500.0,2024-08-16,9,29,0,4,2248.75,8,Moda,Google Ads,16,8,6,3,17.8,0,404.02,1
+CL-01166,19,No especificado,Ciudad de México,21800.0,2024-02-11,7,23,0,6,12714.75,5,Hogar y Muebles,Directo,6,4,3,1,26.6,0,2369.55,0
+CL-01167,41,Masculino,Puebla,22600.0,2024-09-28,35,135,2,1,2019.03,45,Electrodomésticos,Google Ads,5,3,1,0,0.0,2,2019.03,0
+CL-01168,44,Femenino,Ciudad de México,27400.0,2025-03-11,8,28,2,4,7961.7,123,Hogar y Muebles,Google Ads,7,1,0,0,0.0,0,1234.31,0
+CL-01169,51,Masculino,Monterrey,65900.0,2020-02-29,1,3,1,25,95678.24,41,Electrónica,Orgánico,12,9,3,3,6.4,1,2691.66,0
+CL-01170,23,Masculino,Ciudad de México,10300.0,2026-08-09,8,25,0,0,0.0,,Celulares,Meta Ads,17,8,2,0,0.0,0,,0
+CL-01171,30,Masculino,Monterrey,27900.0,2026-09-09,7,23,0,0,0.0,,Deportes,Referido,3,1,0,0,0.0,0,,0
+CL-01172,20,Femenino,Puebla,21900.0,2026-08-20,3,11,1,0,0.0,,Moda,Meta Ads,4,2,2,0,0.0,1,,0
+CL-01173,57,Femenino,Ciudad de México,25000.0,2025-05-29,5,14,1,5,5156.84,3,Moda,Meta Ads,8,2,0,1,11.9,0,1294.11,0
+CL-01174,37,Masculino,Querétaro,10100.0,2025-02-08,35,160,12,1,659.18,281,Celulares,Email,5,1,0,0,0.0,10,659.18,0
+CL-01175,58,Femenino,Aguascalientes,23900.0,2020-10-06,0,0,0,0,0.0,,Belleza,Directo,2,1,0,0,0.0,0,,0
+CL-01176,38,Masculino,Chihuahua,11500.0,2022-03-09,13,23,0,7,6558.98,73,Electrónica,Orgánico,6,1,1,5,12.7,0,826.02,0
+CL-01177,33,Masculino,Oaxaca,9600.0,2022-02-14,3,3,0,0,0.0,,Electrodomésticos,Directo,2,0,0,0,0.0,0,,0
+CL-01178,18,Masculino,San Luis Potosí,10000.0,2026-08-14,5,15,0,0,0.0,,Electrónica,Orgánico,5,3,0,0,0.0,0,,0
+CL-01179,39,No especificado,Puebla,25700.0,2020-04-27,11,41,1,21,61038.84,22,Hogar y Muebles,Orgánico,6,3,0,1,7.9,0,2549.23,1
+CL-01180,34,Masculino,Puebla,18400.0,2022-01-31,11,40,0,8,8066.76,58,Electrónica,Directo,14,7,2,6,25.7,0,1059.66,0
+CL-01181,33,Femenino,Ciudad de México,12600.0,2025-10-24,16,77,5,0,0.0,,Electrodomésticos,Google Ads,14,9,3,0,0.0,3,,0
+CL-01182,45,Masculino,Tijuana,14700.0,2020-11-06,3,4,0,2,1165.55,307,Moda,Meta Ads,2,0,0,2,10.6,0,649.5,0
+CL-01183,39,Masculino,Chihuahua,20100.0,2026-05-30,26,100,1,1,749.4,123,Belleza,Google Ads,8,4,1,0,0.0,1,749.4,0
+CL-01184,39,Masculino,Veracruz,10900.0,2026-07-23,8,29,1,1,296.3,32,Belleza,Referido,13,4,1,0,0.0,0,296.3,0
+CL-01185,30,Masculino,Querétaro,24900.0,2026-06-22,6,27,0,0,0.0,,Celulares,Orgánico,5,3,1,0,0.0,0,,0
+CL-01186,43,Femenino,Cancún,12200.0,2026-01-29,6,54,4,0,0.0,,Hogar y Muebles,Orgánico,7,1,1,0,0.0,4,,0
+CL-01187,39,Masculino,Veracruz,30300.0,2024-01-25,4,6,1,1,2631.61,38,Celulares,Google Ads,7,5,0,0,0.0,1,2631.61,0
+CL-01188,50,Masculino,Querétaro,12700.0,2020-02-25,2,4,0,2,5393.38,158,Hogar y Muebles,Email,12,1,0,0,0.0,0,1506.3,0
+CL-01189,24,Masculino,Monterrey,22800.0,2026-08-10,9,24,1,0,0.0,,Belleza,Google Ads,2,0,0,0,0.0,0,,0
+CL-01190,36,Masculino,Monterrey,10200.0,2025-04-26,9,24,3,0,0.0,,Deportes,Orgánico,20,6,3,0,0.0,2,,0
+CL-01191,41,Masculino,Aguascalientes,16300.0,2024-11-06,17,109,5,4,6579.56,207,Hogar y Muebles,Meta Ads,13,2,2,2,13.6,2,1404.68,0
+CL-01192,20,Femenino,Puebla,9100.0,2024-12-20,18,127,8,3,3015.28,76,Hogar y Muebles,Email,8,1,0,0,0.0,5,552.31,0
+CL-01193,57,Femenino,Mérida,16200.0,2020-08-10,2,5,0,2,3660.84,329,Electrodomésticos,Directo,6,0,0,1,15.4,0,2024.7,0
+CL-01194,50,Masculino,Querétaro,71900.0,2020-12-04,13,40,2,9,40938.51,19,Hogar y Muebles,Directo,5,4,1,1,6.0,0,3998.24,0
+CL-01195,37,Femenino,Tijuana,7500.0,2021-10-20,16,34,0,7,2062.19,65,Belleza,Email,13,2,0,5,23.2,0,269.1,0
+CL-01196,62,Masculino,Guadalajara,12600.0,2023-11-28,3,7,0,0,0.0,,Moda,Meta Ads,5,2,1,0,0.0,0,,0
+CL-01197,44,Masculino,Puebla,31100.0,2024-09-13,55,187,11,1,2233.45,208,Electrónica,Orgánico,7,2,0,0,0.0,10,2233.45,0
+CL-01198,36,Masculino,Cancún,8700.0,2021-07-14,20,74,1,9,7549.33,191,Celulares,Meta Ads,18,15,5,6,18.9,0,274.5,0
+CL-01199,45,Femenino,Monterrey,18100.0,2021-12-03,23,53,4,9,23632.89,1,Hogar y Muebles,Meta Ads,11,5,0,3,7.5,0,1674.46,1
+CL-01200,33,Femenino,Querétaro,50300.0,2019-11-27,12,34,2,11,42998.11,35,Hogar y Muebles,Orgánico,3,3,1,3,5.0,1,3485.43,0
+CL-01201,23,Femenino,Guadalajara,18800.0,2024-03-02,22,78,4,3,3770.93,156,Moda,Directo,10,2,0,0,0.0,3,1461.8,0
+CL-01202,20,Femenino,Chihuahua,26400.0,2023-06-29,17,189,6,1,1102.0,166,Moda,Google Ads,9,6,2,0,0.0,5,1102.0,0
+CL-01203,37,Masculino,Querétaro,26700.0,2024-10-17,7,9,1,8,11738.31,40,Moda,Email,19,7,0,2,8.6,1,3531.45,0
+CL-01204,61,Femenino,León,14800.0,2020-01-10,3,7,0,0,0.0,,Electrónica,Google Ads,5,0,0,0,0.0,0,,0
+CL-01205,31,Masculino,Puebla,11500.0,2023-08-29,4,10,0,10,12907.51,3,Hogar y Muebles,Referido,7,1,0,8,23.1,0,1015.36,1
+CL-01206,40,Masculino,León,16700.0,2024-05-29,2,2,0,0,0.0,,Moda,Google Ads,3,0,0,0,0.0,0,,0
+CL-01207,57,Masculino,Tijuana,30100.0,2024-09-01,28,121,3,19,25554.46,53,Juguetes,Email,7,6,1,2,7.3,1,1954.81,0
+CL-01208,48,Masculino,Veracruz,12000.0,2023-12-29,1,3,0,1,1716.67,181,Hogar y Muebles,Google Ads,1,0,0,0,0.0,0,1716.67,0
+CL-01209,29,Femenino,Guadalajara,14600.0,2022-11-22,7,30,3,14,20487.92,16,Electrodomésticos,Email,19,7,5,8,24.0,1,1350.08,1
+CL-01210,42,Femenino,Puebla,16400.0,2021-01-27,0,0,0,1,1147.59,308,Hogar y Muebles,Directo,4,0,0,0,0.0,0,1147.59,0
+CL-01211,35,Masculino,Ciudad de México,30100.0,2026-02-04,8,22,0,5,10974.31,34,Celulares,Meta Ads,3,0,0,1,18.0,0,2313.4,0
+CL-01212,39,Femenino,Toluca,17700.0,2021-11-23,4,9,0,1,1384.59,43,Belleza,WhatsApp,0,0,0,0,0.0,0,1384.59,0
+CL-01213,21,Masculino,Mérida,15800.0,2026-08-12,10,27,0,0,0.0,,Belleza,Meta Ads,13,5,2,0,0.0,0,,0
+CL-01214,29,Masculino,Querétaro,40500.0,2024-03-30,16,75,0,22,49803.47,1,Deportes,Directo,3,1,0,3,11.1,0,979.81,0
+CL-01215,55,Femenino,Aguascalientes,39900.0,2024-02-24,11,26,0,5,7653.22,22,Moda,Email,5,2,2,1,5.0,0,1331.2,0
+CL-01216,30,Masculino,Ciudad de México,13300.0,2025-06-21,7,18,1,3,5175.13,31,Electrodomésticos,Google Ads,13,7,3,0,0.0,0,2495.14,0
+CL-01217,46,Masculino,Monterrey,25800.0,2023-08-04,13,36,1,10,26899.45,8,Electrónica,Directo,8,3,0,3,12.5,1,1756.82,1
+CL-01218,43,Masculino,Guadalajara,9400.0,2025-01-29,11,29,1,6,7144.95,6,Celulares,Meta Ads,8,5,3,4,29.1,1,1198.21,0
+CL-01219,36,Femenino,Mérida,23100.0,2024-12-05,7,10,0,3,6918.68,55,Celulares,Google Ads,5,4,0,1,21.0,0,3090.02,0
+CL-01220,28,Femenino,Veracruz,12500.0,2021-11-27,13,24,0,8,3765.45,13,Juguetes,Meta Ads,2,2,1,7,26.7,0,935.48,1
+CL-01221,29,Femenino,León,29500.0,2023-08-03,5,25,0,0,0.0,,Moda,Google Ads,7,2,2,0,0.0,0,,0
+CL-01222,37,Femenino,San Luis Potosí,10800.0,2020-06-23,2,5,0,2,2031.76,326,Hogar y Muebles,Google Ads,2,0,0,1,9.1,0,1247.73,0
+CL-01223,45,Femenino,Monterrey,23000.0,2021-05-30,0,0,0,0,0.0,,Hogar y Muebles,WhatsApp,4,1,0,0,0.0,0,,0
+CL-01224,24,Femenino,Ciudad de México,26900.0,2023-09-05,6,25,0,0,0.0,,Moda,WhatsApp,13,3,0,0,0.0,0,,0
+CL-01225,33,Masculino,Guadalajara,33400.0,2026-07-20,11,41,1,2,4935.6,63,Hogar y Muebles,Directo,9,4,1,1,11.6,0,2446.59,0
+CL-01226,25,Femenino,San Luis Potosí,15000.0,2026-07-05,4,17,0,0,0.0,,Moda,Meta Ads,21,10,4,0,0.0,0,,0
+CL-01227,41,Femenino,Aguascalientes,18100.0,2023-04-04,2,5,0,3,4881.35,361,Electrónica,Meta Ads,3,0,0,1,24.9,0,1575.3,0
+CL-01228,31,No especificado,Chihuahua,13700.0,2021-10-23,9,15,0,8,6818.75,36,Deportes,Google Ads,16,8,4,5,10.4,0,399.61,0
+CL-01229,52,Masculino,Puebla,14100.0,2022-09-08,2,3,0,0,0.0,,Electrodomésticos,Email,5,0,0,0,0.0,0,,0
+CL-01230,38,Femenino,Guadalajara,20200.0,2021-06-22,9,26,0,3,3061.99,5,Belleza,Directo,6,4,0,0,0.0,0,1088.07,0
+CL-01231,28,Masculino,Ciudad de México,22900.0,2026-07-05,6,14,0,2,3015.86,56,Electrónica,Google Ads,2,1,0,1,9.7,0,2089.46,0
+CL-01232,28,Femenino,Guadalajara,16700.0,2022-09-20,20,74,1,7,8231.32,43,Electrónica,Orgánico,12,3,0,4,15.2,1,710.2,0
+CL-01233,33,Femenino,Mérida,8000.0,2025-12-29,14,45,3,10,10497.78,62,Electrónica,Meta Ads,16,8,6,6,27.0,0,663.38,0
+CL-01234,62,Masculino,Guadalajara,7600.0,2020-11-20,1,1,0,3,2401.13,185,Celulares,Email,6,1,0,0,0.0,0,669.1,0
+CL-01235,27,Femenino,Toluca,20600.0,2024-06-11,16,138,8,1,1013.44,187,Hogar y Muebles,Meta Ads,8,3,0,1,16.9,6,1013.44,0
+CL-01236,28,Femenino,Toluca,12100.0,2024-02-22,1,1,0,2,915.01,14,Moda,Meta Ads,0,0,0,1,15.6,0,460.28,0
+CL-01237,28,Masculino,Toluca,16500.0,2026-06-29,10,29,3,0,0.0,,Electrodomésticos,Referido,9,3,1,0,0.0,1,,0
+CL-01238,18,Masculino,Ciudad de México,13600.0,2024-06-26,13,47,2,4,1602.66,20,Deportes,WhatsApp,17,12,4,3,18.0,0,458.73,1
+CL-01239,18,Masculino,Cancún,30800.0,2023-07-24,41,134,5,1,1042.53,90,Deportes,Google Ads,12,6,3,0,0.0,3,1042.53,0
+CL-01240,22,Masculino,Guadalajara,19200.0,2026-09-01,9,9,1,0,0.0,,Electrodomésticos,Email,3,3,2,0,0.0,1,,0
+CL-01241,50,Masculino,Monterrey,17200.0,2021-02-21,1,4,0,1,499.99,340,Deportes,Meta Ads,7,1,0,0,0.0,0,499.99,0
+CL-01242,30,Masculino,Ciudad de México,18000.0,2021-03-28,1,1,1,1,2689.31,319,Celulares,Directo,4,1,1,0,0.0,1,2689.31,0
+CL-01243,54,Masculino,Ciudad de México,38400.0,2023-12-19,6,15,0,6,17684.04,3,Electrónica,Orgánico,10,2,2,2,13.4,0,1371.41,0
+CL-01244,18,Masculino,Monterrey,14300.0,2025-10-18,45,328,14,2,4821.43,81,Celulares,Google Ads,1,0,0,0,0.0,9,3003.79,0
+CL-01245,59,Masculino,Ciudad de México,39000.0,2022-06-26,6,11,0,7,7730.75,63,Moda,Email,7,2,1,3,13.0,0,849.94,0
+CL-01246,62,Femenino,San Luis Potosí,13300.0,2026-03-09,8,36,2,2,1486.0,165,Moda,Orgánico,11,5,0,0,0.0,1,936.0,0
+CL-01247,20,No especificado,Puebla,17700.0,2023-11-09,20,70,3,1,724.07,71,Juguetes,Orgánico,19,8,4,1,13.8,3,724.07,0
+CL-01248,44,Femenino,Ciudad de México,42100.0,2024-05-19,19,66,1,5,20025.03,29,Hogar y Muebles,Email,9,3,1,1,5.0,0,2277.03,0
+CL-01249,29,Masculino,Ciudad de México,22700.0,2024-05-23,35,215,28,0,0.0,,Deportes,Google Ads,10,4,1,0,0.0,26,,0
+CL-01250,39,Masculino,Ciudad de México,23200.0,2019-12-01,1,1,0,0,0.0,,Electrónica,Email,3,1,0,0,0.0,0,,0
+CL-01251,18,Femenino,Ciudad de México,11100.0,2026-09-17,7,35,1,0,0.0,,Moda,Google Ads,2,2,0,0,0.0,1,,0
+CL-01252,36,Masculino,Tijuana,16200.0,2022-06-24,17,78,5,1,540.6,4,Deportes,Meta Ads,4,1,0,0,0.0,3,540.6,0
+CL-01253,43,Femenino,León,12800.0,2024-05-26,3,7,0,2,1250.58,141,Juguetes,Directo,4,1,0,0,0.0,0,635.59,0
+CL-01254,24,Masculino,Monterrey,20000.0,2026-08-03,8,25,1,0,0.0,,Deportes,Meta Ads,4,1,0,0,0.0,1,,0
+CL-01255,32,No especificado,Ciudad de México,23300.0,2023-06-03,6,6,0,4,4865.71,48,Deportes,Google Ads,14,11,4,2,21.0,0,704.49,0
+CL-01256,40,Masculino,Oaxaca,8200.0,2021-02-21,2,2,2,1,967.45,234,Electrodomésticos,Google Ads,3,0,0,0,0.0,2,967.45,0
+CL-01257,27,Masculino,Puebla,13600.0,2026-07-21,3,6,1,1,597.06,42,Moda,Directo,5,1,0,1,18.1,0,597.06,0
+CL-01258,23,Masculino,Mérida,12800.0,2024-10-23,35,217,14,0,0.0,,Deportes,Google Ads,14,8,3,0,0.0,10,,0
+CL-01259,35,Femenino,Ciudad de México,15100.0,2026-06-06,15,68,4,1,1071.84,82,Electrodomésticos,WhatsApp,6,3,0,0,0.0,2,1071.84,0
+CL-01260,39,Masculino,Monterrey,10500.0,2026-08-19,6,6,0,1,536.1,7,Deportes,Meta Ads,3,1,0,0,0.0,0,536.1,1
+CL-01261,39,Masculino,León,18100.0,2023-03-15,1,1,0,4,6290.49,20,Electrónica,Email,7,3,0,0,0.0,0,800.67,0
+CL-01262,48,Masculino,Guadalajara,10800.0,2021-12-11,0,0,0,3,2473.8,204,Hogar y Muebles,Directo,2,1,0,1,8.7,0,609.99,0
+CL-01263,36,Femenino,Puebla,11600.0,2022-01-31,8,43,1,5,1921.38,1,Belleza,Email,58,35,19,5,25.5,1,464.76,0
+CL-01264,27,Masculino,Aguascalientes,18600.0,2023-08-15,7,31,2,0,0.0,,Electrónica,Google Ads,10,5,1,0,0.0,2,,0
+CL-01265,30,Femenino,Tijuana,11400.0,2023-05-11,3,3,0,3,3176.76,165,Hogar y Muebles,Meta Ads,9,3,0,3,32.3,0,1483.29,0
+CL-01266,28,Masculino,Monterrey,32400.0,2024-06-29,16,33,2,0,0.0,,Belleza,WhatsApp,10,3,2,0,0.0,2,,0
+CL-01267,64,Femenino,León,13000.0,2020-03-13,3,13,2,3,1363.01,262,Belleza,Google Ads,5,1,0,0,0.0,1,337.78,0
+CL-01268,46,Femenino,Ciudad de México,18400.0,2026-01-27,16,136,12,0,0.0,,Juguetes,Google Ads,16,3,1,0,0.0,11,,0
+CL-01269,64,Femenino,Ciudad de México,13200.0,2021-09-03,0,0,0,1,859.94,168,Belleza,Meta Ads,9,2,0,0,0.0,0,859.94,0
+CL-01270,40,Masculino,San Luis Potosí,17900.0,2023-12-20,7,30,0,6,6180.61,24,Electrodomésticos,Meta Ads,14,3,1,6,20.2,0,957.09,1
+CL-01271,32,Masculino,San Luis Potosí,14900.0,2026-08-09,5,5,0,1,1039.24,24,Celulares,Meta Ads,1,1,0,1,20.4,0,1039.24,1
+CL-01272,46,Femenino,Chihuahua,36100.0,2022-10-05,3,9,0,2,5885.01,56,Hogar y Muebles,Directo,5,2,1,0,0.0,0,3652.85,0
+CL-01273,39,Masculino,León,7700.0,2024-03-03,9,40,0,15,14033.31,59,Electrónica,WhatsApp,5,3,1,11,23.4,0,873.03,0
+CL-01274,28,Femenino,Ciudad de México,22500.0,2023-11-19,50,334,21,2,2377.67,167,Moda,Orgánico,11,9,5,0,0.0,16,2026.05,0
+CL-01275,40,Masculino,Puebla,31800.0,2021-05-09,3,4,0,6,14152.21,9,Electrónica,Google Ads,7,3,1,2,21.2,0,2456.93,0
+CL-01276,61,Masculino,Guadalajara,28500.0,2024-11-12,4,15,0,1,1697.25,160,Hogar y Muebles,Email,5,0,0,0,0.0,0,1697.25,0
+CL-01277,41,Masculino,Guadalajara,14200.0,2021-12-11,9,17,0,7,4612.26,31,Moda,Google Ads,9,6,5,5,11.6,0,505.95,0
+CL-01278,36,Femenino,Monterrey,21100.0,2024-08-12,9,23,0,1,1877.47,27,Belleza,Meta Ads,0,0,0,1,25.9,0,1877.47,0
+CL-01279,54,Femenino,Querétaro,48500.0,2024-08-16,21,123,3,5,21802.98,34,Hogar y Muebles,Orgánico,0,0,0,0,0.0,1,4206.9,0
+CL-01280,33,Masculino,Mérida,16000.0,2026-08-04,3,13,1,0,0.0,,Moda,Google Ads,13,6,2,0,0.0,0,,0
+CL-01281,41,Masculino,Ciudad de México,27100.0,2025-07-13,14,42,1,7,14896.43,15,Electrónica,Google Ads,5,0,0,2,15.5,0,3764.94,0
+CL-01282,26,Femenino,Tijuana,15800.0,2026-06-12,3,11,0,1,796.38,84,Juguetes,Meta Ads,8,3,0,0,0.0,0,796.38,0
+CL-01283,18,Femenino,Guadalajara,16200.0,2023-12-24,4,4,0,3,1983.81,273,Belleza,Google Ads,0,0,0,1,22.5,0,1120.13,0
+CL-01284,27,Femenino,Querétaro,18300.0,2025-01-05,22,122,4,0,0.0,,Moda,Directo,4,2,1,0,0.0,2,,0
+CL-01285,47,Masculino,Puebla,6200.0,2022-01-11,0,0,0,2,1602.3,232,Deportes,Referido,3,1,0,1,8.3,0,933.97,0
+CL-01286,35,Masculino,Ciudad de México,16900.0,2024-12-12,24,109,3,1,1003.82,88,Hogar y Muebles,Meta Ads,12,2,2,0,0.0,3,1003.82,0
+CL-01287,55,Femenino,Guadalajara,29600.0,2024-02-29,0,0,0,2,1258.1,355,Moda,Meta Ads,8,3,0,1,16.0,0,775.94,0
+CL-01288,34,Femenino,Puebla,10300.0,2025-01-24,14,33,1,3,1479.6,13,Belleza,Email,23,10,2,3,23.4,1,499.79,1
+CL-01289,38,Masculino,Oaxaca,12700.0,2023-02-16,0,0,0,0,0.0,,Celulares,Email,1,0,0,0,0.0,0,,0
+CL-01290,46,Masculino,Puebla,13000.0,2021-11-15,10,30,2,9,6409.25,128,Deportes,WhatsApp,9,3,0,7,15.0,2,857.92,0
+CL-01291,31,Femenino,Guadalajara,15000.0,2025-02-15,15,34,3,1,823.91,57,Electrodomésticos,Google Ads,9,5,4,0,0.0,3,823.91,0
+CL-01292,31,Femenino,Tijuana,9700.0,2021-06-11,2,5,0,6,1811.84,99,Belleza,Orgánico,8,5,2,6,18.8,0,440.04,0
+CL-01293,21,Masculino,Ciudad de México,23700.0,2023-11-21,16,52,2,0,0.0,,Electrónica,Orgánico,5,1,1,0,0.0,2,,0
+CL-01294,59,Femenino,Chihuahua,9200.0,2025-11-20,3,16,0,8,3411.73,1,Juguetes,Orgánico,20,12,5,5,16.1,0,339.31,0
+CL-01295,20,Femenino,Aguascalientes,20900.0,2026-06-22,19,52,1,0,0.0,,Hogar y Muebles,Google Ads,0,0,0,0,0.0,1,,0
+CL-01296,32,Masculino,Tijuana,14500.0,2026-08-24,8,21,0,0,0.0,,Deportes,Meta Ads,9,5,1,0,0.0,0,,0
+CL-01297,34,Masculino,Tijuana,9800.0,2023-04-15,12,26,1,6,5270.75,72,Celulares,WhatsApp,12,12,7,5,22.6,1,551.19,0
+CL-01298,37,Masculino,Mérida,15500.0,2023-05-18,0,0,0,2,3339.99,294,Electrodomésticos,Orgánico,4,0,0,2,21.4,0,1884.3,0
+CL-01299,28,Masculino,Ciudad de México,21800.0,2020-01-24,3,9,0,1,1713.28,318,Electrónica,WhatsApp,8,1,0,0,0.0,0,1713.28,0
+CL-01300,56,Masculino,Monterrey,29300.0,2022-07-30,4,14,0,4,5169.11,226,Electrónica,Meta Ads,9,5,1,2,9.6,0,811.84,0
+CL-01301,37,Femenino,Mérida,9300.0,2025-11-24,10,25,0,0,0.0,,Hogar y Muebles,Directo,8,3,1,0,0.0,0,,0
+CL-01302,33,Masculino,Puebla,17200.0,2025-09-01,9,29,3,3,4642.53,8,Electrónica,Google Ads,2,0,0,2,5.0,0,1640.02,1
+CL-01303,42,Masculino,Chihuahua,41600.0,2022-07-15,5,17,0,3,9066.56,49,Hogar y Muebles,Referido,11,3,2,1,6.8,0,3460.14,0
+CL-01304,39,Masculino,Monterrey,15400.0,2023-02-15,17,44,1,4,5508.74,65,Celulares,Google Ads,6,1,1,1,7.2,0,1717.53,0
+CL-01305,45,Femenino,Puebla,26600.0,2022-02-09,18,47,0,1,2303.69,84,Hogar y Muebles,Google Ads,14,4,1,1,6.7,0,2303.69,0
+CL-01306,43,Masculino,Monterrey,32900.0,2024-02-02,6,16,0,5,8798.12,53,Deportes,Orgánico,4,1,1,1,11.2,0,1793.64,0
+CL-01307,31,Femenino,Ciudad de México,11400.0,2026-03-02,31,101,2,2,1191.54,59,Moda,Orgánico,8,1,0,2,12.8,2,594.17,0
+CL-01308,48,Femenino,Toluca,8400.0,2021-05-15,24,47,1,6,3873.97,12,Deportes,Meta Ads,6,3,3,5,19.8,1,486.33,1
+CL-01309,67,Masculino,Oaxaca,12300.0,2024-02-02,19,109,5,9,15287.56,89,Hogar y Muebles,Google Ads,0,0,0,2,16.0,3,3343.72,0
+CL-01310,22,Masculino,Puebla,18000.0,2023-08-25,3,5,0,4,2873.99,320,Moda,Orgánico,3,3,1,4,24.3,0,904.7,0
+CL-01311,42,Masculino,Puebla,20500.0,2023-05-05,7,28,0,4,10528.35,354,Electrónica,Meta Ads,11,3,1,0,0.0,0,2440.05,0
+CL-01312,45,Femenino,Ciudad de México,30700.0,2025-10-13,15,29,2,4,8308.41,234,Hogar y Muebles,Google Ads,16,3,2,1,16.6,0,1786.17,0
+CL-01313,28,Femenino,León,14800.0,2026-08-24,7,25,1,0,0.0,,Moda,Google Ads,6,0,0,0,0.0,1,,0
+CL-01314,34,Femenino,Mérida,12900.0,2022-05-02,13,23,1,5,7636.01,100,Electrodomésticos,Meta Ads,5,4,1,4,21.3,1,1252.17,0
+CL-01315,57,Femenino,Ciudad de México,25800.0,2020-08-30,1,2,0,0,0.0,,Belleza,Directo,1,0,0,0,0.0,0,,0
+CL-01316,37,Masculino,Ciudad de México,40700.0,2024-04-21,4,17,1,0,0.0,,Celulares,Directo,10,5,1,0,0.0,0,,0
+CL-01317,21,Femenino,Chihuahua,12800.0,2025-08-10,8,11,2,4,3034.37,4,Belleza,Google Ads,14,4,0,2,22.7,0,538.27,0
+CL-01318,42,Masculino,Ciudad de México,17300.0,2022-10-30,6,25,0,4,4784.55,66,Hogar y Muebles,Google Ads,6,4,4,0,0.0,0,684.26,0
+CL-01319,34,Femenino,Puebla,17500.0,2020-06-10,1,1,0,5,2226.29,256,Belleza,Google Ads,3,1,0,1,9.9,0,678.69,0
+CL-01320,24,Masculino,Puebla,30600.0,2024-08-07,8,32,1,3,6383.75,47,Celulares,WhatsApp,6,2,0,0,0.0,1,2548.03,0
+CL-01321,30,Masculino,Toluca,17200.0,2024-04-05,42,158,7,4,3862.69,52,Deportes,Orgánico,7,2,1,0,0.0,7,1384.83,0
+CL-01322,43,Femenino,Cancún,16100.0,2022-05-29,10,38,1,5,10493.93,365,Hogar y Muebles,Meta Ads,15,3,1,2,8.6,0,2012.17,0
+CL-01323,18,Masculino,Puebla,28000.0,2023-06-30,14,41,4,4,6565.71,24,Electrónica,Google Ads,4,2,1,4,18.2,4,2039.42,0
+CL-01324,53,Masculino,Ciudad de México,18200.0,2021-03-24,1,1,0,0,0.0,,Moda,Google Ads,7,2,0,0,0.0,0,,0
+CL-01325,35,Masculino,Ciudad de México,16200.0,2022-07-23,8,45,4,4,3872.01,63,Deportes,Email,12,7,6,1,14.1,2,983.3,0
+CL-01326,23,Masculino,Toluca,26900.0,2026-06-08,4,6,0,1,2986.78,90,Electrodomésticos,Orgánico,12,5,0,0,0.0,0,2986.78,0
+CL-01327,27,Femenino,León,8800.0,2023-03-22,4,5,0,5,1589.84,29,Moda,Email,18,7,3,3,28.9,0,367.6,1
+CL-01328,47,Masculino,Cancún,36600.0,2021-10-20,5,11,0,10,8508.61,56,Belleza,Google Ads,3,2,0,1,18.8,0,678.71,0
+CL-01329,20,Femenino,Ciudad de México,44300.0,2026-06-25,5,19,2,1,3752.73,91,Electrónica,Orgánico,0,0,0,0,0.0,1,3752.73,0
+CL-01330,38,Masculino,Oaxaca,8000.0,2023-12-21,8,16,2,2,1737.13,15,Celulares,Google Ads,12,8,6,2,22.1,2,909.63,1
+CL-01331,44,Femenino,Tijuana,22400.0,2021-12-23,12,26,0,6,11801.69,184,Hogar y Muebles,Google Ads,7,3,1,2,11.7,0,2156.41,0
+CL-01332,28,Masculino,Toluca,11200.0,2022-08-18,1,2,0,1,243.67,222,Moda,Orgánico,2,0,0,0,0.0,0,243.67,0
+CL-01333,41,Femenino,Ciudad de México,19100.0,2024-04-08,3,7,0,4,3263.91,25,Deportes,Referido,11,3,0,1,17.0,0,799.21,1
+CL-01334,32,Femenino,Ciudad de México,16000.0,2026-08-10,18,75,4,1,896.62,41,Hogar y Muebles,Orgánico,3,0,0,0,0.0,2,896.62,0
+CL-01335,47,Masculino,Tijuana,8000.0,2026-01-22,2,7,1,6,5079.11,77,Electrónica,Directo,5,2,2,5,19.8,0,455.25,0
+CL-01336,33,Femenino,Ciudad de México,27900.0,2026-09-13,8,23,1,0,0.0,,Juguetes,Orgánico,6,3,0,0,0.0,0,,0
+CL-01337,29,Masculino,Mérida,14000.0,2026-06-22,4,9,0,2,1074.86,66,Deportes,Orgánico,6,3,1,0,0.0,0,497.85,0
+CL-01338,21,Femenino,Chihuahua,16000.0,2026-06-04,3,7,0,1,820.24,53,Hogar y Muebles,Google Ads,15,11,3,1,11.4,0,820.24,0
+CL-01339,31,Femenino,Chihuahua,43400.0,2024-05-31,38,96,6,18,82732.63,96,Electrodomésticos,Orgánico,7,6,2,4,13.4,1,9148.52,0
+CL-01340,47,Masculino,Guadalajara,12900.0,2022-03-21,5,5,1,2,3476.39,27,Hogar y Muebles,Referido,15,9,1,2,14.1,0,1168.28,1
+CL-01341,34,Masculino,Guadalajara,13600.0,2024-07-22,14,44,1,10,13861.72,4,Hogar y Muebles,Directo,30,9,4,8,14.8,1,1065.86,1
+CL-01342,45,Femenino,Ciudad de México,34600.0,2022-05-08,7,44,0,22,70979.46,24,Electrodomésticos,Orgánico,7,4,0,4,8.3,0,3109.02,0
+CL-01343,18,Femenino,Guadalajara,12300.0,2025-11-20,1,7,1,0,0.0,,Belleza,Google Ads,1,1,0,0,0.0,1,,0
+CL-01344,27,Masculino,Guadalajara,19200.0,2024-11-14,21,126,9,0,0.0,,Celulares,Directo,14,8,5,0,0.0,5,,0
+CL-01345,18,Masculino,Ciudad de México,14200.0,2024-10-18,1,1,0,2,2594.71,339,Celulares,WhatsApp,8,1,1,0,0.0,0,1179.11,0
+CL-01346,18,Femenino,Chihuahua,18500.0,2026-06-27,17,65,1,0,0.0,,Moda,Meta Ads,14,5,0,0,0.0,0,,0
+CL-01347,21,Masculino,Puebla,17900.0,2025-10-11,19,105,2,2,1340.21,84,Deportes,WhatsApp,7,2,1,0,0.0,1,677.4,0
+CL-01348,41,Masculino,Querétaro,14700.0,2022-02-26,13,26,0,8,11576.01,21,Electrodomésticos,WhatsApp,16,2,2,8,28.7,0,2275.11,1
+CL-01349,29,Femenino,Guadalajara,6900.0,2022-09-22,1,4,0,5,4576.93,18,Celulares,Google Ads,18,7,6,3,25.3,0,1607.64,0
+CL-01350,28,Femenino,Veracruz,16600.0,2024-09-01,29,164,8,3,4119.92,174,Electrodomésticos,Google Ads,17,7,2,0,0.0,6,1381.03,0
+CL-01351,23,Masculino,Veracruz,8100.0,2021-10-25,13,46,0,2,2656.02,10,Electrónica,Orgánico,14,6,3,1,17.3,0,1730.84,1
+CL-01352,33,Masculino,Monterrey,13600.0,2022-08-15,5,16,1,10,4489.08,32,Juguetes,Email,12,3,1,8,26.7,0,238.17,0
+CL-01353,33,Masculino,Querétaro,13800.0,2026-03-29,16,54,2,1,640.87,96,Celulares,Meta Ads,12,4,1,0,0.0,2,640.87,0
+CL-01354,45,Masculino,Ciudad de México,21300.0,2025-04-23,8,32,0,9,7236.24,45,Deportes,Meta Ads,6,2,0,7,19.5,0,787.4,0
+CL-01355,21,Masculino,Veracruz,10700.0,2023-01-30,2,4,2,11,10823.96,106,Celulares,Google Ads,9,4,2,8,17.1,1,904.05,0
+CL-01356,26,Masculino,San Luis Potosí,12400.0,2021-10-18,2,7,1,3,1816.15,204,Moda,Referido,3,0,0,1,11.9,1,550.9,0
+CL-01357,23,Masculino,Puebla,13600.0,2023-10-01,41,136,16,1,751.61,73,Deportes,Orgánico,13,8,5,0,0.0,14,751.61,0
+CL-01358,24,Femenino,Guadalajara,14700.0,2026-02-04,33,140,14,1,1029.54,43,Hogar y Muebles,Google Ads,14,3,1,0,0.0,10,1029.54,0
+CL-01359,54,Femenino,Guadalajara,21600.0,2024-12-08,1,2,0,0,0.0,,Juguetes,Google Ads,4,1,0,0,0.0,0,,0
+CL-01360,44,Masculino,Tijuana,15000.0,2022-07-11,2,2,0,3,2838.61,335,Electrónica,Meta Ads,4,1,0,0,0.0,0,1204.89,0
+CL-01361,50,Femenino,Aguascalientes,20100.0,2023-08-11,1,4,0,2,4426.37,154,Hogar y Muebles,Google Ads,3,1,0,0,0.0,0,2398.56,0
+CL-01362,18,Masculino,Veracruz,10800.0,2026-07-17,4,9,2,0,0.0,,Celulares,Google Ads,7,5,0,0,0.0,2,,0
+CL-01363,47,Masculino,Monterrey,41800.0,2020-01-16,19,72,0,12,25024.33,1,Celulares,Google Ads,5,4,1,2,6.8,0,2166.99,0
+CL-01364,22,Femenino,Mérida,21300.0,2023-10-02,2,5,1,3,2046.77,125,Moda,Meta Ads,3,2,0,2,12.4,0,455.35,0
+CL-01365,40,Femenino,Cancún,15500.0,2026-09-03,4,10,0,0,0.0,,Juguetes,Directo,11,4,1,0,0.0,0,,0
+CL-01366,37,Femenino,Ciudad de México,25600.0,2024-08-13,5,13,0,0,0.0,,Hogar y Muebles,Orgánico,10,2,0,0,0.0,0,,0
+CL-01367,55,Masculino,Monterrey,8300.0,2025-06-23,14,64,2,2,931.4,163,Belleza,Google Ads,13,7,6,1,19.6,1,286.49,0
+CL-01368,32,Masculino,Ciudad de México,11100.0,2024-05-11,2,8,0,6,4676.81,117,Celulares,WhatsApp,16,11,4,5,24.8,0,1449.55,0
+CL-01369,27,Femenino,San Luis Potosí,19600.0,2023-12-19,9,12,0,7,10891.03,104,Celulares,Email,7,4,1,2,19.0,0,1011.87,0
+CL-01370,35,Masculino,Monterrey,19100.0,2022-05-04,9,37,3,11,8889.0,137,Moda,Email,15,7,4,9,27.5,1,395.25,0
+CL-01371,26,Femenino,Ciudad de México,32800.0,2023-06-09,3,8,0,6,6910.27,37,Belleza,Directo,14,10,1,1,13.8,0,833.56,0
+CL-01372,52,Masculino,San Luis Potosí,26200.0,2022-02-01,1,1,0,1,975.07,194,Celulares,Email,3,1,0,0,0.0,0,975.07,0
+CL-01373,36,Femenino,Guadalajara,6000.0,2024-09-11,2,3,0,7,2974.99,38,Moda,Referido,9,3,3,6,20.8,0,310.32,0
+CL-01374,28,Masculino,Puebla,29300.0,2026-08-12,11,23,2,1,1167.29,34,Electrodomésticos,Google Ads,7,2,0,0,0.0,0,1167.29,0
+CL-01375,34,Femenino,Veracruz,11400.0,2023-07-16,32,173,6,0,0.0,,Belleza,Google Ads,15,2,0,0,0.0,4,,0
+CL-01376,65,Masculino,Toluca,13700.0,2020-08-27,1,1,0,0,0.0,,Moda,Google Ads,7,1,0,0,0.0,0,,0
+CL-01377,33,Femenino,Querétaro,12000.0,2026-06-25,6,11,1,3,3978.63,14,Electrónica,Google Ads,10,4,2,1,12.1,1,914.46,1
+CL-01378,60,No especificado,Veracruz,13900.0,2024-05-10,2,2,0,1,594.06,347,Celulares,Email,0,0,0,1,7.4,0,594.06,0
+CL-01379,30,Masculino,San Luis Potosí,10600.0,2023-12-14,6,18,1,5,5832.44,2,Celulares,Google Ads,6,2,2,2,14.5,0,628.83,1
+CL-01380,50,Femenino,Oaxaca,26300.0,2020-11-20,24,106,6,1,3373.33,129,Electrónica,Referido,14,2,1,0,0.0,2,3373.33,0
+CL-01381,30,Femenino,León,11400.0,2026-02-14,20,42,1,1,1009.95,150,Belleza,Google Ads,14,6,3,0,0.0,0,1009.95,0
+CL-01382,23,Masculino,Monterrey,49200.0,2022-06-19,0,0,0,0,0.0,,Hogar y Muebles,Orgánico,4,1,0,0,0.0,0,,0
+CL-01383,53,Femenino,Monterrey,23600.0,2022-02-04,10,44,2,6,9484.15,26,Moda,Orgánico,6,1,1,3,12.2,1,1842.86,1
+CL-01384,42,Masculino,San Luis Potosí,12800.0,2025-05-24,2,3,0,11,11440.38,26,Celulares,Google Ads,0,0,0,6,27.6,0,1225.91,0
+CL-01385,19,Femenino,Monterrey,23100.0,2024-09-22,30,232,6,1,1454.4,252,Electrónica,Google Ads,19,11,1,0,0.0,4,1454.4,0
+CL-01386,45,Femenino,León,20000.0,2024-10-22,2,13,2,1,1731.52,145,Moda,Directo,12,4,1,0,0.0,1,1731.52,0
+CL-01387,29,Femenino,Veracruz,11500.0,2024-07-17,8,19,1,9,3536.63,58,Belleza,Meta Ads,8,5,4,6,23.6,1,410.21,0
+CL-01388,55,Masculino,Veracruz,14900.0,2024-07-06,2,4,0,0,0.0,,Electrónica,WhatsApp,1,0,0,0,0.0,0,,0
+CL-01389,34,Femenino,Toluca,17500.0,2025-01-25,15,45,0,4,3844.91,33,Deportes,Directo,0,0,0,2,19.3,0,630.89,0
+CL-01390,23,Masculino,Oaxaca,8800.0,2026-07-11,9,24,0,1,485.06,38,Moda,Google Ads,18,13,8,0,0.0,0,485.06,0
+CL-01391,22,Masculino,San Luis Potosí,7400.0,2021-10-15,4,17,1,7,2883.69,11,Moda,Email,9,5,4,5,25.1,1,460.23,1
+CL-01392,48,Femenino,Monterrey,13200.0,2020-06-26,2,2,0,1,617.69,343,Moda,Meta Ads,4,0,0,0,0.0,0,617.69,0
+CL-01393,43,Femenino,Monterrey,44100.0,2023-04-22,24,46,2,6,9672.94,1,Belleza,Orgánico,15,10,2,0,0.0,1,1147.54,0
+CL-01394,41,Femenino,Puebla,16600.0,2022-04-07,3,8,0,7,7334.72,95,Hogar y Muebles,Google Ads,10,4,2,5,21.9,0,1254.29,0
+CL-01395,46,Masculino,Puebla,23100.0,2021-09-25,6,28,1,5,5283.23,81,Belleza,Email,7,1,0,2,12.1,1,1502.17,0
+CL-01396,63,Masculino,Toluca,14200.0,2024-05-28,2,4,0,1,1377.77,209,Electrodomésticos,Orgánico,6,1,0,0,0.0,0,1377.77,0
+CL-01397,41,Masculino,Oaxaca,7700.0,2023-10-01,8,55,0,4,1296.14,223,Juguetes,Google Ads,21,5,5,3,12.4,0,217.8,0
+CL-01398,27,Femenino,Ciudad de México,22600.0,2020-02-03,2,4,0,0,0.0,,Moda,Google Ads,4,1,0,0,0.0,0,,0
+CL-01399,33,Femenino,Toluca,8700.0,2026-08-30,16,64,3,0,0.0,,Moda,Orgánico,5,3,1,0,0.0,2,,0
+CL-01400,47,Femenino,Guadalajara,10700.0,2022-12-29,3,5,0,1,353.16,360,Belleza,Google Ads,5,0,0,0,0.0,0,353.16,0
+CL-01401,49,Femenino,Ciudad de México,32400.0,2020-01-10,1,3,0,2,3101.71,221,Hogar y Muebles,Google Ads,3,1,0,1,12.3,0,715.84,0
+CL-01402,61,Femenino,Cancún,7200.0,2021-10-16,0,0,0,3,1103.69,343,Moda,Orgánico,1,0,0,2,5.0,0,783.16,0
+CL-01403,36,No especificado,Puebla,17800.0,2024-11-03,2,3,0,1,657.06,277,Belleza,Google Ads,3,0,0,0,0.0,0,657.06,0
+CL-01404,41,Masculino,León,40700.0,2020-07-21,10,59,2,25,79887.07,21,Electrodomésticos,Meta Ads,2,0,0,1,10.4,0,2180.5,0
+CL-01405,29,Masculino,Ciudad de México,18600.0,2023-09-17,47,217,8,4,3305.65,65,Juguetes,Meta Ads,16,8,1,1,17.1,7,473.55,0
+CL-01406,50,Masculino,Ciudad de México,59500.0,2024-02-08,15,25,0,34,161173.84,16,Hogar y Muebles,Google Ads,15,6,1,2,9.1,0,7303.85,1
+CL-01407,24,Femenino,Guadalajara,13300.0,2024-05-30,6,14,1,6,2757.79,147,Moda,Google Ads,10,4,2,6,29.2,1,458.13,0
+CL-01408,42,No especificado,Mérida,22900.0,2024-03-31,6,14,0,10,7394.12,13,Belleza,Google Ads,6,5,2,8,31.9,0,437.03,1
+CL-01409,23,Femenino,Veracruz,15300.0,2026-05-04,49,188,14,0,0.0,,Juguetes,Email,11,5,0,0,0.0,13,,0
+CL-01410,37,Femenino,Monterrey,24900.0,2025-07-16,29,110,5,1,1560.83,189,Hogar y Muebles,Meta Ads,0,0,0,0,0.0,4,1560.83,0
+CL-01411,18,Masculino,Mérida,9600.0,2023-03-27,13,31,1,13,12732.3,2,Celulares,Referido,4,3,0,7,23.1,0,784.03,0
+CL-01412,27,Femenino,Ciudad de México,33900.0,2025-06-06,4,10,2,3,1980.87,23,Belleza,Orgánico,12,7,1,1,21.8,1,1005.18,1
+CL-01413,27,Femenino,Ciudad de México,27900.0,2024-10-11,34,157,10,18,14864.51,45,Belleza,Orgánico,9,7,3,1,12.1,6,393.47,0
+CL-01414,35,Masculino,Mérida,20100.0,2025-08-03,9,44,2,3,7760.53,95,Hogar y Muebles,Meta Ads,11,6,1,1,12.1,1,1261.7,0
+CL-01415,37,Femenino,San Luis Potosí,16300.0,2026-09-14,16,36,2,0,0.0,,Electrónica,Email,3,1,1,0,0.0,2,,0
+CL-01416,40,Femenino,Cancún,19900.0,2024-12-15,5,7,1,6,14198.82,35,Hogar y Muebles,Email,17,8,4,5,22.5,1,2448.27,0
+CL-01417,29,Femenino,Monterrey,16600.0,2024-09-15,62,155,4,1,1146.61,188,Celulares,Google Ads,8,3,2,0,0.0,3,1146.61,0
+CL-01418,36,Femenino,Ciudad de México,25000.0,2025-05-04,56,82,6,3,4251.26,32,Electrodomésticos,Google Ads,19,0,0,1,14.1,6,1010.2,0
+CL-01419,35,Femenino,Oaxaca,14000.0,2022-04-28,5,18,0,5,3348.29,36,Moda,Orgánico,12,3,0,1,5.5,0,540.13,0
+CL-01420,49,Femenino,Ciudad de México,67800.0,2022-01-15,60,125,1,8,23937.39,28,Electrónica,Referido,6,5,1,1,10.0,1,5135.83,0
+CL-01421,37,Femenino,Aguascalientes,54700.0,2022-03-25,14,95,3,39,158231.01,45,Hogar y Muebles,Meta Ads,4,4,0,3,11.3,0,4493.15,0
+CL-01422,24,Femenino,Puebla,15700.0,2024-06-18,72,188,6,0,0.0,,Celulares,Google Ads,9,2,2,0,0.0,4,,0
+CL-01423,44,Femenino,Puebla,10800.0,2021-02-16,2,5,0,1,287.45,345,Juguetes,Meta Ads,3,0,0,0,0.0,0,287.45,0
+CL-01424,45,Femenino,Chihuahua,43900.0,2025-10-17,6,11,0,9,10341.32,161,Moda,Google Ads,14,6,3,2,7.5,0,1166.46,0
+CL-01425,25,Femenino,León,19200.0,2026-08-08,10,14,0,0,0.0,,Celulares,Google Ads,12,6,2,0,0.0,0,,0
+CL-01426,31,Masculino,Ciudad de México,18800.0,2025-11-22,3,14,1,4,2668.82,1,Moda,Email,2,0,0,0,0.0,0,830.05,0
+CL-01427,63,Femenino,Aguascalientes,7000.0,2021-05-03,1,1,0,3,3527.37,336,Hogar y Muebles,Directo,4,0,0,1,11.0,0,707.58,0
+CL-01428,25,Femenino,Chihuahua,19200.0,2023-11-09,12,48,2,5,7748.33,37,Hogar y Muebles,Meta Ads,11,2,0,0,0.0,1,1919.4,0
+CL-01429,24,Femenino,Puebla,20800.0,2024-01-14,4,5,1,4,6493.56,85,Electrodomésticos,Referido,6,2,0,1,17.2,0,1701.33,0
+CL-01430,44,Femenino,Monterrey,29700.0,2022-02-12,1,3,0,3,7444.63,21,Electrodomésticos,Google Ads,17,8,0,0,0.0,0,1099.72,0
+CL-01431,52,Masculino,Tijuana,31400.0,2022-03-30,15,124,2,5,13786.97,8,Electrodomésticos,Email,9,4,2,1,8.1,0,2727.51,1
+CL-01432,31,Masculino,Mérida,21100.0,2022-08-19,10,50,3,7,6110.05,4,Deportes,Google Ads,3,0,0,1,14.7,1,462.03,0
+CL-01433,38,Masculino,Monterrey,15800.0,2022-07-27,1,1,0,2,2884.33,189,Electrónica,Directo,3,0,0,0,0.0,0,1488.03,0
+CL-01434,38,Femenino,Querétaro,14800.0,2022-04-27,17,26,0,5,4009.62,115,Celulares,Google Ads,17,7,1,2,31.0,0,1031.55,0
+CL-01435,44,Femenino,Mérida,31800.0,2020-11-12,14,18,0,9,31302.73,36,Hogar y Muebles,Orgánico,6,5,2,1,11.7,0,3826.64,0
+CL-01436,30,Femenino,Cancún,9200.0,2024-05-20,11,32,0,8,3176.19,7,Juguetes,Email,6,4,0,6,18.2,0,479.78,1
+CL-01437,27,Femenino,Monterrey,17100.0,2025-11-15,10,52,5,1,672.68,73,Electrodomésticos,Orgánico,17,11,4,1,17.0,4,672.68,0
+CL-01438,58,Masculino,Guadalajara,27300.0,2020-06-15,13,80,1,12,32165.74,14,Celulares,Orgánico,5,3,2,1,7.7,0,1948.83,0
+CL-01439,29,Femenino,Ciudad de México,17000.0,2023-10-20,23,208,8,0,0.0,,Juguetes,Referido,4,4,1,0,0.0,5,,0
+CL-01440,27,Masculino,Puebla,11100.0,2021-11-05,2,5,0,12,15150.7,16,Electrónica,WhatsApp,13,12,7,10,26.6,0,959.2,1
+CL-01441,41,Femenino,Ciudad de México,42700.0,2023-12-15,1,6,0,21,76539.68,1,Hogar y Muebles,Directo,14,6,3,5,7.5,0,3981.31,0
+CL-01442,36,Femenino,Ciudad de México,49000.0,2023-08-24,11,34,0,14,21431.5,21,Belleza,Google Ads,9,7,2,3,10.8,0,2102.87,1
+CL-01443,51,Femenino,Veracruz,24400.0,2022-09-22,10,43,1,16,39230.31,4,Hogar y Muebles,Meta Ads,11,11,0,1,8.6,0,2743.82,1
+CL-01444,35,Femenino,Monterrey,32900.0,2024-03-18,6,11,0,3,2910.51,158,Moda,Email,4,2,0,0,0.0,0,1786.74,0
+CL-01445,34,Masculino,Ciudad de México,13000.0,2024-07-14,0,0,0,2,2608.63,235,Electrónica,Google Ads,5,0,0,0,0.0,0,1253.62,0
+CL-01446,23,Masculino,Puebla,14400.0,2026-08-17,8,12,1,1,1437.26,41,Electrodomésticos,Meta Ads,5,3,1,0,0.0,0,1437.26,0
+CL-01447,47,Femenino,Puebla,14600.0,2022-01-10,3,19,2,3,2381.94,45,Moda,Google Ads,12,6,3,0,0.0,1,373.54,0
+CL-01448,19,Masculino,Ciudad de México,17300.0,2026-06-25,9,20,0,4,8063.16,87,Electrónica,Google Ads,6,3,2,3,10.8,0,1584.1,0
+CL-01449,47,Masculino,León,21200.0,2021-12-26,8,16,1,1,1570.68,34,Electrónica,Directo,7,0,0,1,10.3,1,1570.68,0
+CL-01450,41,Femenino,Puebla,10100.0,2020-10-07,1,1,0,5,6332.44,238,Hogar y Muebles,Meta Ads,3,0,0,2,24.3,0,1323.88,0
+CL-01451,38,Femenino,Querétaro,23300.0,2025-01-16,46,175,7,2,1724.71,278,Juguetes,Meta Ads,7,3,1,1,14.5,7,492.43,0
+CL-01452,32,Masculino,Monterrey,14800.0,2024-08-24,2,2,0,0,0.0,,Electrónica,Orgánico,0,0,0,0,0.0,0,,0
+CL-01453,28,Femenino,Ciudad de México,20000.0,2023-07-04,31,88,11,0,0.0,,Moda,Directo,0,0,0,0,0.0,6,,0
+CL-01454,39,Masculino,León,13700.0,2023-01-05,1,6,0,4,4011.72,158,Celulares,WhatsApp,16,9,5,3,22.6,0,942.19,0
+CL-01455,41,Femenino,Oaxaca,41800.0,2021-07-22,4,23,0,20,63965.22,31,Hogar y Muebles,Directo,10,6,0,3,10.0,0,2332.16,0
+CL-01456,35,Femenino,Guadalajara,26300.0,2022-08-06,2,2,0,4,3928.06,13,Juguetes,Referido,17,11,3,0,0.0,0,802.63,1
+CL-01457,33,Femenino,Ciudad de México,20600.0,2025-11-23,20,72,3,1,539.61,273,Moda,Google Ads,2,1,0,0,0.0,3,539.61,0
+CL-01458,44,Femenino,Guadalajara,25200.0,2020-11-22,0,0,0,2,3822.69,253,Electrodomésticos,Email,2,0,0,0,0.0,0,1702.24,0
+CL-01459,23,Femenino,Puebla,15100.0,2024-01-27,14,106,5,2,1086.99,201,Moda,Google Ads,10,4,1,1,19.1,4,604.29,0
+CL-01460,40,Masculino,Toluca,17200.0,2022-01-09,11,55,1,11,19798.74,33,Electrónica,Directo,5,2,2,2,12.1,0,1216.35,0
+CL-01461,39,Masculino,Ciudad de México,19400.0,2026-06-29,23,90,3,0,0.0,,Belleza,Google Ads,6,0,0,0,0.0,2,,0
+CL-01462,50,Femenino,Monterrey,45400.0,2021-10-01,4,8,1,25,92670.99,44,Hogar y Muebles,Meta Ads,6,3,1,5,10.1,0,5490.17,0
+CL-01463,32,Femenino,Aguascalientes,11000.0,2022-07-16,0,0,0,1,929.44,349,Celulares,WhatsApp,4,3,1,0,0.0,0,929.44,0
+CL-01464,29,Femenino,Chihuahua,15000.0,2025-08-23,41,250,18,1,843.2,194,Belleza,Email,4,2,1,0,0.0,10,843.2,0
+CL-01465,42,Femenino,Ciudad de México,10600.0,2022-11-19,1,1,0,1,1532.33,210,Electrodomésticos,Google Ads,13,1,0,0,0.0,0,1532.33,0
+CL-01466,31,Femenino,Querétaro,47800.0,2023-03-14,10,42,0,7,11264.55,33,Moda,Email,3,3,1,1,5.0,0,4110.85,0
+CL-01467,52,Femenino,Ciudad de México,45600.0,2020-10-04,16,69,4,3,10505.46,5,Hogar y Muebles,Email,8,4,0,0,0.0,1,1533.59,0
+CL-01468,33,Masculino,Puebla,10300.0,2023-09-11,12,29,0,16,16420.59,4,Electrónica,Google Ads,3,0,0,14,17.3,0,1133.19,1
